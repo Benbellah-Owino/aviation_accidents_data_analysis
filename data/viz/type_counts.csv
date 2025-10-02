@@ -8,8 +8,8 @@
 6,DHC-6 Twin Otter 300,253
 7,Douglas Dakota III (DC-3),252
 8,Cessna 208B Grand Caravan,246
-9,Curtiss C-46D,195
-10,Douglas Dakota IV (DC-3),195
+9,Douglas Dakota IV (DC-3),195
+10,Curtiss C-46D,195
 11,Consolidated PBY-5A Catalina,194
 12,Antonov An-2,169
 13,Consolidated PBY-5 Catalina,164
@@ -19,13 +19,13 @@
 17,Lockheed 18 Lodestar,126
 18,Douglas DC-3,118
 19,Boeing 727,113
-20,Yakovlev Yak-40,109
-21,Lisunov PS-84,109
+20,Lisunov PS-84,109
+21,Yakovlev Yak-40,109
 22,Curtiss C-46F,102
-23,Douglas C-54A (DC-4),101
-24,Antonov An-2T,101
-25,Consolidated C-87,98
-26,DHC-3 Otter,98
+23,Antonov An-2T,101
+24,Douglas C-54A (DC-4),101
+25,DHC-3 Otter,98
+26,Consolidated C-87,98
 27,Learjet 35A,89
 28,Douglas DC-3C,83
 29,Cessna 208 Caravan I,82
@@ -37,43 +37,43 @@
 35,Hawker Siddeley HS-748,71
 36,Antonov An-24RV,70
 37,DC-9-32,67
-38,Antonov An-12BP,65
-39,Fairchild C-119G Flying Boxcar,65
-40,Vickers Valetta C.1,64
-41,Antonov An-2TP,64
+38,Fairchild C-119G Flying Boxcar,65
+39,Antonov An-12BP,65
+40,Antonov An-2TP,64
+41,Vickers Valetta C.1,64
 42,Douglas DC-6B,63
 43,BN-2A Islander,62
 44,Antonov An-12,61
 45,Let L-410UVP,60
-46,Antonov An-12B,60
-47,Antonov An-24B,60
-48,Curtiss C-46,59
-49,Cessna 208B Super Cargomaster,59
+46,Antonov An-24B,60
+47,Antonov An-12B,60
+48,Cessna 208B Super Cargomaster,59
+49,Curtiss C-46,59
 50,Douglas DC-3A,58
 51,Beech A100 King Air,58
 52,DHC-6 Twin Otter 200,57
-53,Boeing KC-135A,56
-54,Fairchild C-82A Packet,56
-55,Douglas R4D-5 (DC-3),54
+53,Fairchild C-82A Packet,56
+54,Boeing KC-135A,56
+55,BN-2A-21 Islander,54
 56,Douglas C-54D (DC-4),54
-57,BN-2A-21 Islander,54
+57,Douglas R4D-5 (DC-3),54
 58,Fokker F-27 Friendship 200,53
 59,Douglas DC-6,53
-60,Cessna 500 Citation I,52
-61,Ilyushin Il-18V,52
-62,Douglas DC-4,52
+60,Ilyushin Il-18V,52
+61,Douglas DC-4,52
+62,Cessna 500 Citation I,52
 63,DHC-6 Twin Otter 100,51
-64,Fokker F-27 Friendship 600,51
-65,Lockheed C-60A Lodestar,51
-66,Fairchild C-119C Flying Boxcar,50
-67,Amiot AAC.1 (Ju-52),50
+64,Lockheed C-60A Lodestar,51
+65,Fokker F-27 Friendship 600,51
+66,Amiot AAC.1 (Ju-52),50
+67,Fairchild C-119C Flying Boxcar,50
 68,Fairchild SA227-AC Metro III,49
-69,Beech B200 Super King Air,48
-70,Embraer EMB-110P1 Bandeirante,48
+69,Embraer EMB-110P1 Bandeirante,48
+70,Beech B200 Super King Air,48
 71,Consolidated C-109,47
 72,Fairchild C-123K Provider,46
-73,Antonov An-24V,45
-74,Ilyushin Il-76TD,45
+73,Ilyushin Il-76TD,45
+74,Antonov An-24V,45
 75,Douglas C-54B (DC-4),45
 76,Junkers Ju-52/3mge,44
 77,Douglas C-124C Globemaster II,43
@@ -81,3093 +81,3093 @@
 79,BN-2A-26 Islander,43
 80,Lockheed C-130B Hercules,42
 81,Fokker 100,41
-82,Tupolev Tu-134A,41
-83,Beech 1900D,41
+82,Beech 1900D,41
+83,Tupolev Tu-134A,41
 84,Lockheed C-130A Hercules,40
 85,Fairchild C-123B Provider,39
-86,Antonov An-32B,38
-87,Lockheed L-100-30 Hercules,38
+86,Lockheed L-100-30 Hercules,38
+87,Antonov An-32B,38
 88,Antonov An-32,37
 89,Antonov An-28,36
 90,Antonov An-26B,36
-91,DC-9-31,35
-92,DHC-4A Caribou,35
-93,CASA C-212 Aviocar 200,35
+91,CASA C-212 Aviocar 200,35
+92,DC-9-31,35
+93,DHC-4A Caribou,35
 94,U-1A Otter (DHC-3),34
-95,Convair CV-580,34
-96,Antonov An-2P,34
+95,Douglas C-53 Skytrooper (DC-3),34
+96,Convair CV-580,34
 97,Beech 99,34
-98,Douglas DC-4-1009,34
+98,Tupolev Tu-154M,34
 99,Tupolev Tu-134,34
-100,Tupolev Tu-154M,34
-101,Douglas C-53 Skytrooper (DC-3),34
+100,Douglas DC-4-1009,34
+101,Antonov An-2P,34
 102,Antonov An-12BK,33
-103,PBV-1A Canso A (PBY-5A),33
-104,DC-9,33
+103,DC-9,33
+104,Douglas R4D-1 (DC-3),33
 105,Fokker 50,33
-106,Douglas R4D-1 (DC-3),33
-107,Short Sunderland III,32
-108,Cessna 501 Citation I/SP,32
-109,DHC-8-402Q Dash 8,32
-110,Beech B200 King Air,32
+106,PBV-1A Canso A (PBY-5A),33
+107,DHC-8-402Q Dash 8,32
+108,Short Sunderland III,32
+109,Beech B200 King Air,32
+110,Cessna 501 Citation I/SP,32
 111,Tupolev Tu-154,31
 112,Short Sunderland GR.5,31
 113,Grumman G-159 Gulfstream I,31
-114,Ilyushin Il-12P,30
-115,Douglas C-47D,30
-116,Canadair CL-215,30
-117,Learjet 23,30
-118,Douglas C-54G (DC-4),30
-119,Short Sunderland I,30
-120,Fokker F-27 Friendship 400M,29
-121,Nord 2501 Noratlas,29
-122,Martin 4-0-4,29
-123,Douglas C-53-DO (DC-3),29
-124,Fokker F-28 Fellowship 4000,29
-125,Ilyushin Il-14P,28
-126,Fokker F-27 Friendship 100,28
-127,BN-2A-6 Islander,28
-128,Ilyushin Il-14,28
-129,Grumman G-73 Mallard,28
-130,DC-9-82 (MD-82),28
-131,BN-2A-8 Islander,27
-132,Lockheed L-049 Constellation,27
-133,Learjet 25B,27
-134,BN-2A-27 Islander,27
-135,Swearingen SA227-AC Metro III,27
+114,Short Sunderland I,30
+115,Douglas C-54G (DC-4),30
+116,Ilyushin Il-12P,30
+117,Canadair CL-215,30
+118,Learjet 23,30
+119,Douglas C-47D,30
+120,Martin 4-0-4,29
+121,Fokker F-28 Fellowship 4000,29
+122,Nord 2501 Noratlas,29
+123,Fokker F-27 Friendship 400M,29
+124,Douglas C-53-DO (DC-3),29
+125,DC-9-82 (MD-82),28
+126,Grumman G-73 Mallard,28
+127,Ilyushin Il-14,28
+128,Fokker F-27 Friendship 100,28
+129,BN-2A-6 Islander,28
+130,Ilyushin Il-14P,28
+131,Learjet 25B,27
+132,BN-2A-8 Islander,27
+133,Lockheed L-049 Constellation,27
+134,Swearingen SA227-AC Metro III,27
+135,BN-2A-27 Islander,27
 136,BAe-125-700A,27
-137,Ilyushin Il-14M,26
-138,Vickers Varsity T.1,26
-139,Fokker F-27 Friendship 500,26
-140,CASA/Nurtanio NC-212 Aviocar,26
+137,Ford 5-AT-C Tri-Motor,26
+138,Lockheed L-188A Electra,26
+139,Let L-410UVP-E,26
+140,Vickers Varsity T.1,26
 141,Fokker F-28 Fellowship 1000,26
-142,Ilyushin Il-76MD,26
-143,DC-8,26
-144,Airbus A320-232,26
-145,Let L-410UVP-E,26
-146,Airbus A320-214,26
-147,Lockheed L-188A Electra,26
-148,Lockheed P-2H Neptune,26
-149,Ford 5-AT-C Tri-Motor,26
-150,Dassault Falcon 20C,25
-151,Tupolev Tu-154B-2,25
-152,Boeing 737,25
-153,Lockheed L-1049H Super Constellation,25
-154,Douglas C-53D Skytrooper (DC-3),25
-155,Boeing 707,25
-156,Lockheed L-749A Constellation,24
-157,Ford 5-AT-B Tri-Motor,24
-158,Douglas DC-7C,24
-159,Lisunov Li-2T,24
-160,Ford 4-AT-B Tri-Motor,24
-161,Nord 2501D Noratlas,24
-162,Antonov An-24,24
-163,Fairchild F-27,23
-164,DHC-5D Buffalo,23
-165,Lockheed P2V-5 Neptune,23
-166,CASA 352 (Ju-52),23
-167,DHC-3T Vazar Turbine Otter,23
-168,SE-210 Caravelle III,23
-169,BN-2A-20 Islander,22
-170,Boeing 737-2A8,22
-171,Handley Page Hastings C.1,22
-172,Beech 1900C,22
-173,Boeing 737-200,22
-174,DC-9-83 (MD-83),22
+142,Airbus A320-214,26
+143,Ilyushin Il-14M,26
+144,Ilyushin Il-76MD,26
+145,Airbus A320-232,26
+146,Lockheed P-2H Neptune,26
+147,Fokker F-27 Friendship 500,26
+148,DC-8,26
+149,CASA/Nurtanio NC-212 Aviocar,26
+150,Tupolev Tu-154B-2,25
+151,Douglas C-53D Skytrooper (DC-3),25
+152,Lockheed L-1049H Super Constellation,25
+153,Dassault Falcon 20C,25
+154,Boeing 707,25
+155,Boeing 737,25
+156,Antonov An-24,24
+157,Douglas DC-7C,24
+158,Lockheed L-749A Constellation,24
+159,Ford 4-AT-B Tri-Motor,24
+160,Ford 5-AT-B Tri-Motor,24
+161,Lisunov Li-2T,24
+162,Nord 2501D Noratlas,24
+163,SE-210 Caravelle III,23
+164,Fairchild F-27,23
+165,CASA 352 (Ju-52),23
+166,DHC-3T Vazar Turbine Otter,23
+167,Lockheed P2V-5 Neptune,23
+168,DHC-5D Buffalo,23
+169,Ilyushin Il-12,22
+170,Beech 1900C,22
+171,BN-2A-20 Islander,22
+172,Handley Page Hastings C.1,22
+173,Douglas DC-6A,22
+174,Harbin Yunshuji Y-12 II,22
 175,Douglas R4D-6 (DC-3),22
-176,Harbin Yunshuji Y-12 II,22
-177,Ilyushin Il-12,22
-178,Douglas DC-6A,22
-179,Convair CV-880,21
-180,Dassault Falcon 10,21
-181,DC-10-30,21
-182,Convair CV-240-0,21
-183,Lisunov Li-2P,21
-184,Consolidated PBY-6A Catalina,21
-185,Vickers 610 Viking 1B,21
-186,Learjet 25D,21
-187,IAI Arava 201,21
+176,DC-9-83 (MD-83),22
+177,Boeing 737-2A8,22
+178,Boeing 737-200,22
+179,Learjet 25D,21
+180,DC-10-30,21
+181,Convair CV-880,21
+182,IAI Arava 201,21
+183,Embraer EMB-120RT Brasilia,21
+184,Vickers 610 Viking 1B,21
+185,Tupolev Tu-104B,21
+186,Consolidated PBY-6A Catalina,21
+187,Dassault Falcon 10,21
 188,Ilyushin Il-18D,21
-189,Tupolev Tu-104B,21
-190,Embraer EMB-120RT Brasilia,21
-191,HAL-748,20
-192,Airbus A321-231,20
-193,Lockheed L-1049G Super Constellation,20
-194,Douglas DC-7CF,20
-195,Ilyushin Il-18B,20
-196,Beech 100 King Air,20
-197,Grumman SA-16A Albatross,20
-198,Dornier 228-201,19
-199,Douglas C-118A (DC-6),19
-200,Beech 1900C-1,19
-201,Saab 340B,19
-202,Ilyushin Il-62M,19
-203,Douglas C-53 (DC-3),19
-204,Learjet 35,19
-205,Douglas C-124A Globemaster II,19
-206,Douglas DC-3D,19
-207,Consolidated Catalina,19
-208,Beech B100 King Air,19
-209,Convair CV-440,19
-210,Lockheed P-3A Orion,19
-211,Douglas AC-47D,19
-212,Antonov An-8,19
-213,Shorts 330-200,19
-214,ATR 72-212A (ATR 72-500),19
-215,Cessna F406 Caravan II,19
-216,Lockheed P-3C Orion,19
-217,MD-11F,18
-218,Fairchild FH-227B,18
-219,Douglas DC-6BF,18
-220,Lockheed 14-H2 Super Electra,18
-221,Beech C99,18
-222,Learjet 24D,18
+189,Convair CV-240-0,21
+190,Lisunov Li-2P,21
+191,Ilyushin Il-18B,20
+192,Douglas DC-7CF,20
+193,Airbus A321-231,20
+194,Beech 100 King Air,20
+195,Grumman SA-16A Albatross,20
+196,HAL-748,20
+197,Lockheed L-1049G Super Constellation,20
+198,Shorts 330-200,19
+199,Lockheed P-3C Orion,19
+200,Douglas C-124A Globemaster II,19
+201,Beech B100 King Air,19
+202,Douglas AC-47D,19
+203,Convair CV-440,19
+204,Ilyushin Il-62M,19
+205,Antonov An-8,19
+206,Cessna F406 Caravan II,19
+207,Dornier 228-201,19
+208,Douglas DC-3D,19
+209,Douglas C-118A (DC-6),19
+210,Consolidated Catalina,19
+211,Beech 1900C-1,19
+212,Learjet 35,19
+213,ATR 72-212A (ATR 72-500),19
+214,Lockheed P-3A Orion,19
+215,Saab 340B,19
+216,Douglas C-53 (DC-3),19
+217,Douglas DC-6BF,18
+218,Lockheed 14-H2 Super Electra,18
+219,Canadair CL-415,18
+220,Swearingen SA226-AT Merlin IV,18
+221,Douglas DC-7B,18
+222,Fairchild FH-227B,18
 223,SE-210 Caravelle VI-N,18
-224,Douglas DC-7B,18
-225,Canadair CL-415,18
-226,Consolidated PBY-2 Catalina,18
-227,DH.86 Express,18
-228,Swearingen SA226-AT Merlin IV,18
-229,Fokker F.10A,17
-230,Junkers Ju-52/3mg4e,17
-231,Saab 340A,17
-232,Boeing 707-321C,17
-233,Douglas C-54 (DC-4),17
-234,Douglas DC-2-112,17
-235,GAF Nomad N.22B,17
+224,Beech C99,18
+225,DH.86 Express,18
+226,Learjet 24D,18
+227,Consolidated PBY-2 Catalina,18
+228,MD-11F,18
+229,Douglas DC-2-112,17
+230,Tupolev Tu-134A-3,17
+231,Basler Turbo 67 (DC-3T),17
+232,Douglas C-54 (DC-4),17
+233,Beech 300 Super King Air,17
+234,Saab 340A,17
+235,Douglas VC-47D (DC-3),17
 236,Antonov An-2SX,17
-237,Beech 99A,17
-238,Beech 300 Super King Air,17
-239,Tupolev Tu-134A-3,17
-240,Douglas VC-47D (DC-3),17
-241,Vickers 745D Viscount,17
+237,Vickers 745D Viscount,17
+238,Beech 99A,17
+239,Cessna 525 CitationJet,17
+240,GAF Nomad N.22B,17
+241,Fokker F.10A,17
 242,ATR 42-320,17
 243,Douglas C-54E (DC-4),17
-244,Basler Turbo 67 (DC-3T),17
-245,Cessna 525 CitationJet,17
-246,Embraer EMB-120ER Brasilia,16
-247,Rockwell Sabreliner 60,16
-248,BN-2A-9 Islander,16
+244,Boeing 707-321C,17
+245,Junkers Ju-52/3mg4e,17
+246,Canadair CRJ-200ER,16
+247,Airbus A320-211,16
+248,C-7B Caribou (DHC-4),16
 249,Shorts SC.7 Skyvan 3-100,16
-250,Lockheed P2V-2 Neptune,16
-251,C-7B Caribou (DHC-4),16
-252,Boeing KC-97G Stratofreighter,16
-253,Canadair CRJ-200ER,16
-254,Lockheed L-100-20 Hercules,16
-255,DH-114 Heron 1B,16
-256,Cessna 208B Grand Caravan EX,16
-257,Airbus A320-211,16
-258,Short S.23 Empire Flying Boat Mk I,16
-259,Cessna 208B Supervan 900,15
-260,Douglas DC-7,15
-261,Lockheed P2V-7 Neptune,15
+250,Short S.23 Empire Flying Boat Mk I,16
+251,Boeing KC-97G Stratofreighter,16
+252,BN-2A-9 Islander,16
+253,Lockheed P2V-2 Neptune,16
+254,Embraer EMB-120ER Brasilia,16
+255,Lockheed L-100-20 Hercules,16
+256,Rockwell Sabreliner 60,16
+257,Cessna 208B Grand Caravan EX,16
+258,DH-114 Heron 1B,16
+259,Douglas C-53D-DO (DC-3),15
+260,DHC-6 Twin Otter 310,15
+261,Lockheed L-1011 TriStar,15
 262,Gulfstream G-IV,15
 263,BAe 3101 Jetstream 31,15
-264,Airbus A320-231,15
-265,Embraer Phenom 100,15
-266,DHC-6 Twin Otter 310,15
-267,Short Sunderland,15
-268,Tupolev Tu-104A,15
-269,Convair CV-990,15
-270,Lockheed L-1011 TriStar,15
-271,ATR 72-212A (ATR 72-600),15
-272,Boeing 737-8AS (WL),15
-273,BN-2A-3 Islander,15
-274,Douglas C-53D-DO (DC-3),15
-275,BN-2A Trislander Mk.III-2,14
-276,Fairchild C-119 Flying Boxcar,14
-277,Learjet 24,14
-278,Cessna S550 Citation S/II,14
-279,Embraer EMB-110C Bandeirante,14
-280,Lockheed C-60A-1-LO Lodestar,14
-281,Airbus A300B4-203,14
-282,Bristol 170 Freighter 21E,14
-283,BN-2 Islander,14
-284,DC-8-63CF,14
-285,Farman F.60 Goliath,14
-286,Yakovlev Yak-40K,14
-287,Rockwell Sabreliner 75A,14
-288,Learjet 55,14
-289,Lockheed P-3B Orion,14
-290,Antonov An-2V,14
-291,Dornier Do 28D-2 Skyservant,14
-292,Rockwell 1121 Jet Commander,14
-293,Shorts SC.7 Skyvan 3-200,14
-294,Antonov An-12TB,14
-295,Let L-410UVP-E3,13
-296,Douglas C-49J (DC-3),13
-297,Boeing 377 Stratocruiser,13
-298,Lockheed 14-WF62 Super Electra,13
-299,C-7A Caribou (DHC-4),13
-300,Bristol 170 Freighter 21,13
-301,GAF Nomad N.24A,13
-302,Boeing 747,13
-303,Lockheed L-188C Electra,13
-304,DHC-3T Texas Turbine Otter,13
-305,Beech 200C Super King Air,13
-306,ATR 42-300,13
-307,Antonov An-2M,13
-308,Cessna 560 Citation Encore,13
-309,IAI 1124A Westwind II,13
-310,Lockheed L-188AF Electra,13
-311,SE-210 Caravelle VI-R,13
-312,Tupolev Tu-124V,13
-313,Douglas VC-47A (DC-3),13
-314,Dornier Do 28D-1 Skyservant,13
-315,Cessna T-47A Citation II,13
-316,Learjet 60,13
-317,Avro 685 York I,12
-318,DC-8-61,12
-319,Short Sunderland MR.5,12
-320,Boeing 707-300,12
-321,Beech B300 King Air 350,12
-322,Sabreliner 40,12
-323,Boeing 737-4Y0,12
-324,Cessna 560 Citation V,12
-325,MD-88,12
-326,Lockheed C-141B Starlifter,12
-327,Ilyushin Il-76M,12
-328,Ford 4-AT-E Tri-Motor,12
-329,Curtiss C-46E,12
-330,Boeing 707-321B,12
-331,Martin 2-0-2,12
-332,DC-10-10,12
-333,MD-11,12
-334,Xian MA60,12
-335,Dornier 328-110,12
-336,BN-2B-26 Islander,12
-337,Ford 5-AT-D Tri-Motor,12
-338,Cessna 551 Citation II/SP,12
-339,Learjet 25,12
-340,ATR 42-500,11
-341,Embraer ERJ-190,11
-342,Avro Shackleton MR.2,11
-343,Let L-410UVP-E20,11
-344,IAI 1124 Westwind,11
-345,Douglas DC-2-115E,11
-346,Cessna 525A CitationJet CJ2,11
-347,Curtiss R5C-1 (C-46),11
-348,CV-2B Caribou (DHC-4),11
-349,Raytheon Beechjet 400A,11
-350,DH-106 Comet 4,11
-351,Lockheed WV-2 Super Constellation,11
-352,Learjet 36A,11
-353,SNCASE SE.161/P7 Languedoc,11
-354,Douglas R5D-3 (DC-4),11
-355,Airbus A310-304,11
-356,Shorts 360-300,11
-357,Boeing 707-323C,11
-358,PBV-1A Canso (PBY-5A),11
+264,Short Sunderland,15
+265,BN-2A-3 Islander,15
+266,Convair CV-990,15
+267,Embraer Phenom 100,15
+268,Douglas DC-7,15
+269,Tupolev Tu-104A,15
+270,Airbus A320-231,15
+271,Cessna 208B Supervan 900,15
+272,Lockheed P2V-7 Neptune,15
+273,Boeing 737-8AS (WL),15
+274,ATR 72-212A (ATR 72-600),15
+275,Cessna S550 Citation S/II,14
+276,Antonov An-12TB,14
+277,Lockheed P-3B Orion,14
+278,BN-2 Islander,14
+279,Rockwell 1121 Jet Commander,14
+280,Rockwell Sabreliner 75A,14
+281,Farman F.60 Goliath,14
+282,Learjet 55,14
+283,Shorts SC.7 Skyvan 3-200,14
+284,Fairchild C-119 Flying Boxcar,14
+285,Lockheed C-60A-1-LO Lodestar,14
+286,Learjet 24,14
+287,Antonov An-2V,14
+288,BN-2A Trislander Mk.III-2,14
+289,Dornier Do 28D-2 Skyservant,14
+290,Embraer EMB-110C Bandeirante,14
+291,Airbus A300B4-203,14
+292,Yakovlev Yak-40K,14
+293,DC-8-63CF,14
+294,Bristol 170 Freighter 21E,14
+295,Cessna 560 Citation Encore,13
+296,SE-210 Caravelle VI-R,13
+297,IAI 1124A Westwind II,13
+298,Douglas C-49J (DC-3),13
+299,Let L-410UVP-E3,13
+300,Tupolev Tu-124V,13
+301,Lockheed L-188AF Electra,13
+302,Beech 200C Super King Air,13
+303,DHC-3T Texas Turbine Otter,13
+304,Lockheed 14-WF62 Super Electra,13
+305,Dornier Do 28D-1 Skyservant,13
+306,Bristol 170 Freighter 21,13
+307,Learjet 60,13
+308,Douglas VC-47A (DC-3),13
+309,Lockheed L-188C Electra,13
+310,Boeing 747,13
+311,Boeing 377 Stratocruiser,13
+312,Cessna T-47A Citation II,13
+313,C-7A Caribou (DHC-4),13
+314,Antonov An-2M,13
+315,GAF Nomad N.24A,13
+316,ATR 42-300,13
+317,Martin 2-0-2,12
+318,Ilyushin Il-76M,12
+319,DC-8-61,12
+320,Beech B300 King Air 350,12
+321,MD-88,12
+322,Learjet 25,12
+323,BN-2B-26 Islander,12
+324,DC-10-10,12
+325,Ford 5-AT-D Tri-Motor,12
+326,MD-11,12
+327,Avro 685 York I,12
+328,Sabreliner 40,12
+329,Short Sunderland MR.5,12
+330,Dornier 328-110,12
+331,Cessna 560 Citation V,12
+332,Boeing 737-4Y0,12
+333,Lockheed C-141B Starlifter,12
+334,Boeing 707-321B,12
+335,Ford 4-AT-E Tri-Motor,12
+336,Xian MA60,12
+337,Curtiss C-46E,12
+338,Boeing 707-300,12
+339,Cessna 551 Citation II/SP,12
+340,Curtiss R5C-1 (C-46),11
+341,PBV-1A Canso (PBY-5A),11
+342,Douglas DC-2-115E,11
+343,CV-2B Caribou (DHC-4),11
+344,SNCASE SE.161/P7 Languedoc,11
+345,Shorts 360-300,11
+346,Lockheed WV-2 Super Constellation,11
+347,Learjet 36A,11
+348,Raytheon Beechjet 400A,11
+349,Let L-410UVP-E20,11
+350,Douglas R5D-3 (DC-4),11
+351,Embraer ERJ-190,11
+352,Boeing 707-323C,11
+353,Avro Shackleton MR.2,11
+354,Airbus A310-304,11
+355,IAI 1124 Westwind,11
+356,Cessna 525A CitationJet CJ2,11
+357,DH-106 Comet 4,11
+358,ATR 42-500,11
 359,Morane Saulnier MS.760 Paris I,11
-360,Consolidated C-10A Catalina (PBY-5A),10
-361,DHC-7-102,10
-362,Lockheed 14-H Super Electra,10
-363,Dornier 228-212,10
-364,Cessna 650 Citation III,10
+360,Morane Saulnier (FMA) MS.760 Paris I,10
+361,DC-9-15,10
+362,T-39A Sabreliner,10
+363,Handley Page Hastings C.2,10
+364,Consolidated C-10A Catalina (PBY-5A),10
 365,Fairchild C-119B Flying Boxcar,10
-366,Avro RJ100,10
-367,ATR 72-212,10
-368,Antonov An-26B-100,10
-369,DHC-6 Twin Otter,10
-370,Dassault Falcon 20F,10
-371,ATR 72-202,10
-372,Tupolev Tu-154B-1,10
-373,Cessna 560XL Citation Excel,10
-374,PB2B-1 Canso A (PBY-5A),10
-375,Vickers 806 Viscount,10
-376,Morane Saulnier (FMA) MS.760 Paris I,10
-377,Boeing B-17G,10
-378,DC-9-15,10
-379,BN-2A-7 Islander,10
-380,Handley Page Hastings C.2,10
-381,Gulfstream Aerospace G-1159A Gulfstream III,10
-382,T-39A Sabreliner,10
-383,Mitsubishi Mu-300 Diamond IA,10
-384,Beech Beechjet 400A,10
-385,Rockwell Sabreliner 65,10
-386,Antonov An-12A,10
-387,Ilyushin Il-62,10
-388,Scottish Aviation Twin Pioneer CC.1,10
-389,Douglas DC-2-120,9
-390,Vickers 802 Viscount,9
-391,PB2B-1 Catalina,9
-392,Douglas DC-6A/B,9
-393,Antonov An-10A,9
-394,Lockheed L-100 Hercules,9
+366,Lockheed 14-H Super Electra,10
+367,Beech Beechjet 400A,10
+368,Rockwell Sabreliner 65,10
+369,PB2B-1 Canso A (PBY-5A),10
+370,ATR 72-202,10
+371,Ilyushin Il-62,10
+372,Boeing B-17G,10
+373,Mitsubishi Mu-300 Diamond IA,10
+374,Cessna 560XL Citation Excel,10
+375,Cessna 650 Citation III,10
+376,Avro RJ100,10
+377,DHC-7-102,10
+378,Antonov An-26B-100,10
+379,Tupolev Tu-154B-1,10
+380,Gulfstream Aerospace G-1159A Gulfstream III,10
+381,Antonov An-12A,10
+382,Vickers 806 Viscount,10
+383,Scottish Aviation Twin Pioneer CC.1,10
+384,Dassault Falcon 20F,10
+385,Dornier 228-212,10
+386,BN-2A-7 Islander,10
+387,ATR 72-212,10
+388,DHC-6 Twin Otter,10
+389,Vickers 615 Viking 1B,9
+390,Bristol 170 Freighter 31M,9
+391,Vickers 802 Viscount,9
+392,Fairchild SA227-DC Metro 23,9
+393,Raytheon 390 Premier I,9
+394,BAe 3102 Jetstream 31,9
 395,Boeing 737-7H4 (WL),9
-396,Fairchild F-27A,9
-397,Vickers 785D Viscount,9
-398,Avro 691 Lancastrian C.1,9
-399,Boeing 720-023B,9
-400,Douglas DC-3-178,9
-401,Airbus A321-211,9
-402,DC-8-62,9
-403,Beech B99,9
-404,Shorts 360-100,9
-405,Lockheed L-1011 TriStar 1,9
-406,Scottish Aviation Twin Pioneer 1,9
-407,Lockheed L-1649A Starliner,9
-408,Vickers 615 Viking 1B,9
-409,Let L-410M,9
-410,Raytheon 390 Premier I,9
-411,Lockheed 18 Learstar I,9
-412,Fairchild SA227-DC Metro 23,9
-413,Canadair CRJ-200LR,9
-414,Curtiss C-46 Super C,9
-415,DHC-8-301,9
-416,BAe-125-800A,9
-417,Howard 350,9
-418,Boeing 737-4Q8,9
-419,Embraer EMB-145LR (ERJ-145LR),9
-420,Boeing 737-823 (WL),9
-421,Shorts SC.7 Skyvan 3M-400,9
-422,Let L-410UVP-E9,9
-423,Short S.25 Sunderland 3,9
-424,BAe 3102 Jetstream 31,9
-425,DH-106 Comet 4C,9
-426,Grumman C-2A Greyhound,9
-427,Learjet 25C,9
-428,Embraer EMB-110P Bandeirante,9
-429,Junkers Ju-52/3mte,9
-430,Martin PBM-5 Mariner,9
-431,Bristol 170 Freighter 31M,9
-432,Lockheed C-130 Hercules,9
-433,Embraer Phenom 300,8
-434,Lockheed P2V-3 Neptune,8
-435,Cessna 750 Citation X,8
-436,Airbus A300B4-622R,8
-437,Yakovlev Yak-42,8
-438,Boeing 737-222,8
-439,DH.86A Express,8
-440,DH-114 Heron 2D,8
-441,SNCASE SE.161 Languedoc,8
-442,Douglas DC-3-194B,8
-443,Learjet 24B,8
-444,Dassault Falcon 50,8
-445,Grumman HU-16E Albatross,8
-446,Douglas DC-8-54F,8
-447,Grumman G-1159 Gulfstream II,8
-448,Lockheed KC-130F Hercules,8
-449,Embraer EMB-110P2 Bandeirante,8
-450,Fokker F.XII,8
-451,Bristol 170 Freighter 31,8
-452,Tupolev Tu-134AK,8
-453,Boeing 747-121,8
-454,DC-9-81 (MD-81),8
-455,Grumman HU-16B Albatross,8
-456,Douglas C-33 (DC-2),8
-457,Boeing 727-59,8
-458,Douglas C-39 (DC-2),8
-459,MD-83,8
-460,Lockheed SP-2H Neptune,8
-461,Boeing 727-231,8
-462,Kaiser-Frazer C-119G Flying Boxcar,8
-463,Sud-Aviation SE-210 Caravelle,8
-464,Blackburn Beverley C.1,8
-465,Lockheed L-188CF Electra,8
-466,Airspeed AS.57 Ambassador 2,8
-467,Avro 691 Lancastrian C.3,8
-468,Convair CV-640,8
-469,AÃ©rospatiale SN.601 Corvette,8
-470,Convair CV-240-2,8
-471,Douglas Dakota I (DC-3),8
-472,Airbus A300B4-203 (F),8
-473,BAC One-Eleven,8
-474,Avia 14,8
-475,Hawker Siddeley HS-121 Trident 2E,8
-476,MBB HFB-320 Hansa Jet,8
-477,Douglas DC-2-243,8
-478,Tupolev Tu-154B,8
-479,ATL-98 Carvair,8
-480,Junkers Ju-52/3mg5e,8
-481,Canadair Challenger 601,8
-482,Vickers 701 Viscount,8
-483,Boeing 727-21,8
-484,Douglas DC-3 (Nakajima L2D),8
-485,Savoia-Marchetti SM-75,8
-486,Junkers Ju-52/3mg8e,8
-487,Airbus A319-111,8
-488,Howard Super Ventura,8
-489,Douglas DC-9-14,8
-490,Hawker Beech 390 Premier IA,7
-491,Eclipse 500,7
-492,Curtiss R5C-1 (C-46A),7
+396,Douglas DC-6A/B,9
+397,Howard 350,9
+398,Learjet 25C,9
+399,Canadair CRJ-200LR,9
+400,Shorts SC.7 Skyvan 3M-400,9
+401,Boeing 737-823 (WL),9
+402,Douglas DC-3-178,9
+403,Lockheed L-100 Hercules,9
+404,Short S.25 Sunderland 3,9
+405,Junkers Ju-52/3mte,9
+406,Let L-410UVP-E9,9
+407,DH-106 Comet 4C,9
+408,DHC-8-301,9
+409,Antonov An-10A,9
+410,Martin PBM-5 Mariner,9
+411,Fairchild F-27A,9
+412,Lockheed L-1011 TriStar 1,9
+413,Airbus A321-211,9
+414,PB2B-1 Catalina,9
+415,Avro 691 Lancastrian C.1,9
+416,Boeing 720-023B,9
+417,Embraer EMB-145LR (ERJ-145LR),9
+418,Douglas DC-2-120,9
+419,Shorts 360-100,9
+420,BAe-125-800A,9
+421,Grumman C-2A Greyhound,9
+422,Lockheed C-130 Hercules,9
+423,Boeing 737-4Q8,9
+424,Scottish Aviation Twin Pioneer 1,9
+425,Curtiss C-46 Super C,9
+426,DC-8-62,9
+427,Embraer EMB-110P Bandeirante,9
+428,Let L-410M,9
+429,Lockheed L-1649A Starliner,9
+430,Beech B99,9
+431,Lockheed 18 Learstar I,9
+432,Vickers 785D Viscount,9
+433,Douglas DC-8-54F,8
+434,Airbus A300B4-203 (F),8
+435,Airbus A300B4-622R,8
+436,Bristol 170 Freighter 31,8
+437,Hawker Siddeley HS-121 Trident 2E,8
+438,DC-9-81 (MD-81),8
+439,Embraer Phenom 300,8
+440,Junkers Ju-52/3mg8e,8
+441,Tupolev Tu-134AK,8
+442,Lockheed P2V-3 Neptune,8
+443,Lockheed L-188CF Electra,8
+444,MD-83,8
+445,Embraer EMB-110P2 Bandeirante,8
+446,Canadair Challenger 601,8
+447,MBB HFB-320 Hansa Jet,8
+448,SNCASE SE.161 Languedoc,8
+449,Douglas C-33 (DC-2),8
+450,Grumman G-1159 Gulfstream II,8
+451,Airspeed AS.57 Ambassador 2,8
+452,Sud-Aviation SE-210 Caravelle,8
+453,Grumman HU-16E Albatross,8
+454,Vickers 701 Viscount,8
+455,Lockheed SP-2H Neptune,8
+456,Airbus A319-111,8
+457,Boeing 727-21,8
+458,Junkers Ju-52/3mg5e,8
+459,Boeing 727-231,8
+460,Lockheed KC-130F Hercules,8
+461,ATL-98 Carvair,8
+462,Blackburn Beverley C.1,8
+463,Grumman HU-16B Albatross,8
+464,Savoia-Marchetti SM-75,8
+465,Boeing 747-121,8
+466,Avia 14,8
+467,Learjet 24B,8
+468,Avro 691 Lancastrian C.3,8
+469,Kaiser-Frazer C-119G Flying Boxcar,8
+470,Douglas DC-3 (Nakajima L2D),8
+471,DH-114 Heron 2D,8
+472,Douglas DC-2-243,8
+473,Boeing 727-59,8
+474,Tupolev Tu-154B,8
+475,Fokker F.XII,8
+476,AÃ©rospatiale SN.601 Corvette,8
+477,Douglas C-39 (DC-2),8
+478,Convair CV-240-2,8
+479,Douglas DC-3-194B,8
+480,Douglas DC-9-14,8
+481,Douglas Dakota I (DC-3),8
+482,BAC One-Eleven,8
+483,Boeing 737-222,8
+484,Howard Super Ventura,8
+485,DH.86A Express,8
+486,Yakovlev Yak-42,8
+487,Dassault Falcon 50,8
+488,Convair CV-640,8
+489,Cessna 750 Citation X,8
+490,Grumman SA-16B Albatross,7
+491,Vickers 757 Viscount,7
+492,Cessna 510 Citation Mustang,7
 493,Grumman HU-16A Albatross,7
-494,AMI DC-3-65TP,7
-495,Convair CV-440-11,7
-496,Honda HA-420 HondaJet,7
-497,DC-8-63F,7
-498,Handley Page Marathon T.2,7
-499,C-115 Buffalo (DHC-5),7
-500,DHC-8-102,7
-501,Douglas C-133A Cargomaster,7
-502,Boeing 747-237B,7
-503,Ford 4-AT-A Tri-Motor,7
-504,Grumman SA-16B Albatross,7
-505,CASA C-212 Aviocar 100,7
-506,Boeing 707-373C,7
-507,Boeing 720-047B,7
-508,Ilyushin Il-76T,7
-509,Junkers Ju-52/3mg3e,7
-510,Cessna 525B CitationJet CJ3,7
-511,Avro 748-105 Srs. 1,7
-512,Short Sunderland GR.3,7
-513,Beech B300 King Air 350i,7
-514,Canadair Challenger 600,7
-515,Douglas DC-8-43,7
-516,Boeing 737-230,7
-517,Lockheed P2V Neptune,7
-518,Douglas R4D-8 (Super DC-3),7
-519,BAe-125-800B,7
-520,Junkers Ju-52/3mfe,7
-521,BN-2B-27 Islander,7
-522,BAe-125-700B,7
-523,Dassault Falcon 20E,7
-524,Cessna 510 Citation Mustang,7
-525,Martin P5M-1 Marlin,7
-526,Canadair CRJ-100ER,7
-527,Douglas R6D-1 (DC-6),7
-528,Ilyushin Il-86,7
-529,Learjet 45,7
-530,Cessna 650 Citation VII,7
-531,Ilyushin Il-76,7
-532,Fokker F-27 Friendship 400,7
-533,Airbus A330-243,7
-534,Saab 2000,7
-535,Bombardier Challenger 300,7
-536,Lockheed L-1049 Super Constellation,7
-537,Avro Shackleton MR.3,7
-538,Antonov An-124-100,7
-539,Beech B200C Super King Air,7
-540,Breguet 1150 Atlantic,7
+494,Bristol 170 Freighter 31E,7
+495,Boeing 747-237B,7
+496,Boeing 720-047B,7
+497,Lockheed L-1049 Super Constellation,7
+498,Canadair C-54GM North Star,7
+499,Douglas R4D-8 (Super DC-3),7
+500,Breguet 1150 Atlantic,7
+501,Dassault Falcon 20E,7
+502,Junkers G.24,7
+503,DHC-8-102,7
+504,Ilyushin Il-76T,7
+505,Hawker Beech 390 Premier IA,7
+506,Ilyushin Il-86,7
+507,AMI DC-3-65TP,7
+508,DC-8-63F,7
+509,Saab 2000,7
+510,Cessna 650 Citation VII,7
+511,Antonov An-124-100,7
+512,Fairchild F-27F,7
+513,Learjet 45,7
+514,Dassault Falcon 20D,7
+515,Curtiss R5C-1 (C-46A),7
+516,Beech B300 King Air 350i,7
+517,Douglas C-133A Cargomaster,7
+518,C-115 Buffalo (DHC-5),7
+519,BAe-125-700B,7
+520,Handley Page HP.81 Hermes IVA,7
+521,Short Sunderland GR.3,7
+522,Grumman American G-1159 Gulfstream II,7
+523,CASA C-212 Aviocar 100,7
+524,Boeing 737-2A1,7
+525,BAe-125-800B,7
+526,Boeing 707-373C,7
+527,Airbus A319-114,7
+528,Handley Page Marathon T.2,7
+529,DC-9-51,7
+530,Boeing 737-230,7
+531,Cessna 525B CitationJet CJ3,7
+532,Boeing 737-3Y0,7
+533,Canadair CRJ-100ER,7
+534,Junkers Ju-52/3mfe,7
+535,Cessna 525A CitationJet CJ2+,7
+536,Honda HA-420 HondaJet,7
+537,Boeing 720,7
+538,Lockheed P2V Neptune,7
+539,Fokker F-27 Friendship 400,7
+540,PZL-Mielec M28 Skytruck,7
 541,Vickers Viscount,7
-542,Cessna 525A CitationJet CJ2+,7
-543,Bristol 170 Freighter 31E,7
-544,Canadair C-54GM North Star,7
-545,PZL-Mielec M28 Skytruck,7
-546,Boeing 737-2A1,7
-547,Boeing 737-3Y0,7
-548,Dassault Falcon 20D,7
-549,Junkers G.24,7
-550,Boeing 720,7
-551,DC-10-30CF,7
-552,Vickers 757 Viscount,7
-553,Handley Page HP.81 Hermes IVA,7
-554,Fairchild F-27F,7
-555,Airbus A319-114,7
-556,Grumman American G-1159 Gulfstream II,7
-557,DC-9-51,7
-558,Douglas DC-2-118B,6
-559,BN-2A Trislander Mk.III-1,6
-560,Boeing 727-281,6
-561,Vickers 768D Viscount,6
-562,Convair CV-440-62,6
-563,Cessna 525 CitationJet CJ1,6
-564,Transall C-160NG,6
-565,Boeing 707-366C,6
-566,BN-2B-21 Islander,6
-567,Boeing 727-2F2,6
-568,Junkers Ju-52,6
-569,DC-9-14,6
-570,Consolidated PBY-4 Catalina,6
-571,Canadair CL-44D4-2,6
-572,Antonov An-24T,6
-573,Cessna 560 Citation Ultra,6
-574,Douglas DC-3A-197,6
-575,LatÃ©coÃ¨re 631,6
-576,BN-2A-26Â Islander,6
-577,Douglas DC-8-55F,6
-578,Avro RJ85,6
-579,Canadair Challenger 601-3A,6
-580,Airbus A300B4-605R,6
-581,OA-10A Canso A (PBY-5A),6
-582,Avro Shackleton MR.1,6
-583,BN-2A-21Â Islander,6
-584,Lockheed Hercules C.1 (C-130K),6
-585,Antonov An-12AP,6
-586,Budd RB-1 Conestoga,6
-587,DHC-6 Vista Liner 300,6
-588,BAe-146-200,6
-589,Airbus A300,6
-590,Canadair Challenger 604,6
-591,Embraer C-95 Bandeirante (EMB-110),6
-592,Lockheed C-5A Galaxy,6
-593,Martin PBM-5A Mariner,6
-594,Douglas DC-3A-191,6
-595,Douglas EC-47Q,6
-596,Convair CV-440-86,6
-597,Dornier 228-202,6
-598,SE-210 Caravelle 10B3,6
+542,Douglas DC-8-43,7
+543,Bombardier Challenger 300,7
+544,BN-2B-27 Islander,7
+545,Canadair Challenger 600,7
+546,Eclipse 500,7
+547,Junkers Ju-52/3mg3e,7
+548,Beech B200C Super King Air,7
+549,Ilyushin Il-76,7
+550,Airbus A330-243,7
+551,Douglas R6D-1 (DC-6),7
+552,Martin P5M-1 Marlin,7
+553,DC-10-30CF,7
+554,Ford 4-AT-A Tri-Motor,7
+555,Avro 748-105 Srs. 1,7
+556,Convair CV-440-11,7
+557,Avro Shackleton MR.3,7
+558,Howard 500,6
+559,Douglas DC-8-55F,6
+560,BN-2B-21 Islander,6
+561,Hawker 800XP,6
+562,Martin PBM-5A Mariner,6
+563,Douglas EC-47P,6
+564,UC-1 Otter (DHC-3),6
+565,Lockheed C-141A-LM Starlifter,6
+566,Cessna 560 Citation Ultra,6
+567,Morane Saulnier MS.760B Paris II,6
+568,OA-10A Canso A (PBY-5A),6
+569,Antonov An-74-200,6
+570,Avro Shackleton MR.1,6
+571,Vickers 768D Viscount,6
+572,Airbus A300,6
+573,Boeing 707-351C,6
+574,BAe-146-200,6
+575,Embraer C-95 Bandeirante (EMB-110),6
+576,Canadair Challenger 604,6
+577,BN-2A Trislander Mk.III-1,6
+578,Airbus A330-202,6
+579,Bombardier Global 5000,6
+580,Vickers 708 Viscount,6
+581,Bombardier DHC-8-402Q Dash 8,6
+582,Beech 300 King Air 350ER,6
+583,SE-210 Caravelle 10B3,6
+584,FMA IA 50 GuaranÃ­ II,6
+585,Airbus A320-212,6
+586,Cessna 525 CitationJet CJ1,6
+587,Canadair Challenger 601-3A,6
+588,Convair CV-440-62,6
+589,Lockheed P2V-3W Neptune,6
+590,de Havilland  DH-106 Comet 4,6
+591,DHC-8-202Q Dash 8,6
+592,Boeing 707-366C,6
+593,Canadair CL-44D4-2,6
+594,Antonov An-32A,6
+595,Cessna 208A Caravan I,6
+596,BN-2A-21Â Islander,6
+597,LatÃ©coÃ¨re 631,6
+598,DC-9-14,6
 599,Lockheed 18 Learstar,6
-600,Hawker 800XP,6
-601,de Havilland  DH-106 Comet 4,6
-602,Morane Saulnier MS.760B Paris II,6
-603,Hawker Siddeley HS-121 Trident 1C,6
-604,Cessna 208A Caravan I,6
-605,Lockheed Neptune MR.1,6
-606,Airbus A320-212,6
-607,Cessna 525C Citation CJ4,6
-608,Learjet 31A,6
-609,DHC-8-202Q Dash 8,6
-610,Boeing 707-327C,6
-611,Alenia G-222TCM,6
-612,FMA IA 50 GuaranÃ­ II,6
-613,Airbus A330-202,6
-614,Douglas EC-47P,6
-615,Antonov An-32A,6
-616,Lockheed C-141A-LM Starlifter,6
-617,BAe-146-300,6
-618,Antonov An-10,6
-619,Beech 300 King Air 350ER,6
-620,Boeing 707-351C,6
-621,Savoia-Marchetti S.73,6
-622,Boeing 737-33A,6
-623,Douglas DC-3-313,6
-624,ATR 42-312,6
-625,DH.86B Express,6
-626,Howard 500,6
-627,Vickers 708 Viscount,6
-628,Antonov An-74-200,6
-629,Yakovlev Yak-42D,6
-630,Lockheed P2V-3W Neptune,6
-631,UC-1 Otter (DHC-3),6
+600,Douglas DC-2-118B,6
+601,Alenia G-222TCM,6
+602,BAe-146-300,6
+603,Antonov An-24T,6
+604,Douglas DC-3A-197,6
+605,Hawker Siddeley HS-780 Andover C.1,6
+606,Douglas EC-47Q,6
+607,DHC-6 Vista Liner 300,6
+608,Airbus A300B4-605R,6
+609,Boeing 727-281,6
+610,Boeing 707-331C,6
+611,DH.86B Express,6
+612,Douglas DC-3-313,6
+613,Lockheed C-5A Galaxy,6
+614,Hawker Siddeley HS-121 Trident 1C,6
+615,Antonov An-12AP,6
+616,Avro RJ85,6
+617,ATR 42-312,6
+618,Budd RB-1 Conestoga,6
+619,Dornier 228-202,6
+620,Consolidated PBY-4 Catalina,6
+621,Transall C-160NG,6
+622,BN-2A-26Â Islander,6
+623,Boeing 707-327C,6
+624,Boeing 727-2F2,6
+625,Antonov An-10,6
+626,Cessna 525C Citation CJ4,6
+627,Learjet 31A,6
+628,Douglas DC-3A-191,6
+629,Lockheed Hercules C.1 (C-130K),6
+630,Lockheed Neptune MR.1,6
+631,Boeing 737-33A,6
 632,Embraer EMB-110 Bandeirante,6
-633,Bombardier DHC-8-402Q Dash 8,6
-634,Bombardier Global 5000,6
-635,Boeing 707-331C,6
-636,Hawker Siddeley HS-780 Andover C.1,6
+633,Yakovlev Yak-42D,6
+634,Junkers Ju-52,6
+635,Savoia-Marchetti S.73,6
+636,Convair CV-440-86,6
 637,Ilyushin Il-18,6
-638,Boeing 727-235,5
-639,Convair CV-600,5
-640,Volpar Turboliner II,5
-641,Boeing 727-46,5
-642,Beech 300LW Super King Air,5
-643,DC-9-41,5
-644,Curtiss C-46R,5
-645,Embraer C-95B Bandeirante (EMB-110),5
-646,Cessna 560XL Citation XLS,5
-647,Rockwell Sabreliner 40A,5
-648,Airbus A310-324,5
-649,Douglas C-49K (DC-3),5
-650,Learjet 24A,5
-651,Shorts 330-100,5
-652,Vickers 639 Viking 1,5
-653,Lockheed C-130J-30 Super Hercules,5
-654,BAe 3201 Jetstream 32EP,5
-655,Douglas R4D-7 (DC-3),5
-656,Canadair DC-4M2 North Star,5
-657,BN-2T Turbine Islander,5
-658,Douglas C-54Q (DC-4),5
-659,Douglas R5D-2 (DC-4),5
-660,DHC-8-103,5
-661,Dewoitine D.338,5
-662,Lockheed CC-130E Hercules,5
-663,Tupolev Tu-154A,5
-664,DH.66 Hercules,5
-665,Tupolev G-2,5
-666,Douglas C-48B (DC-3),5
-667,Vickers 812 Viscount,5
-668,Boeing 727-224,5
-669,Junkers Ju-52/3mg14e,5
-670,Airbus A300B2-203,5
-671,Learjet 31,5
-672,Dornier 228-101,5
-673,Douglas SC-47A,5
-674,Boeing 707-331B,5
-675,Beech 300 Super King Air 350,5
-676,Vickers Valetta T.3,5
-677,Junkers Ju-52/3mce,5
-678,Antonov An-26-100,5
-679,Douglas R4D-3 (DC-3),5
-680,Convair CV-240-1,5
-681,Scottish Aviation Twin Pioneer 2,5
-682,Fairchild F-27J,5
-683,Airbus A300B2-101,5
-684,Lockheed PV-2 Harpoon,5
-685,Antonov An-72,5
-686,Curtiss T-32C Condor II,5
-687,Boeing KC-135R,5
-688,Consolidated 16 Commodore,5
-689,Airbus A321-131,5
-690,Raytheon Hawker 800XP,5
-691,CSR-123 Otter (DHC-3),5
-692,ATR 72-500 (72-212A),5
-693,A.W. AW-660 Argosy C.1,5
-694,Avia 14-32A,5
-695,Boeing 737-247,5
-696,BAe 3112 Jetstream 31,5
-697,Boeing 727-23,5
-698,SNCASO SO.30P Bretagne,5
-699,Learjet C-21A (Learjet 35A),5
-700,Douglas R5D-1 (DC-4),5
-701,Boeing 737-2T4,5
-702,Boeing 737-287C,5
-703,Antonov An-26RT,5
-704,Douglas DC-8-53,5
-705,VEB 14P,5
-706,Boeing 707-437,5
-707,Douglas DC-2-118A,5
-708,Boeing 727-256,5
-709,SE-210 Caravelle 10R,5
-710,Cessna 208A Cargomaster,5
-711,Canadair CC-106 Yukon (CL-44),5
-712,Boeing 727-200,5
-713,Boeing 707-123B,5
-714,Douglas TS-62 (DC-3),5
-715,Douglas DC-9-15,5
-716,Airbus A340-313,5
-717,Convair CV-240-6,5
-718,Hawker Siddeley HS-125-1A-522,5
-719,PB2B-2 Catalina,5
-720,Handley Page HP.42E,5
-721,Boeing 727-225,5
-722,Viking Air DHC-6 Twin Otter 400,5
-723,Antonov An-22,5
-724,Boeing 707-324C,5
-725,Airbus A330-343,5
-726,Rockwell T-39D Sabreliner,5
-727,Scottish Aviation Twin Pioneer CC.2,5
-728,Transall C-160D,5
-729,Lockheed 14-08 Super Electra,5
-730,Boeing 727-22,5
-731,Avia 14T,5
-732,Dassault Falcon 20DC,5
-733,Lockheed RB-69A Neptune,5
-734,DH.91 Albatross,5
-735,Lockheed 18 Learstar II,5
-736,NAMC YS-11A-202,5
-737,Boeing 707-436,5
-738,Gulfstream American G-1159 Gulfstream II,5
-739,Boeing 707-3J9C,5
-740,Lockheed 414-08 Hudson IVA,5
-741,Howard 250,5
-742,Gulfstream G150,5
-743,PADC/BN-2A-26 Islander,5
-744,Cessna 550 Citation Bravo,5
-745,Boeing 727-230,5
-746,Hawker Siddeley HS-125-600A,5
-747,Rockwell 1121B Jet Commander,5
-748,Boeing 747-136,5
-749,Convair CV-580F,5
-750,Lockheed AC-130A Spectre,5
-751,Antonov An-22A,5
-752,Junkers Ju-52/3msai,4
-753,Boeing 737-2M2,4
-754,Shorts S.45 Solent 3,4
-755,Lockheed EC-121K Super Constellation,4
-756,Boeing 737-322,4
-757,Sikorsky S-43B,4
-758,BN-2A Trislander Mk.III,4
+638,SE-210 Caravelle 10R,5
+639,Lockheed C-130J-30 Super Hercules,5
+640,Douglas C-54Q (DC-4),5
+641,Raytheon Hawker 800XP,5
+642,Boeing 707-331B,5
+643,Avia 14-32A,5
+644,Lockheed CC-130E Hercules,5
+645,DH.91 Albatross,5
+646,Vickers 639 Viking 1,5
+647,Scottish Aviation Twin Pioneer 2,5
+648,Airbus A300B2-203,5
+649,DH.66 Hercules,5
+650,Canadair CC-106 Yukon (CL-44),5
+651,Handley Page HP.42E,5
+652,Howard 250,5
+653,Douglas DC-8-53,5
+654,Airbus A340-313,5
+655,Airbus A330-343,5
+656,Boeing 727-230,5
+657,Cessna 208A Cargomaster,5
+658,Lockheed 414-08 Hudson IVA,5
+659,Vickers 812 Viscount,5
+660,Antonov An-26-100,5
+661,Boeing 727-46,5
+662,Learjet 31,5
+663,Airbus A321-131,5
+664,Boeing KC-135R,5
+665,PB2B-2 Catalina,5
+666,Lockheed RB-69A Neptune,5
+667,Boeing 727-235,5
+668,BN-2T Turbine Islander,5
+669,A.W. AW-660 Argosy C.1,5
+670,Douglas R5D-2 (DC-4),5
+671,Vickers Valetta T.3,5
+672,Dassault Falcon 20DC,5
+673,Antonov An-26RT,5
+674,Douglas SC-47A,5
+675,Boeing 707-437,5
+676,Lockheed PV-2 Harpoon,5
+677,Boeing 747-136,5
+678,Boeing 727-224,5
+679,SNCASO SO.30P Bretagne,5
+680,Tupolev Tu-154A,5
+681,Boeing 727-23,5
+682,Convair CV-240-6,5
+683,Learjet C-21A (Learjet 35A),5
+684,Convair CV-580F,5
+685,Junkers Ju-52/3mg14e,5
+686,Douglas R4D-7 (DC-3),5
+687,Volpar Turboliner II,5
+688,Learjet 24A,5
+689,Canadair DC-4M2 North Star,5
+690,PADC/BN-2A-26 Islander,5
+691,Convair CV-600,5
+692,Boeing 727-200,5
+693,Fairchild F-27J,5
+694,Scottish Aviation Twin Pioneer CC.2,5
+695,Avia 14T,5
+696,Lockheed AC-130A Spectre,5
+697,Boeing 737-2T4,5
+698,Dornier 228-101,5
+699,Boeing 707-123B,5
+700,Antonov An-22A,5
+701,Douglas R5D-1 (DC-4),5
+702,Boeing 737-247,5
+703,Embraer C-95B Bandeirante (EMB-110),5
+704,Junkers Ju-52/3mce,5
+705,Transall C-160D,5
+706,Airbus A310-324,5
+707,Hawker Siddeley HS-125-600A,5
+708,Douglas TS-62 (DC-3),5
+709,Cessna 550 Citation Bravo,5
+710,Douglas DC-2-118A,5
+711,Boeing 707-3J9C,5
+712,Gulfstream American G-1159 Gulfstream II,5
+713,ATR 72-500 (72-212A),5
+714,Boeing 727-22,5
+715,Rockwell Sabreliner 40A,5
+716,Airbus A300B2-101,5
+717,CSR-123 Otter (DHC-3),5
+718,Douglas C-49K (DC-3),5
+719,Antonov An-22,5
+720,Lockheed 18 Learstar II,5
+721,VEB 14P,5
+722,Curtiss C-46R,5
+723,Douglas R4D-3 (DC-3),5
+724,Dewoitine D.338,5
+725,DHC-8-103,5
+726,Consolidated 16 Commodore,5
+727,Douglas DC-9-15,5
+728,Curtiss T-32C Condor II,5
+729,DC-9-41,5
+730,Rockwell 1121B Jet Commander,5
+731,Boeing 727-256,5
+732,Shorts 330-100,5
+733,Boeing 707-324C,5
+734,Boeing 707-436,5
+735,Tupolev G-2,5
+736,Viking Air DHC-6 Twin Otter 400,5
+737,Cessna 560XL Citation XLS,5
+738,BAe 3112 Jetstream 31,5
+739,Beech 300LW Super King Air,5
+740,NAMC YS-11A-202,5
+741,Boeing 737-287C,5
+742,Boeing 727-225,5
+743,Rockwell T-39D Sabreliner,5
+744,Convair CV-240-1,5
+745,Antonov An-72,5
+746,Douglas C-48B (DC-3),5
+747,Lockheed 14-08 Super Electra,5
+748,Gulfstream G150,5
+749,Hawker Siddeley HS-125-1A-522,5
+750,Beech 300 Super King Air 350,5
+751,BAe 3201 Jetstream 32EP,5
+752,Douglas DC-8-33,4
+753,Macchi M.C.94-II,4
+754,Hawker Siddeley HS-125-600B,4
+755,Junkers Ju-52/3mg6e,4
+756,CASA C-212 Aviocar 300,4
+757,Tupolev Tu-134B-3,4
+758,Cirrus SF50 Vision Jet,4
 759,Boeing S.307B-1 Stratoliner,4
-760,DHC-8-311,4
-761,Curtiss Condor 18,4
-762,Morane Saulnier (FMA) MS.760A Paris IA,4
-763,Lockheed Ventura,4
-764,Vickers 754D Viscount,4
-765,Lockheed HC-130P Combat King,4
-766,Lockheed L-1329-25 JetStar II,4
-767,Learjet 24F,4
-768,Swearingen SA226-AT Merlin IVA,4
-769,Convair CV-240-12,4
-770,Boeing 787-8,4
-771,A.W. AW-650 Argosy 222,4
-772,Douglas LC-47H,4
-773,Scottish Aviation Twin Pioneer 3,4
-774,Boeing 707-328,4
-775,Boeing 707-124,4
-776,Bombardier Global Express,4
-777,NAMC YS-11,4
-778,Dassault Falcon 900EX,4
-779,Curtiss AT-32A Condor II,4
-780,Tupolev Tu-124,4
-781,Douglas DC-8-51,4
-782,Douglas DC-2-115B,4
-783,Boeing 737-8HG (WL),4
-784,Boeing 727-2B6,4
-785,Boeing S.307 Stratoliner,4
-786,Fiat G.212CP,4
-787,Boeing 767-33AER,4
-788,Vickers Valentia,4
-789,Dornier 228-202K,4
-790,Hawker Siddeley HS-125-600B,4
-791,CASA/IPTN NC-212 Aviocar 200,4
-792,Hawker Siddeley HS-121 Trident 1E,4
-793,Boeing 747-436,4
-794,HAL/Dornier 228-201,4
-795,Vickers 837 Viscount,4
-796,Boeing 737-86N (WL),4
-797,Antonov,4
-798,Boeing C-97A,4
-799,CASA C-212-M Aviocar 300,4
-800,CASA C-212 Aviocar 300,4
-801,Farman F.63bis Goliath,4
-802,Boeing 767-375ER,4
-803,Lockheed SP-2E Neptune,4
-804,Lockheed L-1329 JetStar I,4
-805,Antonov An-24TV,4
-806,Lockheed C-121J Super Constellation,4
-807,Lockheed L-1329 JetStar 731,4
-808,Canadair C-4 Argonaut,4
-809,Rockwell Sabreliner 80,4
-810,Kaiser-Frazer C-119F Flying Boxcar,4
-811,Volpar Turboliner,4
-812,NAMC YS-11A-213,4
-813,MD-82,4
-814,Fokker F-27 Friendship 500RF,4
-815,Antonov An-74,4
-816,SE-210 Caravelle 11R,4
-817,Boeing 720-030B,4
-818,Boeing 747SR-46,4
-819,Boeing 757-222,4
-820,Sabca Savoia-Marchetti S.73P,4
-821,Convair CV-240-23,4
-822,Catalina IVB (PBY-5A),4
-823,Douglas DC-8-33,4
-824,DHC-3T/M601 Turbine Otter,4
-825,Rockwell T-39N Sabreliner,4
-826,Airbus A340-312,4
-827,Grumman SA-16B Albatross (HU-16),4
-828,Bristol 170 Freighter IA,4
-829,Boeing 737-281,4
-830,Cirrus SF50 Vision Jet,4
-831,Fokker F.VIII,4
-832,Airbus A321-231 (WL),4
-833,Convair CV-240-13,4
-834,DHC-8-315Q Dash 8,4
-835,Bombardier CRJ-701ER,4
-836,Boeing 737-275,4
-837,Boeing 737-2H6,4
-838,Lockheed P2V-6 Neptune,4
-839,Lockheed P2V-4 Neptune,4
-840,Airbus A300B2-1C,4
-841,Canadair CL-44D4-1,4
-842,Douglas C-117D Super DC-3,4
-843,Boeing 737-260,4
-844,Boeing 727-228,4
-845,Boeing 737-3H4 (WL),4
-846,Vickers 843 Viscount,4
-847,DC-10-30F,4
-848,Cessna 560XLS+ Citation XLS+,4
-849,Lockheed P-2E Neptune,4
-850,Ilyushin Il-18E,4
-851,Gulfstream G200 Galaxy,4
-852,Boeing KC-97F Stratofreighter,4
-853,BAe 3201 Jetstream 32,4
-854,Boeing C-97G Stratofreighter,4
-855,Fokker F.10,4
-856,Douglas C-117D (DC-3),4
-857,Gulfstream G200,4
-858,IAI 1123 Westwind,4
-859,Airbus A330-223,4
-860,BAe-125,4
-861,Boeing 737-2R4C,4
-862,Dassault Falcon 900,4
-863,Boeing 737-4H6,4
-864,Beech 300 King Air 350,4
-865,Fokker F-27 Friendship,4
-866,Airbus A330-323,4
-867,Embraer EMB-135LR (ERJ-135LR),4
-868,Consolidated Catalina IB (PBY-5B),4
-869,Ford 5-AT-.  Tri-Motor,4
-870,Lockheed MC-130H Combat Talon II,4
-871,Lockheed L-1049C Super Constellation,4
-872,Hawker 900XP,4
-873,Gulfstream American G-1159A Gulfstream III,4
-874,Douglas DC-3A-228C,4
-875,Chase YC-122C Avitruc,4
-876,Sukhoi Superjet 100-95B,4
-877,Airbus A300C4-620,4
-878,Convair CV-240-4,4
-879,Antonov An-30B,4
-880,Boeing KC-97,4
-881,Cessna 525Â CitationJet,4
-882,Airbus A320-214 (WL),4
-883,DC-8-63,4
-884,Boeing 707-336C,4
-885,Savoia-Marchetti SM-75C,4
-886,Dassault Falcon 7X,4
-887,Grumman HU-16C Albatross,4
-888,Shin Meiwa PS-1,4
-889,Convair C-131E (CV-440),4
-890,Douglas DC-3-277C,4
-891,Boeing 737-86J (WL),4
-892,Airbus A321-211 (WL),4
-893,BAe 4101 Jetstream 41,4
-894,Boeing 737-8BK (WL),4
-895,Fairchild AC-119K Stinger,4
-896,Boeing 707-329,4
-897,Lockheed L-188PF Electra,4
-898,Fokker F-28 Fellowship 3000,4
-899,Grumman G-73T Turbo Mallard,4
-900,Hawker Siddeley HS-125-400B,4
+760,Boeing 727-260,4
+761,BAe-146-200A,4
+762,Antonov An-74,4
+763,Airbus A300C4-620,4
+764,Boeing 747-436,4
+765,Convair CV-240-12,4
+766,Boeing 747SR-46,4
+767,Boeing 757-222,4
+768,BN-2A Trislander Mk.III,4
+769,Boeing 737-291,4
+770,Bristol 175 Britannia 312,4
+771,Boeing KC-97F Stratofreighter,4
+772,BAe-125,4
+773,Boeing 707-329,4
+774,Lockheed P2V-6 Neptune,4
+775,Vickers Valentia,4
+776,Kaiser-Frazer C-119F Flying Boxcar,4
+777,Cessna 560XLS+ Citation XLS+,4
+778,Curtiss Condor 18,4
+779,Dassault Falcon 900EX,4
+780,HAL/Dornier 228-201,4
+781,Fokker F-27 Friendship,4
+782,Convair CV-240-4,4
+783,Lockheed P2V-4 Neptune,4
+784,Lockheed L-1329 JetStar 731,4
+785,Boeing 707-124,4
+786,Vickers 804 Viscount,4
+787,Airbus A340-312,4
+788,Boeing 737-86N (WL),4
+789,SE-210 Caravelle 11R,4
+790,Airbus A330-323,4
+791,Boeing 737-260,4
+792,Lockheed SP-2E Neptune,4
+793,Douglas C-117D (DC-3),4
+794,Catalina IVB (PBY-5A),4
+795,Learjet 25XR,4
+796,Boeing 737-2M2,4
+797,Cessna 525Â CitationJet,4
+798,Convair CV-240-13,4
+799,Airbus A320-214 (WL),4
+800,Vickers 828 Viscount,4
+801,Boeing S.307 Stratoliner,4
+802,Bombardier CRJ-701ER,4
+803,Dassault Falcon 7X,4
+804,Junkers Ju-52/3msai,4
+805,BN-2T Islander,4
+806,Boeing 767-375ER,4
+807,CASA/IPTN NC-212 Aviocar 200,4
+808,BAe 3201 Jetstream 32,4
+809,Hawker Siddeley HS-121 Trident 1E,4
+810,Antonov An-2TD,4
+811,Consolidated Catalina IB (PBY-5B),4
+812,Douglas DC-3A-228C,4
+813,NAMC YS-11,4
+814,DC-8-63,4
+815,Douglas C-117D Super DC-3,4
+816,Grumman HU-16C Albatross,4
+817,Lockheed HC-130P Combat King,4
+818,Boeing 707-349C,4
+819,Gulfstream American G-1159A Gulfstream III,4
+820,Lockheed HC-130H Hercules,4
+821,Antonov An-24TV,4
+822,Sukhoi Superjet 100-95B,4
+823,Fokker F-27 Friendship 500F,4
+824,DHC-8-315Q Dash 8,4
+825,Douglas DC-3 (R4D-1),4
+826,CASA C-212-M Aviocar 300,4
+827,Boeing 707-336C,4
+828,Morane Saulnier (FMA) MS.760A Paris IA,4
+829,Lockheed P-2E Neptune,4
+830,Douglas DC-3 Hiper,4
+831,DHC-8-311,4
+832,Douglas LC-47H,4
+833,Tupolev Tu-124,4
+834,Farman F.63bis Goliath,4
+835,Boeing 737-2R4C,4
+836,Lockheed C-121J Super Constellation,4
+837,Shin Meiwa PS-1,4
+838,NAMC YS-11A-213,4
+839,Bristol 170 Freighter IA,4
+840,Savoia-Marchetti SM-75C,4
+841,Boeing 737-8BK (WL),4
+842,Ford 5-AT-.  Tri-Motor,4
+843,Fokker F-28 Fellowship 3000,4
+844,Boeing 707-330C,4
+845,Lockheed P-15 Neptune (P2V-5),4
+846,Consolidated Catalina I (PBY-5),4
+847,Airbus A321-231 (WL),4
+848,Boeing 737-281,4
+849,Consolidated P4Y-2 Privateer,4
+850,Fokker F.10,4
+851,Fokker F-27 Friendship 500RF,4
+852,Boeing 767-33AER,4
+853,Lockheed Ventura,4
+854,DH-106 Comet 1,4
+855,Rockwell T-39N Sabreliner,4
+856,Lockheed L-1049C Super Constellation,4
+857,Boeing 737-2H6,4
+858,Boeing 727-2B6,4
+859,Antonov An-30B,4
+860,DC-10-30F,4
+861,Embraer EMB-135LR (ERJ-135LR),4
+862,Lockheed L-1329 JetStar I,4
+863,Rockwell Sabreliner 80,4
+864,IAI 1123 Westwind,4
+865,Lockheed MC-130H Combat Talon II,4
+866,Sabca Savoia-Marchetti S.73P,4
+867,A.W. AW-650 Argosy 222,4
+868,Airbus A330-223,4
+869,Vickers 843 Viscount,4
+870,Scottish Aviation Twin Pioneer 3,4
+871,Curtiss AT-32A Condor II,4
+872,ATR 72-600 (72-212A),4
+873,Douglas DC-8-51,4
+874,Fokker F.VIII,4
+875,Shorts S.45 Solent 3,4
+876,Canadair C-4 Argonaut,4
+877,Beech 300 King Air 350,4
+878,Dornier 228-202K,4
+879,DHC-3T/M601 Turbine Otter,4
+880,Douglas DC-3A-269,4
+881,Boeing 720-030B,4
+882,Boeing 787-8,4
+883,Boeing C-97A,4
+884,Antonov,4
+885,Beech B200GT King Air 250,4
+886,Boeing 737-322,4
+887,Airbus A300B2-1C,4
+888,Lockheed EC-121K Super Constellation,4
+889,Grumman G-73T Turbo Mallard,4
+890,Boeing C-97G Stratofreighter,4
+891,Convair CV-240-23,4
+892,Boeing 737-275,4
+893,Swearingen SA226-AT Merlin IVA,4
+894,BAe ATP,4
+895,Airbus A321-211 (WL),4
+896,Beech 200T Super King Air,4
+897,DH-106 Comet 4B,4
+898,Lockheed L-1329-25 JetStar II,4
+899,Vickers 837 Viscount,4
+900,Boeing 737-8HG (WL),4
 901,Sikorsky S-42B,4
-902,Lockheed R7V-1 Super Constellation,4
-903,Boeing 707-330C,4
-904,Douglas DC-3 Hiper,4
-905,Douglas DC-3A-269,4
-906,Fokker F-27 Friendship 500F,4
-907,BAe-146-200A,4
-908,Boeing 707-349C,4
-909,Consolidated Catalina I (PBY-5),4
-910,Vickers 815 Viscount,4
-911,Antonov An-2TD,4
-912,Fairchild F-27M,4
-913,ATR 72-600 (72-212A),4
-914,Boeing 737-291,4
-915,Vickers 828 Viscount,4
-916,BAe 3212 Jetstream 32,4
-917,Lockheed HC-130H Hercules,4
-918,DH-106 Comet 4B,4
-919,BN-2T Islander,4
-920,DH-106 Comet 1,4
-921,Bristol 175 Britannia 312,4
-922,Junkers Ju-52/3mg6e,4
-923,Learjet 25XR,4
-924,Beech B200GT King Air 250,4
-925,Douglas DC-3 (R4D-1),4
-926,Douglas DC-3-194D,4
-927,Vickers 804 Viscount,4
-928,Tupolev Tu-134B-3,4
+902,Vickers 754D Viscount,4
+903,BAe 3212 Jetstream 32,4
+904,Fairchild F-27M,4
+905,Boeing 707-328,4
+906,Dassault Falcon 900,4
+907,Sikorsky S-43B,4
+908,Boeing 737-3H4 (WL),4
+909,Boeing 737-86J (WL),4
+910,Douglas DC-3-277C,4
+911,Douglas DC-3-194D,4
+912,BAe 4101 Jetstream 41,4
+913,Convair C-131E (CV-440),4
+914,Lockheed EC-121M Super Constellation,4
+915,Gulfstream G200,4
+916,Fairchild AC-119K Stinger,4
+917,Learjet 55C,4
+918,Gulfstream G200 Galaxy,4
+919,Lockheed L-188PF Electra,4
+920,Fiat G.212CP,4
+921,Boeing KC-97,4
+922,Bombardier Global Express,4
+923,Douglas DC-3-277B,4
+924,Vickers 815 Viscount,4
+925,Ilyushin Il-18E,4
+926,Canadair CL-44D4-1,4
+927,Volpar Turboliner,4
+928,Learjet 24F,4
 929,Fairchild SA227-AT Expediter,4
-930,Douglas DC-3-277B,4
-931,Lockheed EC-121M Super Constellation,4
-932,Convair CV-580 Airtanker,4
-933,Macchi M.C.94-II,4
-934,Consolidated P4Y-2 Privateer,4
-935,BAe ATP,4
-936,Lockheed P-15 Neptune (P2V-5),4
-937,Beech 200T Super King Air,4
-938,Boeing 727-260,4
-939,Learjet 55C,4
-940,Boeing 707-331,3
-941,Avro 691 Lancastrian C.4,3
-942,Douglas VC-47B (DC-3),3
-943,Dassault Falcon 100,3
-944,Boeing 757-200,3
-945,Lockheed L-1011 TriStar 500,3
-946,Vickers Super VC10-1151,3
-947,BAC One-Eleven 204AF,3
-948,Consolidated 32-2 Liberator II,3
-949,Boeing 757-223 (WL),3
-950,BN-2A-2 Islander,3
-951,Boeing 707-329C,3
-952,Boeing 737-8F2 (WL),3
-953,Boeing 727-81,3
-954,Canadair CL-44D4-6,3
-955,Shijiazhuang Y-5B(D),3
-956,Vickers 634 Viking 1B,3
-957,Vickers 749 Viscount,3
-958,Boeing 737-2B7,3
-959,Lisunov Li-2V,3
-960,Boeing 747-3B3,3
-961,Martin M-130,3
-962,Lockheed OP-2E Neptune,3
-963,Douglas DC-7BF,3
-964,Boeing 737-228,3
-965,Boeing 737-8KN (WL),3
-966,Dassault Falcon 2000,3
-967,Boeing 727-25,3
-968,BN-2B-20 Islander,3
-969,Boeing 767-2J6ER,3
-970,Handley Page HPR-7 Herald 101,3
-971,Short S.30 Empire Flying Boat,3
-972,Xian Yunshuji Y-7,3
-973,Boeing 737-4Q8 (SF),3
-974,Convair CV-440-38,3
-975,Canadair C-4-1 North Star,3
-976,DH-106 Comet 1A,3
-977,Handley Page HPR-7 Herald 401,3
-978,Airbus A330-203,3
-979,Savoia-Marchetti SM-75 bis,3
-980,Dornier Do 128-6 Turbo Skyservant,3
-981,Cessna 208 Caravan,3
-982,Lockheed 14-WG3B Super Electra,3
-983,Short S.25 Sandringham 4,3
-984,Canadair Challenger 601-3R,3
-985,Douglas C-49-DO (DC-3),3
-986,IPTN/CASA CN-235-10,3
-987,Cessna 680 Citation Sovereign,3
-988,Lockheed C-121C Super Constellation,3
-989,Boeing 707-379C,3
-990,Bombardier Global 6000,3
-991,BAC One-Eleven 203AE,3
-992,Vickers VC10-1101,3
-993,PADC/BN-2A-21 Islander,3
-994,PADC/BN-2T Islander,3
-995,Boeing 747-422,3
-996,Douglas DC-3A-414A,3
-997,BAe 4100 Jetstream 41,3
-998,Fairchild C-123J Provider,3
-999,Grumman G-1159 Gulfstream II SP,3
-1000,ATR 42-512,3
-1001,Fairchild C-119L Flying Boxcar,3
-1002,Douglas DC-2-115L,3
-1003,Junkers G.31go,3
-1004,Airbus A319-112,3
-1005,Boeing 757-223,3
-1006,Grumman M-16 Albatross (HU-16),3
-1007,Handley Page HPR-7 Herald 203,3
-1008,Boeing 707-328C,3
-1009,Bombardier Challenger 605,3
-1010,Boeing 737-8H4 (WL),3
-1011,Gulfstream G-V,3
-1012,Lockheed 414-56 Hudson IIIA,3
-1013,Boeing 787-9,3
-1014,Consolidated Canso A,3
-1015,Boeing 737-2C3,3
-1016,Vickers 827 Viscount,3
-1017,BAC One-Eleven 420EL,3
-1018,Vickers 724 Viscount,3
-1019,Dornier 328JET-310,3
-1020,Hawker Siddeley HS-125-3B,3
-1021,Boeing 767-332ER (WL),3
-1022,Douglas DC-3-201E,3
-1023,Boeing 707-338C,3
-1024,C-17A Globemaster III,3
-1025,Aeromarine 75,3
-1026,Boeing 737-8GP (WL),3
-1027,Boeing 747-230B,3
-1028,Vickers 794D Viscount,3
-1029,Dornier Do R4 Superwal,3
-1030,Boeing 707-351B,3
-1031,SNCASE SE.200,3
-1032,Boeing 737-210C,3
-1033,CASA CN-235M-200,3
-1034,A.W. AW-650 Argosy 101,3
-1035,Lockheed EC-121R Super Constellation,3
-1036,DH-114 Heron 2B,3
-1037,Canadair CRJ-900ER,3
-1038,Sikorsky S-43,3
-1039,Grumman SA-16 Albatross,3
-1040,Learjet 60XR,3
-1041,DHC-8-315Q MPA,3
-1042,Boeing 737-476 (SF),3
-1043,SAAB Scandia 90A-1,3
-1044,Boeing 737-2F9,3
-1045,DC-8-62F,3
-1046,Fairchild FH-227D,3
-1047,Boeing KC-135E,3
-1048,LiorÃ© et Olivier 213,3
-1049,Bristol 170 Freighter 21P,3
-1050,BN-2A-21 Defender,3
-1051,NAMC YS-11A-500,3
-1052,Douglas C-47J (DC-3),3
-1053,Boeing 737-8K2 (WL),3
-1054,Boeing 777-236ER,3
-1055,DC-9-87 (MD-87),3
-1056,Airbus A330-303,3
-1057,Lockheed L-749 Constellation,3
-1058,Boeing 737-2J8C,3
-1059,Beech C-12F Huron,3
-1060,Handley Page O/400,3
-1061,Rockwell CT-39E Sabreliner,3
-1062,Douglas DC-3-201D,3
-1063,Douglas DC-8-33F,3
-1064,Boeing 727-251,3
-1065,Embraer EMB-110P1A Bandeirante,3
-1066,Breguet SP-13A Atlantic,3
-1067,Fairchild FH-227C,3
-1068,Bristol 170 Superfreighter 32,3
-1069,DHC-8-311Q Dash 8,3
-1070,Boeing 737-832 (WL),3
-1071,Boeing 707-131B,3
-1072,Fokker F-27 Friendship 300,3
-1073,Lockheed L-149 Constellation,3
-1074,Let L-410MA,3
-1075,Handley Page HP.81 Hermes IV,3
-1076,MD-10-10F,3
-1077,Beech 200 King Air,3
-1078,DHC-3T Turbine Otter,3
-1079,Douglas C-49G-DO (DC-3),3
-1080,Boeing 727-23F,3
-1081,DC-10,3
-1082,Fokker F.XXII,3
-1083,Handley Page HP.42W,3
-1084,Douglas R4D-4 (DC-3),3
-1085,Embraer EMB-110EJ Bandeirante,3
-1086,Vickers 628 Viking 1B,3
-1087,Douglas SC-47D,3
-1088,Boeing 727-2D3,3
-1089,Embraer P-95 Bandeirulha (EMB-111A),3
-1090,Boeing 737-2H4,3
-1091,Douglas C-49D (DC-3),3
-1092,Fairchild R4Q-1 Flying Boxcar (C-119C),3
-1093,Boeing 737-268,3
-1094,Vickers 814 Viscount,3
-1095,BAe-146-100,3
-1096,A.W. AW.15 Atalanta,3
-1097,Let L-410MU,3
-1098,Boeing 727-116,3
-1099,Short Sunderland V,3
-1100,Learjet 45XR,3
-1101,Lockheed EC-121H Super Constellation,3
-1102,Ilyushin Il-12B,3
-1103,Convair CV-340-68B,3
-1104,Airbus A320,3
-1105,CT-39A Sabreliner,3
-1106,Curtiss T-32 Condor II,3
-1107,BN-2A-27Â Islander,3
-1108,A.W. AW.27 Ensign I,3
-1109,Boeing 747-430,3
-1110,Boeing C-135B,3
-1111,Boeing 747-246B,3
-1112,Cessna 525 CitationJet CJ1+,3
-1113,Douglas DC-2-221,3
-1114,Fairchild SA227-BC Metro III,3
-1115,Douglas C-133B Cargomaster,3
-1116,Boeing 727-247,3
-1117,Boeing 707-330B,3
-1118,Junkers Ju-52/3mg7e,3
-1119,Nord 262A-44,3
-1120,Boeing 757-21B,3
-1121,Boeing 737-9GPER (WL),3
-1122,Douglas DC-3-196A,3
-1123,Hawker Siddeley HS-125-F400A,3
-1124,DC-8-53,3
-1125,Learjet 36,3
-1126,Boeing 707-121,3
-1127,Grumman UF-1 Albatross,3
-1128,Boeing 737-287,3
-1129,Boeing 727-22C,3
-1130,Douglas C-54P (DC-4),3
-1131,Handley Page O/7,3
-1132,Ford 5-AT Tri-Motor,3
-1133,Ilyushin Il-14T,3
-1134,Boeing 727-232,3
-1135,Boeing 707-458,3
-1136,Fokker F-27 Friendship 600RF,3
-1137,BAe Nimrod MR.2,3
-1138,Douglas C-49H (DC-3),3
-1139,DH.95 Flamingo,3
-1140,Short Sunderland II,3
-1141,Dornier 228-100,3
-1142,Douglas DC-5-511,3
-1143,Canadair DC-4M1 North Star,3
-1144,Short S.25 Sandringham 5,3
-1145,SNCASE SE.2010 Armagnac,3
-1146,Ilyushin Il-78,3
-1147,Shijiazhuang Y-5B,3
-1148,Vickers 701C Viscount,3
-1149,Cessna 550B Citation Bravo,3
-1150,Lockheed CC-130H Hercules,3
-1151,Handley Page W.10,3
-1152,Beech RC-12K Huron,3
-1153,Vickers 951 Vanguard,3
-1154,Douglas DC-3A-197D,3
-1155,DHC-8-314 Dash 8,3
-1156,Potez 62,3
-1157,Let L-410A,3
-1158,Junkers Ju-52/3mg10e,3
-1159,Fokker F-27 Friendship 200MAR,3
-1160,BN-2A-20Â Islander,3
-1161,Savoia-Marchetti S-66,3
-1162,Curtiss AT-32B Condor II,3
-1163,IAI 1125 Astra SPX,3
-1164,Beech B300 Super King Air 350,3
-1165,Douglas AC-47,3
-1166,Airbus A330-343X,3
-1167,Lockheed C-130E-I Hercules,3
-1168,DC-9-33RC,3
-1169,Bombardier CRJ-900ER,3
-1170,Boeing 707-3B4C,3
-1171,Embraer C-95BM Bandeirante (EMB-110),3
-1172,Fairchild UC-123K Provider,3
-1173,Embraer ERJ-170,3
-1174,Antonov An-2PF,3
-1175,DHC-8-106,3
-1176,Kawasaki C-1,3
-1177,Consolidated PBY-3 Catalina,3
-1178,BAC One-Eleven 201AC,3
-1179,Kaiser-Frazer C-119J Flying Boxcar,3
-1180,Cirrus SF50 Vision Jet G2,3
-1181,Lockheed C-130H-30 Hercules,3
-1182,Consolidated C-10 Catalina (PBY-5),3
-1183,IPTN/CASA CN-235M-100,3
-1184,Douglas SC-47D (DC-3),3
-1185,Airbus A330-322,3
-1186,Convair CV-580F SCD,3
-1187,Boeing 707-345C,3
-1188,Boeing 727-21F,3
-1189,BAC One-Eleven 525FT,3
-1190,Ilyushin Il-18A,3
-1191,Airbus A320-216,3
-1192,Douglas DC-3-313A,3
-1193,Boeing 737-8FE (WL),3
-1194,GAF Nomad N.22,3
-1195,Short S.25 Sandringham 6,3
-1196,DC-8-71F,3
-1197,Douglas DC-3-194F,3
-1198,DC-10-30ER,3
-1199,Boeing 727-264,3
-1200,MD-90-30,3
-1201,Hawker Siddeley HS-125-1A,2
-1202,Lockheed L-1049E-55 Super Constellation,2
-1203,CANT Z.506C,2
-1204,IAI 1124 Westwind I,2
-1205,Boeing 727-2H3,2
-1206,Curtiss BT-32 Condor II,2
-1207,Douglas DC-3-322,2
-1208,Convair CV-240-7,2
-1209,Beech T-1A Jayhawk,2
-1210,Boeing 737-3Q8,2
-1211,Douglas DC-2-211,2
-1212,Douglas DST-318A (DC-3),2
-1213,DC-9-15F,2
-1214,Avro Shackleton MR.1A,2
-1215,Boeing 737-2K9,2
-1216,Boeing 707-365C,2
-1217,Boeing 727-92C,2
-1218,Boeing 747-406M,2
-1219,DC-9-21,2
-1220,Douglas DC-2-192,2
-1221,Fairchild R4Q-2 Flying Boxcar (C-119F),2
-1222,Curtiss CW-20 (C-46),2
-1223,Fokker F-28 Fellowship 2000,2
-1224,Boeing 727-90C,2
-1225,Lockheed PV-1 Ventura,2
-1226,Boeing 727-31,2
-1227,Avro Shackleton T.4,2
-1228,Farman F.61 Goliath,2
-1229,Boeing 707-321,2
-1230,Boeing 777-2H6ER,2
-1231,Lockheed EC-130E Hercules,2
-1232,Airbus A319-131,2
-1233,Let L-410UVP-E9D,2
-1234,Beech 1900,2
-1235,Yakovlev Yak-40S2,2
-1236,Yakovlev Yak-40EC,2
-1237,Breguet 730,2
-1238,Boeing 737-377,2
-1239,Dornier Do 128-2 Skyservant,2
-1240,Beech C-12C Huron,2
-1241,CASA CN-235M-100,2
-1242,Boeing 707-358C,2
-1243,Lockheed EC-130Q Hercules,2
-1244,BAC One-Eleven 515FB,2
-1245,Curtiss C-46T,2
-1246,Boeing 727-44F,2
-1247,Douglas C-74 Globemaster I,2
-1248,Lockheed C-5B Galaxy,2
-1249,Boeing 727-76,2
-1250,Boeing 727-14,2
-1251,BAe 3103 Jetstream 31,2
-1252,Boeing 747-2F6B,2
-1253,Consolidated OA-10 Catalina (PBY-5),2
-1254,Boeing 747-48EF,2
-1255,Douglas TC-47B (DC-3),2
-1256,Lockheed KC-130J Hercules,2
-1257,Boeing 707-387B,2
-1258,Boeing 737-924ER (WL),2
-1259,Cessna 550 Citation S/II,2
-1260,Gulfstream G450,2
-1261,SAAB Scandia 90A-2,2
-1262,Embraer EMB-140 (ERJ-135KL),2
-1263,Boeing 737-4U3,2
-1264,Boeing 737-8Q8 (WL),2
-1265,Lockheed L-188 Electra,2
-1266,DC-8-54F,2
-1267,Boeing 737-85R,2
-1268,Fairchild FH-227E,2
-1269,Cessna 550Â Citation II,2
-1270,Boeing 747-132 (SF),2
-1271,Boeing 737-201,2
-1272,Boeing 737-82R (WL),2
-1273,BAe ATP-F (LFD),2
-1274,Boeing 747-230F,2
-1275,Boeing 737-159,2
-1276,WM Fokker F.VIIIb,2
-1277,Douglas DST-A-207A (DC-3),2
-1278,GAF Nomad N.22C,2
-1279,DC-10-10F,2
-1280,Douglas Dakota C.3 (DC-3),2
-1281,BAC One-Eleven 521FH,2
-1282,AMI C-47TP (DC-3T),2
-1283,Douglas DC-2-115D,2
-1284,Boeing 737-2K6,2
-1285,Convair CV-340-58,2
-1286,Vickers 739 Viscount,2
-1287,Antonov An-30,2
-1288,Canadair CRJ-701ER,2
-1289,Boeing 767-366ER,2
-1290,Vickers 632 Viking 1B,2
-1291,Vickers 635 Viking 1B,2
-1292,Shorts SC.7 Skyvan 3-300,2
-1293,Lockheed 414 Hudson VI,2
-1294,Boeing 747-282B,2
-1295,Embraer EMB-145MP (ERJ-145MP),2
-1296,GAF Nomad N.22S Searchmaster L,2
-1297,CC-123 Otter (DHC-3),2
-1298,DHC-4T Caribou,2
-1299,Douglas DC-3-277D,2
-1300,Douglas RC-54V (DC-4),2
-1301,Vickers 782D Viscount,2
-1302,Convair VT-29B (CV-240),2
-1303,Convair CV-440-75,2
-1304,Douglas DC-3-232,2
-1305,CASA C-212-CB Aviocar 100,2
-1306,Boeing 727-277,2
-1307,Raytheon Hawker 850XP,2
-1308,Boeing 737-229C,2
-1309,Boeing 707-360C,2
-1310,Boeing 747-438,2
-1311,Boeing 727-2H9,2
-1312,Antonov An-6,2
-1313,Shorts S.26 G Class,2
-1314,Curtiss AT-32C Condor II,2
-1315,Lockheed L-1049C-55-81 Super Constellation,2
-1316,Fokker F.XVIII,2
-1317,Ford JR-3 (5-AT-C) Tri-Motor,2
-1318,Hawker Siddeley HS-125-3A,2
-1319,Boeing 777-333ER,2
-1320,Lockheed LC-130R Hercules,2
-1321,Vickers Varisty T.1,2
-1322,DH-125-1,2
-1323,Carstedt Jet Liner 600F,2
-1324,Boeing 737-401,2
-1325,Douglas DC-3-227,2
-1326,Beriev Be-200ChS,2
-1327,Saunders ST-27,2
-1328,Lockheed L-1011 TriStar 200,2
-1329,Boeing 727-113C,2
-1330,DC-9-80 (MD-80),2
-1331,CV-2A Caribou (DHC-4),2
-1332,Martin PBM-5G Mariner,2
-1333,Douglas DC-3-201,2
-1334,Boeing 737-293,2
-1335,Cessna 525 Citation M2,2
-1336,Boeing E-8C (707),2
-1337,Ilyushin Il-14FK,2
-1338,Yakovlev Yak-40D,2
-1339,Handley Page O/10,2
-1340,CASA C-212 Aviocar 400,2
-1341,Boeing KC-135Q,2
-1342,Embraer ERJ-190AR (ERJ-190-100 IGW),2
-1343,Douglas DC-3-382,2
-1344,CT-39A-1-NO Sabreliner,2
-1345,MD-87,2
-1346,Convair C-131F (CV-340),2
-1347,Boeing 727-2N8,2
-1348,Lockheed L-749-79-33 Constellation,2
-1349,Boeing 737-236,2
-1350,Airbus A310-308,2
-1351,Embraer C-95A Bandeirante (EMB-110K1),2
-1352,DC-8-62H,2
-1353,Boeing 737-2B1,2
-1354,Douglas DC-8-21,2
-1355,Boeing 747-4R7F,2
-1356,Vickers 736 Viscount,2
-1357,Boeing 737-73V (WL),2
-1358,Vickers 616 Viking 1B,2
-1359,Learjet 24XR,2
-1360,Short Sunderland Mk II,2
-1361,Hawker Siddeley HS-780 Andover CC.2,2
-1362,Dornier 328-100,2
-1363,Boeing 747SP-21,2
-1364,Boeing 747-412F,2
-1365,Boeing 747-428FER,2
-1366,A.W. Argosy II,2
-1367,Douglas DC-3-454,2
-1368,Boeing 707-344,2
-1369,Boeing 717-2BD,2
-1370,Shorts SC.7 Skyvan 3M-100,2
-1371,Lockheed C-60A-LO Lodestar,2
-1372,CANT Z.506,2
-1373,Convair CV-440-59,2
-1374,Airbus A319-115 (WL),2
-1375,Douglas DC-3-201C,2
-1376,Gulfstream American G-1159 Gulfstream II SP,2
-1377,Dassault Falcon 2000EX,2
-1378,Boeing 737-204,2
-1379,Grumman SA-16A Albatross (HU-16),2
-1380,Boeing 314A,2
-1381,Boeing 747-249F,2
-1382,Boeing E-3A Sentry (707-300B),2
-1383,Learjet U-36A,2
-1384,Vickers 798D Viscount,2
-1385,Boeing 717-231,2
-1386,Airbus A310-222,2
-1387,Shijiazhuang Y-5,2
-1388,Boeing 737-2P6,2
-1389,Vickers 614 Viking 1,2
-1390,Shaanxi Yunshuji Y-8D,2
-1391,Embraer EMB-145EP (ERJ-145EP),2
-1392,CASA C-295M,2
-1393,Convair T-29D (CV-240),2
-1394,Vickers 498 Viking 1A,2
-1395,Boeing 737-2R8C,2
-1396,Short Sunderland Mk I,2
-1397,Convair CV-300,2
-1398,Boeing 757-224 (WL),2
-1399,Boeing 727-223F,2
-1400,Douglas DC-3-208,2
-1401,BlÃ©riot 155,2
-1402,Douglas Dakota III  (DC-3),2
-1403,Vickers 803 Viscount,2
-1404,Airbus A330-321,2
-1405,Airbus A320-111,2
-1406,Vickers 748D Viscount,2
-1407,Junkers Ju-52 See,2
-1408,Boeing 757-2B7 (WL),2
-1409,Hawker Siddeley DH-125-1A,2
-1410,Sikorsky Y1OA-8 (S-43),2
-1411,Cessna 650 Citation VI,2
+930,Boeing 737-4H6,4
+931,Chase YC-122C Avitruc,4
+932,Hawker Siddeley HS-125-400B,4
+933,Grumman SA-16B Albatross (HU-16),4
+934,Douglas DC-2-115B,4
+935,Lockheed R7V-1 Super Constellation,4
+936,Convair CV-580 Airtanker,4
+937,Boeing 727-228,4
+938,Hawker 900XP,4
+939,MD-82,4
+940,Handley Page HPR-7 Herald 101,3
+941,Hawker Siddeley HS-125-3B,3
+942,Boeing 737-268,3
+943,Ilyushin Il-18A,3
+944,Consolidated PBY-3 Catalina,3
+945,Boeing 707-330B,3
+946,Boeing 747-3B3,3
+947,Boeing 757-223,3
+948,Douglas DC-3-201E,3
+949,Grumman M-16 Albatross (HU-16),3
+950,DC-8-71F,3
+951,Vickers VC10-1101,3
+952,Gulfstream G-V,3
+953,Savoia-Marchetti S-66,3
+954,Boeing 777-236ER,3
+955,Vickers 634 Viking 1B,3
+956,BN-2B-20 Islander,3
+957,Boeing 737-287,3
+958,Short S.30 Empire Flying Boat,3
+959,Handley Page O/7,3
+960,Martin M-130,3
+961,Boeing 707-345C,3
+962,IAI 1125 Astra SPX,3
+963,DH.95 Flamingo,3
+964,Boeing 737-8FE (WL),3
+965,DC-10-30ER,3
+966,Grumman UF-1 Albatross,3
+967,Douglas DC-3A-414A,3
+968,DH-106 Comet 1A,3
+969,Boeing 737-8H4 (WL),3
+970,Douglas AC-47,3
+971,Lockheed L-1011 TriStar 500,3
+972,Douglas DC-8-33F,3
+973,Douglas DC-2-221,3
+974,Douglas C-133B Cargomaster,3
+975,Cessna 680 Citation Sovereign,3
+976,Boeing 727-22C,3
+977,Junkers Ju-52/3mg7e,3
+978,DHC-8-106,3
+979,Airbus A319-112,3
+980,Learjet 36,3
+981,Let L-410A,3
+982,Beech RC-12K Huron,3
+983,SNCASE SE.200,3
+984,Learjet 45XR,3
+985,Fairchild R4Q-1 Flying Boxcar (C-119C),3
+986,Junkers Ju-52/3mg10e,3
+987,Vickers 794D Viscount,3
+988,Lockheed EC-121R Super Constellation,3
+989,Boeing 707-329C,3
+990,Fairchild SA227-BC Metro III,3
+991,ATR 42-512,3
+992,Lockheed CC-130H Hercules,3
+993,Boeing 737-2H4,3
+994,Hawker Siddeley HS-125-F400A,3
+995,Fairchild FH-227D,3
+996,Handley Page HPR-7 Herald 203,3
+997,MD-10-10F,3
+998,Handley Page O/400,3
+999,BAC One-Eleven 420EL,3
+1000,Ilyushin Il-14T,3
+1001,Boeing 747-230B,3
+1002,DC-9-87 (MD-87),3
+1003,Short S.25 Sandringham 4,3
+1004,Grumman SA-16 Albatross,3
+1005,Curtiss T-32 Condor II,3
+1006,Boeing 727-21F,3
+1007,Xian Yunshuji Y-7,3
+1008,Kawasaki C-1,3
+1009,Bombardier Global 6000,3
+1010,IPTN/CASA CN-235M-100,3
+1011,Boeing 727-23F,3
+1012,Canadair C-4-1 North Star,3
+1013,Convair CV-440-38,3
+1014,Boeing 707-331,3
+1015,Vickers 827 Viscount,3
+1016,Handley Page HP.81 Hermes IV,3
+1017,Fairchild UC-123K Provider,3
+1018,Dornier Do R4 Superwal,3
+1019,Boeing 737-8K2 (WL),3
+1020,Dassault Falcon 100,3
+1021,Kaiser-Frazer C-119J Flying Boxcar,3
+1022,Airbus A330-303,3
+1023,Douglas DC-5-511,3
+1024,Shijiazhuang Y-5B(D),3
+1025,Fokker F.XXII,3
+1026,Boeing 747-430,3
+1027,Boeing 707-351B,3
+1028,SNCASE SE.2010 Armagnac,3
+1029,Shijiazhuang Y-5B,3
+1030,Embraer C-95BM Bandeirante (EMB-110),3
+1031,BAC One-Eleven 204AF,3
+1032,Boeing 707-328C,3
+1033,Boeing 737-4Q8 (SF),3
+1034,Convair CV-340-68B,3
+1035,Boeing 757-21B,3
+1036,Boeing 727-2D3,3
+1037,Boeing 737-8F2 (WL),3
+1038,Douglas C-49H (DC-3),3
+1039,Douglas DC-3-196A,3
+1040,Short Sunderland II,3
+1041,PADC/BN-2A-21 Islander,3
+1042,Boeing 737-832 (WL),3
+1043,Douglas DC-2-115L,3
+1044,Boeing 767-332ER (WL),3
+1045,Douglas C-49D (DC-3),3
+1046,Vickers Super VC10-1151,3
+1047,Savoia-Marchetti SM-75 bis,3
+1048,Douglas C-49-DO (DC-3),3
+1049,Douglas DC-7BF,3
+1050,Douglas C-49G-DO (DC-3),3
+1051,Beech B300 Super King Air 350,3
+1052,Embraer EMB-110P1A Bandeirante,3
+1053,Airbus A320-216,3
+1054,Fairchild C-119L Flying Boxcar,3
+1055,Short Sunderland V,3
+1056,Avro 691 Lancastrian C.4,3
+1057,BAC One-Eleven 525FT,3
+1058,Airbus A330-322,3
+1059,DC-8-62F,3
+1060,Cessna 208 Caravan,3
+1061,Bristol 170 Freighter 21P,3
+1062,Boeing 727-81,3
+1063,Canadair CRJ-900ER,3
+1064,Boeing 787-9,3
+1065,Airbus A330-203,3
+1066,Boeing 767-2J6ER,3
+1067,DC-10,3
+1068,Boeing 707-458,3
+1069,A.W. AW.27 Ensign I,3
+1070,Short S.25 Sandringham 5,3
+1071,Aeromarine 75,3
+1072,LiorÃ© et Olivier 213,3
+1073,A.W. AW-650 Argosy 101,3
+1074,Canadair CL-44D4-6,3
+1075,Douglas DC-3-194F,3
+1076,Nord 262A-44,3
+1077,BN-2A-27Â Islander,3
+1078,Dornier 228-100,3
+1079,Handley Page HPR-7 Herald 401,3
+1080,Potez 62,3
+1081,Handley Page HP.42W,3
+1082,Fokker F-27 Friendship 200MAR,3
+1083,Vickers 701C Viscount,3
+1084,MD-90-30,3
+1085,NAMC YS-11A-500,3
+1086,BN-2A-2 Islander,3
+1087,Embraer ERJ-170,3
+1088,Douglas SC-47D (DC-3),3
+1089,Boeing 727-232,3
+1090,Boeing 727-25,3
+1091,Canadair DC-4M1 North Star,3
+1092,A.W. AW.15 Atalanta,3
+1093,Fairchild C-123J Provider,3
+1094,Breguet SP-13A Atlantic,3
+1095,Boeing 747-422,3
+1096,DC-9-33RC,3
+1097,BN-2A-20Â Islander,3
+1098,Ilyushin Il-78,3
+1099,BAe Nimrod MR.2,3
+1100,Fokker F-27 Friendship 600RF,3
+1101,Lisunov Li-2V,3
+1102,Douglas C-54P (DC-4),3
+1103,Embraer P-95 Bandeirulha (EMB-111A),3
+1104,Douglas DC-3-313A,3
+1105,Lockheed 14-WG3B Super Electra,3
+1106,IPTN/CASA CN-235-10,3
+1107,Douglas DC-3-201D,3
+1108,DC-8-53,3
+1109,GAF Nomad N.22,3
+1110,SAAB Scandia 90A-1,3
+1111,Embraer EMB-110EJ Bandeirante,3
+1112,Vickers 951 Vanguard,3
+1113,Airbus A330-343X,3
+1114,Boeing 757-200,3
+1115,Fokker F-27 Friendship 300,3
+1116,Boeing 707-379C,3
+1117,Boeing 737-8KN (WL),3
+1118,DH-114 Heron 2B,3
+1119,Douglas R4D-4 (DC-3),3
+1120,Bristol 170 Superfreighter 32,3
+1121,Learjet 60XR,3
+1122,Cirrus SF50 Vision Jet G2,3
+1123,Beech 200 King Air,3
+1124,Bombardier CRJ-900ER,3
+1125,Short S.25 Sandringham 6,3
+1126,BAe-146-100,3
+1127,Douglas SC-47D,3
+1128,Fairchild FH-227C,3
+1129,Convair CV-580F SCD,3
+1130,PADC/BN-2T Islander,3
+1131,CT-39A Sabreliner,3
+1132,Ilyushin Il-12B,3
+1133,Boeing 737-8GP (WL),3
+1134,Douglas DC-3A-197D,3
+1135,Boeing 727-247,3
+1136,Dassault Falcon 2000,3
+1137,Vickers 724 Viscount,3
+1138,Consolidated Canso A,3
+1139,Boeing 707-121,3
+1140,Boeing 737-210C,3
+1141,CASA CN-235M-200,3
+1142,Boeing 727-251,3
+1143,Boeing KC-135E,3
+1144,Cessna 550B Citation Bravo,3
+1145,Antonov An-2PF,3
+1146,Boeing 737-2C3,3
+1147,Sikorsky S-43,3
+1148,Boeing 737-476 (SF),3
+1149,DHC-8-315Q MPA,3
+1150,Beech C-12F Huron,3
+1151,Boeing 727-264,3
+1152,Rockwell CT-39E Sabreliner,3
+1153,Bombardier Challenger 605,3
+1154,Lockheed C-130H-30 Hercules,3
+1155,Boeing 707-3B4C,3
+1156,Boeing 747-246B,3
+1157,C-17A Globemaster III,3
+1158,Let L-410MU,3
+1159,Boeing 707-338C,3
+1160,Vickers 814 Viscount,3
+1161,BAC One-Eleven 203AE,3
+1162,BAC One-Eleven 201AC,3
+1163,Lockheed EC-121H Super Constellation,3
+1164,Ford 5-AT Tri-Motor,3
+1165,Consolidated C-10 Catalina (PBY-5),3
+1166,Boeing 707-131B,3
+1167,Canadair Challenger 601-3R,3
+1168,Boeing 737-2J8C,3
+1169,Douglas C-47J (DC-3),3
+1170,Let L-410MA,3
+1171,Lockheed OP-2E Neptune,3
+1172,Boeing 737-2F9,3
+1173,Lockheed L-749 Constellation,3
+1174,Cessna 525 CitationJet CJ1+,3
+1175,Curtiss AT-32B Condor II,3
+1176,Douglas VC-47B (DC-3),3
+1177,Vickers 749 Viscount,3
+1178,Consolidated 32-2 Liberator II,3
+1179,Dornier 328JET-310,3
+1180,Boeing 727-116,3
+1181,Dornier Do 128-6 Turbo Skyservant,3
+1182,Boeing C-135B,3
+1183,Airbus A320,3
+1184,Boeing 737-228,3
+1185,BAe 4100 Jetstream 41,3
+1186,Lockheed L-149 Constellation,3
+1187,Lockheed C-121C Super Constellation,3
+1188,DHC-3T Turbine Otter,3
+1189,Vickers 628 Viking 1B,3
+1190,Boeing 737-2B7,3
+1191,BN-2A-21 Defender,3
+1192,Boeing 757-223 (WL),3
+1193,Lockheed 414-56 Hudson IIIA,3
+1194,Boeing 737-9GPER (WL),3
+1195,Lockheed C-130E-I Hercules,3
+1196,DHC-8-311Q Dash 8,3
+1197,Junkers G.31go,3
+1198,DHC-8-314 Dash 8,3
+1199,Grumman G-1159 Gulfstream II SP,3
+1200,Handley Page W.10,3
+1201,Raytheon Hawker 850XP,2
+1202,Boulton Paul P.71A,2
+1203,Boeing 727-46F,2
+1204,Lockheed LC-130F Hercules,2
+1205,Dornier 328-100,2
+1206,Vickers 798D Viscount,2
+1207,Douglas R5D-3 (C-54D),2
+1208,Embraer EMB-145ER (ERJ-145ER),2
+1209,Boeing 737-293,2
+1210,IAI 1124 Westwind I,2
+1211,Let L-410UVP-E9D,2
+1212,Boeing 737-2R8C,2
+1213,Convair VT-29B (CV-240),2
+1214,Douglas C-48 (DC-3),2
+1215,Douglas C-74 Globemaster I,2
+1216,Douglas DC-3A-414,2
+1217,Shaanxi Yunshuji Y-8,2
+1218,Embraer EMB-145LU (ERJ-145LU),2
+1219,Convair CV-440-59,2
+1220,Lockheed 414 Hudson VI,2
+1221,Boeing 767-36NER,2
+1222,BAC One-Eleven 527FK,2
+1223,Boeing 737-2K6,2
+1224,Boeing 707-344,2
+1225,Fairchild C-119F Flying Boxcar,2
+1226,Breguet 730,2
+1227,Douglas DC-3-201C,2
+1228,Lockheed PV-1 Ventura,2
+1229,Dornier Do 128-2 Skyservant,2
+1230,Boeing 747SP-21,2
+1231,CV-2A Caribou (DHC-4),2
+1232,Lockheed B-34 Lexington,2
+1233,DH-114 Riley Heron 2,2
+1234,Ilyushin Il-14FKM,2
+1235,Douglas DC-3-455,2
+1236,CANT Z.506,2
+1237,BAC One-Eleven 524FF,2
+1238,Boeing 757-232,2
+1239,Douglas DC-3-208A,2
+1240,Xian Yunshuji Y-7-100C,2
+1241,Boeing 727-2H3,2
+1242,Boeing 707-347C,2
+1243,Boeing 737-4B6,2
+1244,Lockheed L-1049C-55-81 Super Constellation,2
+1245,Nord 2502F Noratlas,2
+1246,Douglas TC-47B (DC-3),2
+1247,Antonov TVS-2MS,2
+1248,Hawker Siddeley HS-125-3A,2
+1249,Embraer ERJ-175LR,2
+1250,Douglas C-118B (DC-6),2
+1251,Boeing 737-3Q8,2
+1252,Boeing 707-138B,2
+1253,Fiat G.18V,2
+1254,Douglas DC-3-454,2
+1255,Douglas DC-3-227,2
+1256,Convair CV-340-31,2
+1257,BAC One-Eleven 515FB,2
+1258,Douglas DC-3-322,2
+1259,Vickers 782D Viscount,2
+1260,Boeing 737-130,2
+1261,Boeing 727-114,2
+1262,Boeing 707-3K1C,2
+1263,Boeing 727-31,2
+1264,Short Sunderland Mk I,2
+1265,Boeing 737-924ER (WL),2
+1266,Antonov An-30,2
+1267,Douglas R4D-5S (DC-3),2
+1268,Lockheed L-1011 TriStar 100,2
+1269,Shaanxi Yunshuji Y-8D,2
+1270,Fiat G.18,2
+1271,Douglas Dakota C.3 (DC-3),2
+1272,Vickers 736 Viscount,2
+1273,Boeing E-8C (707),2
+1274,Douglas DC-3-201,2
+1275,Airbus A330-302,2
+1276,Boeing 747-251B,2
+1277,Martin PBM-5G Mariner,2
+1278,Grumman G-111 Albatross,2
+1279,Boeing 737-2P5,2
+1280,Boeing 767-324ER,2
+1281,Douglas DC-2-210,2
+1282,Boeing 727-222,2
+1283,Fairchild R4Q-2 Flying Boxcar (C-119F),2
+1284,Boeing 737-2A1C,2
+1285,Canadair CRJ-701ER,2
+1286,Boeing 747-357,2
+1287,Boeing 737-524 (WL),2
+1288,Airbus A300F4-622R,2
+1289,Douglas C-49E (DC-3DST-144),2
+1290,Boeing 757-251 (WL),2
+1291,Beech C-12C Huron,2
+1292,DC-10-40,2
+1293,DC-8-54F,2
+1294,Douglas RC-54V (DC-4),2
+1295,Avro Shackleton T.4,2
+1296,PZL-Mielec M28-05PI Skytruck,2
+1297,Fokker F-28 Fellowship 2000,2
+1298,BAC One-Eleven 424EU,2
+1299,Lockheed C-60A-LO Lodestar,2
+1300,Airbus A330-321,2
+1301,AMI C-47TP (DC-3T),2
+1302,Boeing 737-529,2
+1303,Embraer C-95A Bandeirante (EMB-110K1),2
+1304,Boeing 747-438,2
+1305,Boeing 737-2P6,2
+1306,Fairchild FH-227E,2
+1307,Antonov An-24 ?,2
+1308,Vickers 614 Viking 1,2
+1309,Short Sunderland Mk II,2
+1310,Boeing 757-224 (WL),2
+1311,Consolidated Catalina IIA (PBY-5A),2
+1312,Lockheed P2V-7LP Neptune,2
+1313,Boeing 737-236,2
+1314,Fiat G.212,2
+1315,Lockheed Lodestar II,2
+1316,Boeing 737-266,2
+1317,Boeing 727-223,2
+1318,Embraer EMB-140 (ERJ-135KL),2
+1319,Harbin Y-12-II,2
+1320,Hawker Siddeley HS-125-400,2
+1321,Douglas DC-3-201F,2
+1322,Antonov An-12BK-PPS,2
+1323,Vickers 739 Viscount,2
+1324,Douglas DST-318A (DC-3),2
+1325,Lockheed C-60-LO Lodestar,2
+1326,CASA CN-235M-100,2
+1327,Consolidated 28-5MC Canso (PBY-5),2
+1328,Boeing 737-8Q8 (WL),2
+1329,Douglas DC-3-232,2
+1330,BAC One-Eleven 412EB,2
+1331,Douglas DC-3-208,2
+1332,Gulfstream G-IVSP,2
+1333,BAe 4121 Jetstream 41,2
+1334,DH-125-400A,2
+1335,BN-2B-27Â Islander,2
+1336,Convair CV-340-38,2
+1337,Carstedt Jet Liner 600F,2
+1338,BAe BAe-748-314 Srs. 2A LFD,2
+1339,Cessna 550 Citation S/II,2
+1340,Yakovlev Yak-40S2,2
+1341,Lockheed 14-N3 Super Electra,2
+1342,Fairchild SA227-DC Metro 23 (C-26B),2
+1343,Boeing 747-481D,2
+1344,Airbus,2
+1345,Short S.25 Sandringham 2,2
+1346,Lockheed Hercules C.4 (C-130J-30),2
+1347,Embraer P-95B Bandeirulha (EMB-111),2
+1348,Boeing 737-53A,2
+1349,Boeing 767-223ER,2
+1350,Beech Beechjet 400,2
+1351,Boeing 737-2D6C,2
+1352,DC-9-15F,2
+1353,Cessna 208A Caravan 675,2
+1354,Concorde 101,2
+1355,Airbus A319-131,2
+1356,Consolidated Catalina IVA (PBY-5),2
+1357,BAC One-Eleven 520FN,2
+1358,Boeing 727-113C,2
+1359,Cessna 650 Citation VI,2
+1360,Douglas DC-2-211,2
+1361,Junkers Ju-352 Herkules,2
+1362,Bombardier Challenger 604,2
+1363,Lockheed C-5B Galaxy,2
+1364,Boeing 747-406M,2
+1365,CASA C-212 Aviocar 400,2
+1366,Convair CV-440-0,2
+1367,Hurel-Dubois HD.321,2
+1368,Boeing 737 MAX 8,2
+1369,Savoia-Marchetti S.73P,2
+1370,BAe ATP-F,2
+1371,Vickers 604 Viking 1B,2
+1372,Embraer EMB-145XR,2
+1373,Shorts S.26 G Class,2
+1374,Bloch 220,2
+1375,Douglas DC-3F,2
+1376,GAF Nomad N.22C,2
+1377,DH-114 Heron,2
+1378,Lockheed L-749-79-33 Constellation,2
+1379,Vickers 668 Varsity T.1,2
+1380,Boeing 737-883,2
+1381,Fairchild F-27B,2
+1382,Short S.17 Kent,2
+1383,IAI 1125 Astra,2
+1384,DHC-8-102 Dash 8,2
+1385,Junkers Ju-52 See,2
+1386,Consolidated 28-5MNE Catalina,2
+1387,Boeing 727-227,2
+1388,Canadair CP-107 Argus Mk.2,2
+1389,Vickers 635 Viking 1B,2
+1390,Antonov An-26Sh,2
+1391,Boeing 727-121C,2
+1392,Vickers Valetta C.2,2
+1393,Douglas DC-8-52,2
+1394,Airbus A300B4,2
+1395,Handley Page HP-137 Jetstream 1,2
+1396,Boeing 737-8D6,2
+1397,Convair T-29B (CV-240),2
+1398,Cessna 208 Caravan 675,2
+1399,Curtiss AT-32D Condor II,2
+1400,Boeing 314A,2
+1401,CANT Z.506C,2
+1402,NAMC YS-11A-211,2
+1403,IAI 1125 Astra SP,2
+1404,Morane Saulnier MS.760A Paris IA,2
+1405,Douglas DC-3-201G,2
+1406,Boeing 720-060B,2
+1407,Focke-Wulf Fw 200,2
+1408,Boeing 737-2K9,2
+1409,DHC-8-202,2
+1410,Short S.25 Sunderland GR.5,2
+1411,Boeing 727-24C,2
 1412,Boeing 737-248,2
-1413,Boeing 737-566,2
-1414,Douglas DC-3F,2
-1415,Vickers 764D Viscount,2
-1416,Rohrbach Ro X Romar I,2
-1417,Boeing 727-121C,2
-1418,Junkers Ju-352 Herkules,2
-1419,Lockheed Hercules C.4 (C-130J-30),2
-1420,Lockheed PV-2D Harpoon,2
-1421,Vickers 720 Viscount,2
-1422,Handley Page HPR-7 Herald 214,2
-1423,Embraer EMB-145LU (ERJ-145LU),2
-1424,Avro 689 Tudor 5,2
-1425,Vickers 744 Viscount,2
-1426,Rockwell Sabreliner 40,2
-1427,Airbus A320-271N,2
-1428,Boeing 747-246F (SCD),2
-1429,Nord 2502F Noratlas,2
-1430,Lockheed WC-130H Hercules,2
-1431,Antonov An-70,2
-1432,Douglas RC-47P,2
-1433,Douglas C-54M (DC-4),2
-1434,BAC One-Eleven 412EB,2
-1435,BAe ATP-F,2
-1436,Lockheed C-69 Constellation,2
-1437,Martin 2-0-2A,2
-1438,Boeing 737-732 (WL),2
-1439,Boeing 720-060B,2
-1440,Harbin Y-12-II,2
-1441,Embraer EMB-145XR,2
-1442,Lockheed P2V-7LP Neptune,2
-1443,Airbus A380-861,2
-1444,Short S.17 Kent,2
-1445,Boeing 707-131,2
-1446,Convair T-29B (CV-240),2
-1447,Boeing 737-230C,2
-1448,IAI 1125 Astra SP,2
-1449,PZL-Mielec M28-05PI Skytruck,2
-1450,BAC One-Eleven 402AP,2
-1451,Douglas Dakota II (DC-3),2
-1452,Xian Yunshuji Y-7-100C,2
-1453,BAC One-Eleven 401AK,2
-1454,Douglas C-54S (DC-4),2
-1455,Boeing 737-529,2
-1456,Bloch 220,2
-1457,Fairchild F-27B,2
-1458,Beech A200 Super King Air,2
-1459,Boeing 727-2J0,2
-1460,Boeing 737-298C,2
-1461,Handley Page HPR-7 Herald 202,2
-1462,DH-114 Riley Heron 2B,2
-1463,Cessna 208 Caravan 675,2
-1464,Boeing 707-3K1C,2
-1465,Douglas C-49E (DC-3-DST),2
-1466,Douglas Tp 79 (C-47-DL),2
-1467,NAMC YS-11-109,2
-1468,Bristol 175 Britannia 102,2
-1469,DH-114 Heron,2
-1470,Boeing B-17G Flying Fortress,2
-1471,DH-114 Riley Heron 2,2
-1472,Boeing 747-412,2
-1473,Boeing 737-3K2,2
-1474,Tupolev Tu-204-100,2
-1475,Boeing 727-46F,2
-1476,Douglas DC-3A-367,2
-1477,Douglas DC-3 (Showa L2D),2
-1478,Boeing 767-223ER,2
-1479,Douglas DC-3A-228F,2
-1480,DC-8-55F,2
-1481,Gulfstream G-IVSP,2
-1482,Boeing 737-3B7,2
-1483,Boeing 737-406,2
-1484,Airbus A321-271N,2
-1485,Boeing 737-53A,2
-1486,Boeing 767-219ER,2
-1487,Canadair CRJ-100LR,2
-1488,Ilyushin Il-14FKM,2
-1489,BAC One-Eleven 424EU,2
-1490,Boeing 757-260,2
-1491,Airbus A300B4-620,2
-1492,Boeing 727-243,2
-1493,Boeing 767-3Q8ER,2
-1494,Vickers 668 Varsity T.1,2
-1495,Lockheed 14-N3 Super Electra,2
-1496,Boeing 737-524 (WL),2
-1497,MD-11C,2
-1498,BAC One-Eleven 524FF,2
-1499,Short S.8 Calcutta,2
-1500,DC-10-40,2
-1501,Tupolev Tu-114D,2
-1502,Boeing 727-64,2
-1503,Airbus A320-233,2
-1504,Boeing 737 MAX 8,2
-1505,Boeing 727-223,2
-1506,BAe 4121 Jetstream 41,2
-1507,Beech Beechjet 400,2
-1508,Lockheed L-1049H-01-06-162 Super Constellation,2
-1509,NAMC YS-11A-211,2
-1510,Douglas DC-3-208A,2
-1511,Airbus A310-304 (F),2
-1512,Fiat G.18,2
-1513,Rockwell 1121A Jet Commander,2
-1514,UC-1A Otter (DHC-3),2
-1515,Boeing 727-114,2
-1516,Douglas DC-6A/C,2
-1517,Boeing B-17F,2
-1518,Lockheed L-1049E Super Constellation,2
-1519,Douglas DC-3-209A,2
-1520,Boeing 747-269B,2
-1521,Cessna AC-208B Combat Caravan,2
-1522,Boeing 747-481D,2
-1523,Boeing 737-524,2
-1524,Douglas VC-47J (DC-3),2
-1525,Boeing 737-301 (BDSF),2
-1526,Douglas C-118B (DC-6),2
-1527,Vickers 953 Vanguard,2
-1528,Swearingen SA227-AT Merlin IVC,2
-1529,Boeing 747-2R7F,2
-1530,Boeing 747-206B,2
-1531,Vickers 732 Viscount,2
-1532,Focke-Wulf Fw 200,2
-1533,Douglas DC-3-201F,2
-1534,Gulfstream American G-1159 Gulfstream II B,2
-1535,Ilyushin Il-14D,2
-1536,Douglas DC-2-115F,2
-1537,Lockheed R5O-6 Lodestar,2
-1538,Bombardier Challenger 604,2
-1539,Antonov An-72-100,2
-1540,Douglas C-49E (DC-3),2
-1541,Boeing 707-348C,2
-1542,DH-114 Riley Heron 2D,2
-1543,Douglas DC-3A-S1C3G,2
-1544,Ilyushin Il-38,2
-1545,Consolidated 28-5MC Canso (PBY-5),2
-1546,Morane Saulnier C-41 (MS.760 Paris),2
-1547,Boeing 737-2X6C,2
-1548,Douglas C-49F-DO (DC-3),2
-1549,Embraer EMB-145ER (ERJ-145ER),2
-1550,Boeing 737-3T0,2
-1551,Consolidated Vultee PBY-6A Catalina,2
-1552,Fiat G.18V,2
-1553,Vickers 735 Viscount,2
-1554,BN-2B-27Â Islander,2
-1555,LiorÃ©-et-Olivier H.242/1,2
-1556,Boeing 767-324ER,2
-1557,Embraer ERJ-175,2
-1558,Ford 5-AT-A Tri-Motor,2
-1559,Boeing 747-122,2
-1560,Dassault Falcon 200,2
-1561,Boeing 727-86,2
-1562,Shorts 360-200,2
-1563,DHC-8-102 Dash 8,2
-1564,Vickers Valetta C.2,2
-1565,Boeing 747-2U3B,2
-1566,Embraer EMB-110P1K Bandeirante,2
-1567,HESA IrAn-140-100,2
-1568,Convair CV-340-59,2
-1569,Concorde 101,2
-1570,Douglas DC-3A-228D,2
-1571,Bristol 175 Britannia 253,2
-1572,Canadair CP-107 Argus Mk.2,2
-1573,Douglas LC-47J,2
-1574,Antonov An-26Sh,2
-1575,Boeing 747-368,2
-1576,Boeing 737-130,2
-1577,Boeing 737-8D6,2
-1578,Airbus,2
-1579,Boeing 707-123,2
-1580,Airbus A300B4,2
-1581,Consolidated Catalina IVB (PB2B-1),2
-1582,Douglas C-53B (DC-3),2
-1583,Boeing 747-357,2
-1584,Dassault Falcon 900B,2
-1585,Douglas C-118A Liftmaster (DC-6A),2
-1586,Embraer ERJ-175LR,2
-1587,BN-2A-8Â Islander,2
-1588,Boeing 757-232,2
-1589,Shaanxi Yunshuji Y-8,2
-1590,Raytheon 390 Premier IA,2
-1591,Antonov An-12BK-PPS,2
-1592,Transall C-160F,2
-1593,Boeing 707-341C,2
-1594,ATR 42-310,2
-1595,Boeing 737-3H4,2
-1596,Transall C-160R,2
-1597,Antonov An-74T-200,2
-1598,Boeing 727-2D6,2
-1599,Convair T-29A (CV-240),2
-1600,Boeing 747-243B,2
-1601,Bristol 175 Britannia 318,2
-1602,Douglas R4D-5S (DC-3),2
-1603,Boeing 767-269,2
-1604,Hawker Siddeley HS-121 Trident 3B,2
-1605,Boeing 747-251B,2
-1606,Douglas DC-3-268,2
-1607,Boeing 737-282,2
-1608,Steward-Davis Super Catalina (PBY-5A),2
-1609,Airbus A300F4-622R,2
-1610,Lockheed C-121G Super Constellation,2
-1611,Consolidated 28-5MNE Catalina,2
-1612,Lockheed P2V-5F Neptune,2
-1613,Lockheed C-60-LO Lodestar,2
-1614,Airbus A320-251N,2
-1615,Douglas Dakota 4 (DC-3),2
-1616,Douglas DC-2-115G,2
-1617,Morane Saulnier MS.760A Paris IA,2
-1618,Boeing 707-441,2
-1619,Avro 691 Lancastrian XPP,2
-1620,Boeing 737-59D,2
-1621,Convair CV-340-31,2
-1622,Douglas C-47E (DC-3),2
-1623,Boeing 737-205,2
-1624,NAMC YS-11-125,2
-1625,Convair CV-440-0,2
-1626,Lockheed LC-130F Hercules,2
-1627,IAI 1125 Astra,2
-1628,CASA C-212-M Aviocar 100,2
-1629,Airbus A330-302,2
-1630,Consolidated Catalina IIA (PBY-5A),2
-1631,Grumman G-111 Albatross,2
-1632,Lockheed Hercules C.1P (C-130K),2
-1633,Consolidated Catalina IIIA (PBY-5A),2
-1634,Douglas C-49E (DC-3DST-144),2
-1635,Douglas DC-3-201G,2
-1636,ATR 72-201,2
-1637,Douglas DC-3B-202,2
-1638,Douglas R5D-3 (C-54D),2
-1639,Convair CV-340-38,2
-1640,Boeing 767-35DER,2
-1641,BAe BAe-748-314 Srs. 2A LFD,2
-1642,Lockheed L-1011 TriStar 100,2
-1643,Beech Super King Air,2
-1644,Airbus A321-111,2
-1645,DH-125-1A,2
-1646,Ford 4-AT-D Tri-Motor,2
-1647,DC-8-73CF,2
-1648,Boeing 727-212,2
-1649,Cessna C-98A Grand Caravan (208B),2
-1650,Fairchild C-123 Provider,2
-1651,Boeing 737-2Y5,2
-1652,Fiat G.212,2
-1653,Kaiser-Frazer C-119L Flying Boxcar,2
-1654,DH-125-400A,2
-1655,Fairchild C-119F Flying Boxcar,2
-1656,Boeing 757-251 (WL),2
-1657,Consolidated Catalina IVA (PBY-5),2
-1658,Boeing 727-24C,2
-1659,Nakajima/Douglas DC-2,2
-1660,Martin JRM-3 Mars,2
-1661,Sikorsky S-42,2
-1662,Douglas R2D-1 (DC-2),2
-1663,Convair CV-440-12,2
-1664,Boeing 727-30,2
-1665,Boeing 707-347C,2
-1666,Boeing 707-138B,2
-1667,DHC-8-202,2
-1668,Douglas C-48 (DC-3),2
-1669,Airbus A330-301,2
-1670,Lockheed L-749A-79 Constellation,2
-1671,Tupolev Tu-104,2
-1672,Lockheed L-649 Constellation,2
-1673,Canadair CL-44J,2
-1674,Vickers 832 Viscount,2
-1675,Douglas DC-2-210,2
-1676,Boeing 737-4B6,2
-1677,Douglas DC-3A-414,2
-1678,Douglas DC-3-209,2
-1679,Boeing 727-222,2
-1680,Lockheed Lodestar II,2
-1681,Boeing 737-883,2
-1682,Grumman UF-1G Albatross,2
-1683,Hawker Siddeley HS-125-400,2
-1684,Douglas DC-3-455,2
-1685,Antonov TVS-2MS,2
-1686,Boeing 737-2A1C,2
-1687,BAC One-Eleven 520FN,2
-1688,Short Sunderland Mk III,2
-1689,Antonov An-24 ?,2
-1690,Boeing 727-2L5,2
-1691,Lockheed B-34 Lexington,2
-1692,Short S.25 Sandringham 2,2
-1693,Boeing 727-227,2
-1694,Douglas DC-8-52,2
-1695,Boeing 707-340C,2
-1696,Embraer P-95B Bandeirulha (EMB-111),2
-1697,Boeing 737-2D6C,2
-1698,Douglas DC-2-171,2
-1699,Avro 688 Super Trader,2
-1700,Ford 4-AT-.  Tri-Motor,2
-1701,Boeing 727-286,2
-1702,Hurel-Dubois HD.321,2
-1703,SE-210 Caravelle IA,2
-1704,Boeing 737-7Q8,2
-1705,Kawasaki Ki-56,2
-1706,DC-8-62AF,2
-1707,Boeing 737-266,2
-1708,Curtiss AT-32D Condor II,2
-1709,Boeing 767-36NER,2
-1710,Boeing 727-51,2
-1711,Savoia-Marchetti S.73P,2
-1712,Short S.25 Sunderland GR.5,2
-1713,Vickers 604 Viking 1B,2
-1714,Fairchild SA227-DC Metro 23 (C-26B),2
-1715,Airbus A340-211,2
-1716,Boulton Paul P.71A,2
-1717,Lockheed AC-130H Spectre,2
-1718,BAC One-Eleven 527FK,2
-1719,Cessna 208A Caravan 675,2
-1720,Fairchild UC-123B Provider,2
-1721,Handley Page HP-137 Jetstream 1,2
-1722,Embraer ERJ 190AR (ERJ-190-100 IGW),2
-1723,Boeing 737-2P5,2
-1724,Avcen Jetpod,1
-1725,Airbus A300B,1
-1726,NAMC YS-11A-219,1
-1727,Rockwell Sabreliner 70,1
-1728,CASA C-212 Aviocar,1
-1729,Concorde 102,1
-1730,Boeing 737-89P (WL),1
-1731,Handley Page Jetstream T.1,1
-1732,Boeing 767-38EER,1
-1733,Boeing 737-8FB (WL),1
-1734,Boeing 777-328ER,1
-1735,Handley Page HPR-7 Herald 207,1
-1736,Antonov An-72P,1
-1737,Douglas DC-3-294A,1
-1738,Boeing 737-8EH,1
-1739,Boeing 737-3W0,1
-1740,Boeing 737-430,1
-1741,Boeing 737-2M2C,1
-1742,Boeing 737-300,1
-1743,Bristol 175 Britannia 301,1
-1744,Airbus A310-300,1
-1745,Boeing 737-8GK (WL),1
-1746,Harbin Yunshuji Y-11,1
-1747,Bombardier BD-100 Challenger 350,1
-1748,BAe BAe-748-347 Srs. 2A,1
-1749,Boeing EC-135J,1
-1750,Junkers F.24k2ay (G.24),1
-1751,Boeing 717-23S,1
-1752,DC-9-31F,1
-1753,BN-2AÂ Islander,1
-1754,Fokker F-27 Friendship 500CRF,1
-1755,Nord 262A-32,1
-1756,Convair VT-29C (CV-240),1
-1757,Mohawk 298 (Nord 262),1
-1758,Douglas DC-3A-228,1
-1759,Dornier Do 28-G92 Turbo Skyservant,1
-1760,Boeing 737-2V2,1
-1761,Martin JRM-1 Mars,1
-1762,Boeing 727-82,1
-1763,GAF Nomad N.22SL,1
-1764,Nord 262E,1
-1765,CASA C-212-A2 Aviocar 100,1
-1766,IPTN/CASA CN-235M-VIP,1
-1767,Douglas TC-47K (DC-3),1
-1768,IPTN/CASA CN-235MP-100M,1
-1769,Fairchild C-119B-10-FA Flying Boxcar,1
-1770,Macchi C.100,1
-1771,Boeing 737-3M8 (QC),1
-1772,Vickers C-90 Viscount (742D),1
-1773,Lockheed C-130F Hercules,1
-1774,Super Avia 14,1
-1775,DHC-8-401Q Dash 8,1
-1776,BN-2T Islander AL.1,1
-1777,Boeing 737-75B,1
-1778,BN-2B-20Â Islander,1
-1779,Fokker F-28 Fellowship 3000R,1
-1780,BAC One-Eleven 501EX,1
-1781,Junkers G.31ba,1
-1782,Ilyushin Il-12T,1
-1783,BAe Nimrod MR.2P,1
-1784,Douglas DC-3-197,1
-1785,Convair CV-340-49,1
-1786,Douglas AC-47/Basler 67,1
-1787,Boeing 727-2B6F Adv.,1
-1788,Douglas LC-47A (DC-3),1
-1789,Beech B200 Catpass 250,1
-1790,Boeing 777-266ER,1
-1791,Hawker Siddeley HS-125-700A,1
-1792,DC-8-63PF,1
-1793,Lockheed WV-3 Super Constellation,1
-1794,Boeing 737-86N,1
-1795,Boeing 737-85R (WL),1
-1796,Boeing 737-2M9,1
-1797,Boeing 757-251,1
-1798,Antonov An-74T,1
-1799,Consolidated LB.30 Liberator II,1
-1800,Boeing S.307B Stratoliner,1
-1801,Douglas CC-129 Dakota (DC-3),1
-1802,Boeing 737-76N (WL),1
-1803,Boeing 747-8KZF,1
-1804,Convair VT-29A (CV-240),1
-1805,Lockheed KC-130R Hercules,1
-1806,Saab 2000 AEW&C,1
-1807,Potez 840,1
-1808,Antonov An-32P,1
-1809,Kaiser-Fraser C-119G Flying Boxcar,1
-1810,Airbus A330-323X,1
-1811,Vickers VC10 C.1K,1
-1812,Lockheed C-121G Super Constellation (L-1049),1
-1813,Fokker F-27 Friendship 300M,1
-1814,Douglas DC-2-115J,1
-1815,Short S.23 Empire Flying Boat Mk II,1
-1816,BAe BAe-748-401 Srs. 2B LFD,1
-1817,Boeing 747-209F,1
-1818,Junkers R-42 (G.24),1
-1819,Vickers 816 Viscount,1
-1820,Douglas AC-47D (DC-3),1
-1821,Fokker 100 ?,1
-1822,Embraer C-95C Bandeirante (EMB-110P2),1
-1823,Boeing 767-330ER,1
-1824,Douglas C-50A (DC-3-401),1
-1825,Boeing C-135A,1
-1826,SE-210 Caravelle I,1
-1827,Boeing 777-31HER,1
-1828,Boeing 727-222F,1
-1829,Boeing T-43A (737-200),1
-1830,Boeing 707-328B,1
-1831,Lockheed KC-130T Hercules,1
-1832,Boeing 720-040B,1
-1833,Douglas Dakota IIIS&R (DC-3),1
-1834,Tupolev Tu-134 ?,1
-1835,Sunderland Mk II,1
-1836,Boeing 737-8H6 (WL),1
-1837,Lockheed AC-130E Spectre,1
-1838,Convair C-131B Samaritan,1
-1839,Douglas VC-54G (DC-4),1
-1840,Boeing 767-281,1
-1841,Lockheed C-130H2 Hercules,1
-1842,Boeing 777-36NER,1
-1843,Dornier Do 28D Skyservant,1
-1844,BAe BAe-748-310 Srs. 2A LFD,1
-1845,Ilyuhsin Il-76TD,1
-1846,Douglas VC-47H (DC-3),1
-1847,Boeing 747SP-44,1
-1848,DC-8-63AF,1
-1849,Hawker Siddeley HS-125-403B,1
-1850,DHC-5 Buffalo,1
-1851,Hawker Siddeley DH-125-400A,1
-1852,unknown jetliner,1
-1853,Beech Tp 101 (200C Super King Air),1
-1854,Lockheed L-1011-385-3 TriStar 500,1
-1855,Boeing 737-81D (WL),1
-1856,Boeing 737-281 Adv.,1
-1857,Focke-Wulf Fw 200D-2,1
-1858,Boeing 737-347 (SF),1
-1859,NAMC YS-11A-301,1
-1860,Harbin Yunshuji Y-12,1
-1861,Lockheed MC-130P Combat Shadow,1
-1862,SE-210 Caravelle 10B1R,1
-1863,Let L-410UVP-E19A,1
-1864,Embraer EMB-135ER (ERJ-135ER),1
-1865,Alenia G-222,1
-1866,Piaggio PD.808,1
-1867,NAMC YS-11A-217,1
-1868,Antonov An-140,1
-1869,Vickers Viking C.2,1
-1870,Embraer ERJ 190AR,1
-1871,Gulfstream G650ER,1
-1872,Kawasaki P-3C-II.5 Orion,1
-1873,Vickers 491 Viking 1A,1
-1874,Boeing 747-2B5F (SCD),1
-1875,Shorts Sunderland IIIa,1
-1876,Douglas C-49J-DO (DC-3-454),1
-1877,Airbus A330-343E,1
-1878,GAF Nomad N.22BFP,1
-1879,Beech B300C Super King Air 350,1
-1880,Fairchild FH-227,1
-1881,Douglas DC-3-270,1
-1882,PB2B-1 Catalina IVB,1
-1883,Douglas DC-2-172,1
-1884,Lockheed L-1049G-82-151 Super Constellation,1
-1885,Boeing C-97L,1
-1886,Ilyushin Il-112V,1
-1887,Consolidated P4Y-2B Privateer,1
-1888,Vickers 773 Viscount,1
-1889,Curtiss TC-46A,1
-1890,Douglas SC-47A (DC-3),1
-1891,Boeing 737-838 (WL),1
-1892,Boeing 707-121B,1
-1893,Consolidated Tp 47 Canso (PBY-5A),1
-1894,Douglas DC-3-391,1
-1895,Short Sunderland 3,1
-1896,Lockheed HC-130H7 Hercules,1
-1897,Lockheed C-130D Hercules,1
-1898,T-39D Sabreliner,1
-1899,Boeing 757-23APF,1
-1900,Boeing 747-45EF,1
-1901,Handley Page HP.82 Hermes V,1
-1902,Curtiss R-5C-1 (C-46),1
-1903,Boeing 737-3M8 (WL),1
-1904,Boeing 747-209B (SF),1
-1905,Junkers G.38gi/fi,1
-1906,Convair R4Y-1Z (CV-340),1
-1907,Cessna 208 Supervan,1
-1908,Boeing 727-22 (WL),1
-1909,Airbus A340-541,1
-1910,Antonov An-225,1
-1911,Boeing 737-5L9,1
-1912,Handley Page Hastings C.1A,1
-1913,Boeing 747-258C,1
-1914,Boeing 767-319ER,1
-1915,Boeing 747-123F (SCD),1
-1916,Boeing 777-237LR,1
-1917,Tupolev ANT-20 Maxim Gorky,1
-1918,Oakland Centaurus,1
-1919,Boeing 737-3M8,1
-1920,Boeing 777-246ER,1
-1921,Junkers G.24he,1
-1922,DHC-7-110,1
-1923,Boeing 777-236,1
-1924,Fiat G.12CA,1
-1925,Handley Page HPR-7 Herald 201,1
-1926,Lockheed VC-60A Lodestar,1
-1927,CASA C-212-AB10 Aviocar 300,1
-1928,Boeing 737-244,1
-1929,Dornier Do 128-G92 Turbo Skyservant,1
-1930,Fairchild C-82 Packet,1
-1931,Consolidated P4Y-2G Super Privateer,1
-1932,Boeing 757-2Q8,1
-1933,Boeing 747-409F,1
-1934,BAe BAe-748-353 Srs. 2A,1
-1935,Vickers 755D Viscount,1
-1936,Boeing 737-5U3,1
-1937,Douglas XC-47C-DL (DC-3),1
-1938,Boeing 737-286,1
-1939,BAe BAe-748-501 Srs. 2B,1
-1940,Boeing 737-497,1
-1941,Sabca (Handley Page) W.8B,1
-1942,Boeing 737-3B7 (SF),1
-1943,DH-114 Riley Heron 2E/A1,1
-1944,Ilyushin Il-20M,1
-1945,Avro RJ70,1
-1946,Howard Cargo Harpoon,1
-1947,Alenia G-222SAA,1
-1948,Basler Turbo 67,1
-1949,Dornier Do 128-6MPA Turbo Skyservant,1
-1950,Cessna UC-35A (Cessna 560 Citation V Ultra),1
-1951,Boeing 737-2A9C,1
-1952,Beech 300 King Air (MARSS),1
-1953,NAMC YS-11-102,1
-1954,Avro 748-106 Srs. 1A,1
-1955,Lockheed C-56B-LO Lodestar,1
-1956,Fairchild UC-123B-6-FA Provider,1
-1957,Ford 5-AT-DS Tri-Motor,1
-1958,Viking DHC-6 Twin Otter 400,1
-1959,LiorÃ© et Olivier 212,1
-1960,Lockheed OP-3C Orion,1
-1961,Embraer ERJ-190LR,1
-1962,Consolidated KM-2 (PBN-1 Nomad),1
-1963,Douglas DC-3A-399,1
-1964,Bristol 170 Wayfarer II,1
-1965,Vickers 644 Viking 1B,1
-1966,Junkers Ju-52/3mba,1
-1967,Vickers 813 Viscount,1
-1968,DHC-8-103B,1
-1969,Grumman TC-4C (G-159 Gulfstream I),1
-1970,Airbus A300B4-120,1
-1971,Boeing KC-135,1
-1972,Shorts SC.7 Skyvan 3-400,1
-1973,Boeing 737-33A (SF),1
-1974,BAe BAe-748-435 Srs. 2B,1
-1975,PZL An-28,1
-1976,Boeing 720-025,1
-1977,Ilyushin Il-96-300,1
-1978,Boeing 747-267B,1
-1979,Boeing 737-3K9,1
-1980,Douglas DC-2-115M,1
-1981,Antonov An-2Skh,1
-1982,DH-114 Prinair Heron 2B,1
-1983,Boeing 757-25C,1
-1984,Handley Page Hastings,1
-1985,Douglas DC-6B Tanker,1
-1986,Avia 14-40,1
-1987,CT-39E Sabreliner,1
-1988,BAe BAe-748-398 Srs. 2B,1
-1989,Douglas C-34 (DC-2),1
-1990,Boeing 737-8K5 (WL),1
-1991,Boeing 727-44,1
-1992,Douglas AC-47B (DC-3),1
-1993,Boeing 707-337C,1
-1994,Shorts SC.7 Skyvan 3,1
-1995,LiorÃ©-et-Olivier H.246,1
-1996,BAC One-Eleven 523FJ,1
-1997,Boeing 747-4B5,1
-1998,Beech UC-12B Huron,1
-1999,Boeing 727-222A,1
-2000,Hawker Siddeley DH-125-3A,1
-2001,Boeing 777-268,1
-2002,Boeing 747-128,1
-2003,KC-10A Extender,1
-2004,BAe Nimrod R.1P,1
-2005,Nord 262C-66,1
-2006,Boeing 737-270C,1
-2007,PZL MD-12,1
-2008,Bombardier CRJ-900LR (CL-600-2D24),1
-2009,Grob G.180A SPn,1
-2010,Handley Page HPR.1 Marathon 1A,1
-2011,Douglas DC-3-194H,1
-2012,Vickers 838 Viscount,1
-2013,DHC-8-315 Dash 8,1
-2014,Douglas R3D-2 (DC-5),1
-2015,Vickers 823 Viscount,1
-2016,Boeing 727-51C,1
-2017,Boeing 747-2U3B (SF),1
-2018,Boeing 707-131F,1
-2019,Boeing 747-312,1
-2020,Douglas C-47 Pe're (DC-3),1
-2021,BAe BAe-748-378 Srs. 2B,1
-2022,SNCASE SE.161/1 Languedoc,1
-2023,Lockheed Lodestar IA,1
-2024,DC-10-40F,1
-2025,Savoia-Marchetti SM-95B,1
-2026,Junkers G.31fi,1
-2027,Ilyushin Il-76MD Simorgh,1
-2028,Antonov An-30D,1
-2029,Boeing RC-135E Rivet Amber,1
-2030,Dassault Falcon 50EX,1
-2031,Short S.8/1 Calcutta,1
-2032,Boeing 747-228B,1
-2033,Vickers 620 Viking 1,1
-2034,Fairchild C-119F-FA Flying Boxcar,1
-2035,BAe BAe-748-400 Srs. 2B,1
-2036,Boeing 737-214,1
-2037,Rockwell CT-39G Sabreliner,1
-2038,Junkers Ju-90V2,1
-2039,Boeing 777-212ER,1
-2040,Bristol 175 Britannia 302,1
-2041,Vickers 807 Viscount,1
-2042,IPTN/CASA CN-235M-10,1
-2043,Boeing 737-8B6,1
-2044,Junkers Ju-52/1mcai,1
-2045,DC-9-32CF,1
-2046,Vickers 630 Viscount,1
-2047,Embraer,1
-2048,Lockheed Martin KC-130J,1
-2049,Tupolev Tu-124K,1
-2050,Fairchild EC-82A Packet,1
-2051,Junkers Ju-252A1,1
-2052,Tupolev Tu-144S,1
-2053,Lockheed NC-130F Hercules,1
-2054,Douglas C-47M (DC-3),1
-2055,Baade 152,1
-2056,DHC-8-402Q (PF) Dash 8,1
-2057,BAe BAe-748-399 Srs. 2B LFD,1
-2058,Lockheed P2V-7S Neptune,1
-2059,Boeing 737-2H4 Adv.,1
-2060,Douglas C-50B (DC-3-397),1
-2061,Boeing 720-058B,1
-2062,Fokker F.XXXVI,1
-2063,Douglas C-50C,1
-2064,Fairchild SA227-CC Metro 23,1
-2065,Vickers 818 Viscount,1
-2066,Lockheed TC-121C Super Constellation,1
-2067,Lockheed R5O-5 (Lodestar),1
-2068,Convair CV-240-53 (C-131A),1
-2069,Dornier 328 ?,1
-2070,Shorts SC.7 Skyvan,1
-2071,Lockheed C-57B-LO Lodestar,1
-2072,A.W. AW-650 Argosy 102,1
-2073,Boeing RC-135S Cobra Ball II,1
-2074,Boeing RC-135T Rivet Dandy,1
-2075,Boeing 737-209,1
-2076,Douglas DC-8-55,1
-2077,ATECO Westwind II,1
-2078,Airbus A310-204,1
-2079,Lockheed 414 Hudson III,1
-2080,Canadair CC-109 Cosmopolitan,1
-2081,IAI 1124Â Westwind,1
-2082,Canadair CRJ-702,1
-2083,SNCAC (Farman) NC.223.4,1
-2084,Boeing 747-121A,1
-2085,BN-2 Defender,1
-2086,Tupolev Tu-204-100C,1
-2087,Lockheed L-1049D Super Constellation,1
-2088,Boeing 737-436 (SF),1
-2089,Spectrum Aeronautical Spectrum 33,1
-2090,Douglas DC-3-220A,1
-2091,Beriev Be-30,1
-2092,ATR 72-212 (F),1
-2093,Boeing E-3C Sentry (707-300),1
-2094,Viking Air DHC-6-400 Twin Otter,1
-2095,Handley Page W.8g,1
-2096,BAe-125 CC3 (HS-125-700),1
-2097,Boeing 747-2D7B,1
-2098,Dassault Falcon 20F-5B,1
-2099,Boeing 737-2K2C,1
-2100,Boeing 737-3L9,1
-2101,Gulfstream G-V-SP (G550),1
-2102,Ilyushin Il-114T,1
-2103,Boeing 777-28EER,1
-2104,Antonov An-72TK-100,1
-2105,Bombardier CRJ-900LR,1
-2106,CASA C-212-MR Aviocar 200,1
-2107,Boeing 737-73V,1
-2108,NAMC YS-11A-300F,1
-2109,BAC One-Eleven 510ED,1
-2110,Airbus A300B2-202,1
-2111,Shin Meiwa US-1A,1
-2112,Grumman SHU-16B Albatross,1
-2113,Bristol 175 Britannia 312F,1
-2114,Convair C-131D (CV-340),1
-2115,Douglas C-53C (DC-3),1
-2116,Boeing 727-287,1
-2117,Douglas DC-2,1
-2118,Rausch Super 18 Hudstar,1
-2119,AÃ©rospatiale SN.600 Corvette,1
-2120,Boeing 727-2J4,1
-2121,Avro 691 Lancastrian C.2,1
-2122,Douglas DC-3A-343B,1
-2123,Douglas EC-47N,1
-2124,Boeing 720-059B,1
-2125,Airbus A300B4-620 ?,1
-2126,Boeing 767-3BGER,1
-2127,Boeing 727-2M7,1
-2128,Grumman American G-1159 Gulfstream II TT,1
-2129,Hawker Siddeley VU-93 (HS-125-403B),1
-2130,Boeing 737-2H7C,1
-2131,Boeing 747-244B (SF),1
-2132,Felixstowe Fury,1
-2133,DC-8-62H-AF,1
-2134,Boeing 767-3D6,1
-2135,Ilyushin Il-18D-40,1
-2136,Boeing 737-86Q (WL),1
-2137,Boeing EC-135C,1
-2138,Douglas RC-47D,1
-2139,Consolidated Catalina GR.IIA,1
-2140,Boeing 737-112,1
-2141,Fiat G.12LGA,1
-2142,BN-2B-20 slander,1
-2143,Boeing 747-131,1
-2144,Vickers VC10-1100,1
-2145,Boeing 757-256 (WL),1
-2146,Boeing 737-58E,1
-2147,BAe 3216 Jetstream 32,1
-2148,Boeing 727-232F,1
-2149,Airbus A320 ?,1
-2150,Boeing 737-330 (QC),1
-2151,Canadair CRJ-702ER,1
-2152,Boeing P-8A Poseidon (737-8FV),1
-2153,Boeing 737-36M,1
-2154,NAMC YS-11A-600,1
-2155,A.W. Argosy IA,1
-2156,Boeing 767-209,1
-2157,Short S.25 Sunderland,1
-2158,Boeing 737-8HC (WL),1
-2159,Avia 14(P),1
-2160,Douglas C-47H,1
-2161,Boeing 737-8GJ (WL),1
-2162,BAC One-Eleven 320AZ,1
-2163,Boeing 737-8F2,1
-2164,Antonov An-140-100,1
-2165,CASA C-212-M Aviocar 200,1
-2166,Boeing 737 or 757,1
-2167,Vickers 835 Viscount,1
-2168,Tupolev Tu-134SKh,1
-2169,Handley Page HPR-7 Herald 204,1
-2170,Ilyushin Il-14RR,1
-2171,Douglas DC-3-313D,1
-2172,Martin P5B Marlin,1
-2173,Dornier 228-212K,1
-2174,Boeing 767-241ER,1
-2175,Vickers Super VC10-1154,1
-2176,Fokker F.32,1
-2177,Boeing 747 or 777,1
-2178,Boeing 737-2C0,1
-2179,Bristol 175 Britannia 313,1
-2180,Junkers Ju-90V3,1
-2181,Boeing 747-2B3F (SCD),1
-2182,Lockheed L-749 Constellation (VC-121B),1
-2183,Dornier 228-200,1
-2184,Boeing 737-241,1
-2185,Consolidated PA-10 Catalina (PBY-5),1
-2186,Boeing 727-2K3,1
-2187,Lockheed C-130H3 Hercules,1
-2188,Nord 262A-42,1
-2189,Vickers 760D Viscount,1
-2190,Boeing 737-2E1F,1
-2191,Cessna U-27A Caravan I,1
-2192,Boeing 737-248C,1
-2193,Douglas DC-8-33AF,1
-2194,Douglas DC-3-228F,1
-2195,DC-10-10CF,1
-2196,DH-114 Heron 2,1
-2197,Douglas DC-3-214,1
-2198,Boeing 737-852,1
-2199,Boeing 747-228B (SCD),1
-2200,Fairchild C-119 Flying Boxcar (R4Q-2),1
-2201,Convair CV-340-54,1
-2202,Boeing 737-8FH (WL),1
-2203,Douglas C-32A (DC-2-120),1
-2204,Boeing 767-3Y0ER,1
-2205,Douglas DC-3A-269B,1
-2206,Boeing 737-236A,1
-2207,Tupolev Tu-144D,1
-2208,Boeing 757-258ER,1
-2209,Douglas C-49H (DC-3-228),1
-2210,Focke-Wulf Fw 200C-4,1
-2211,Lockheed Learstar 1,1
-2212,Boeing 707-358B,1
-2213,Short S.25 Sunderland 5,1
-2214,Caproni Ca.133,1
-2215,Junkers Ju-52/3mho,1
-2216,Aero Spacelines 377MGT Mini Guppy Turbine,1
-2217,Boeing 737-297,1
-2218,Boeing 747-168B,1
-2219,Boeing 757-2K2,1
-2220,Learjet,1
-2221,Convair VC-131H Samaritan (CV-580),1
-2222,Short S.33 Empire Flying Boat,1
-2223,Short Sunderland 5,1
-2224,Douglas DC-3-194,1
-2225,Boeing 727-230F,1
-2226,DHC-8-402QPF Dash 8,1
-2227,Junkers Ju-52/3mg11,1
-2228,Vickers 808 Viscount,1
-2229,Lockheed EC-121T Super Constellation,1
-2230,LiorÃ©-et-Olivier H.246.1,1
-2231,Douglas DC-3A-197B,1
-2232,Douglas R4D-6L (DC-3),1
-2233,Beech Hawker BH-125-600A,1
-2234,Avro 688 Tudor 4B,1
-2235,Bushmaster 2000,1
-2236,Boeing 737-408,1
-2237,Hawker Siddeley HS-125,1
-2238,Embraer ERJ-170SE,1
-2239,Embraer EMB-500 Phenom 100E,1
-2240,CASA C-212-DE Aviocar 200,1
-2241,Douglas DC-3-314B,1
-2242,Consolidated 28-5MC Canso A,1
-2243,Junkers G.24bi,1
-2244,Lockheed C-130H-MP Hercules,1
-2245,NAMC YS-11A-205,1
-2246,Douglas DC-2-115K,1
-2247,HESA IrAn-140,1
-2248,Antonov An-74TK-100,1
-2249,Ilyushin Il-14 ?,1
-2250,CASA CN-235M-300,1
-2251,IAI 1126 Galaxy,1
-2252,Lascurain No.4 Aura,1
-2253,Boeing 777-3DZER,1
-2254,Boeing 757-225,1
-2255,Boeing 757-204,1
-2256,Fairchild AC-119G Shadow,1
-2257,Eclipse 550,1
-2258,Canadair CC-144A Challenger 601,1
-2259,Boeing 727-30C,1
-2260,Lockheed XP2V-1 Neptune,1
-2261,SNCASO S.O.95M Corse III,1
-2262,Boeing 767-375ER (BCF) (WL),1
-2263,MD-81,1
-2264,Sikorsky S-43W,1
-2265,Boeing 757-324 (WL),1
-2266,Dassault Falcon 20F-5,1
-2267,DH-106 Comet 2R,1
-2268,IAI Arava 102,1
-2269,C-7 Caribou (DHC-4),1
-2270,Vickers 759D Viscount,1
-2271,NAMC YS-11A-621,1
-2272,Convair CV-340-32,1
-2273,Douglas VC-54Q (DC-4),1
-2274,BAC One-Eleven 208AL,1
-2275,Boeing 737-33A (QC),1
-2276,Antonov An-26KPA,1
-2277,Boeing 737-301,1
-2278,Lockheed L-749-79-46 Constellation,1
-2279,Learjet 40,1
-2280,Shorts SC.7 Skyvan 3A-200,1
-2281,Antonov An-3T,1
-2282,Boeing 707-312B,1
-2283,Lockheed Hercules C.3A (C-130K),1
-2284,Boeing 747-271C (SCD),1
-2285,Nord 262B-11,1
-2286,Boeing 727-243F,1
-2287,Boeing RC-135S Rivet Ball,1
-2288,Boeing 737-49R,1
-2289,Fokker F.IX,1
-2290,Douglas DC-6F,1
-2291,Douglas EC-54U (DC-4),1
-2292,Beech MC-12W Liberty,1
-2293,BAe-125-800SP,1
-2294,T-39N Sabreliner,1
-2295,Fairchild SA227-BC Metro III (C-26B),1
-2296,Boeing 737-306,1
-2297,Cessna 208 Cargomaster,1
-2298,Boeing 727-276,1
-2299,Boeing 737-7M2 (WL),1
-2300,Boeing 737-2A6,1
-2301,Lockheed L-1011-385-1-14 TriStar 150,1
-2302,Boeing 747-412 (BCF),1
-2303,Bristol 175 Britannia 101,1
-2304,Antonov An-12 ?,1
-2305,Nord 262A-29,1
-2306,BAe BAe-748-352 Srs. 2B SCD,1
-2307,Boeing 747-230F (SCD),1
-2308,Lockheed HC-130P Hercules,1
-2309,CASA CN-235-100,1
-2310,Boeing 737-82R,1
-2311,Savoia-Marchetti SM-95,1
-2312,Grumman American G-1159 Gulfstream II SP,1
-2313,Boeing 767-260ER,1
-2314,Douglas DST-318 (DC-3),1
-2315,Convair CV-240D (T-29),1
-2316,Boeing EC-135K,1
-2317,Embraer KC-390,1
-2318,Consolidated Liberator C Mk VI,1
-2319,Fiat G.212PW,1
-2320,Bristol 175 Britannia 308F,1
-2321,Vickers 953C Vanguard,1
-2322,Boeing 727-193,1
-2323,Gulfstream ?,1
-2324,BAe-146-200QT,1
-2325,Boeing 707-3J6C,1
-2326,BAe 3101 Jetstream 31EP,1
-2327,Boeing 727-224F,1
-2328,Convair CV-240-5,1
-2329,Airbus A321,1
-2330,Lockheed 414-56-11 Hudson,1
-2331,Douglas C-49K (DC-3-455),1
-2332,Fairchild SA227-AT Merlin IVC,1
-2333,Lockheed YMC-130H Hercules,1
-2334,Shaanxi KJ-200 (Y-8),1
-2335,Hawker Siddeley C-91 (HS-748-281 Srs. 2A LFD),1
-2336,CASA C-212-A27 Aviocar 200,1
-2337,Airbus A319-132,1
-2338,Lockheed CP-140 Aurora,1
-2339,Douglas C-53C Skytrooper (DC-3),1
-2340,Boeing 747-228F,1
-2341,Boeing 747-244B,1
-2342,Douglas DC-3R,1
-2343,DC-8-62 (F),1
-2344,Boeing 737-38J,1
-2345,Cessna C-98 Caravan I (208A),1
-2346,Boeing 737-53C,1
-2347,Boeing 747-306M,1
-2348,Boeing 747-367,1
-2349,Swearingen SA-226AT Merlin IV,1
-2350,Douglas TC-47B,1
-2351,Boeing 767-231ER,1
-2352,Shorts JC-23A Sherpa (330),1
-2353,Boeing 707-336B,1
-2354,Boeing 747-236B,1
-2355,Airbus A300B4-605R (F),1
-2356,Let L-410UVP-E4,1
-2357,Boeing 757-23N,1
-2358,BAe BAe-748-371 Srs. 2B LFD,1
-2359,Douglas EC-47Q (DC-3),1
-2360,Douglas DC-2-199,1
-2361,Handley Page HP.68 Hermes 1,1
-2362,Embraer VC-97 Brasilia (EMB-120RT),1
-2363,Douglas DC-3A-447,1
-2364,Convair CV-340-62,1
-2365,Caproni Ca.60 Noviplano,1
-2366,Douglas XC-32 (DC-2),1
-2367,BAe BAe-748-314 Srs. 2A,1
-2368,Boeing 727-2F2 (F),1
-2369,Lockheed C-130A-II Hercules,1
-2370,Boeing 767-332ER,1
-2371,Boeing 737-332,1
-2372,Douglas DC-3-227B,1
-2373,Douglas C-50-DO (DC-3),1
-2374,Douglas DC-3-392,1
-2375,Boeing 747-44AF (SCD),1
-2376,Boeing 737-3A4,1
-2377,Fokker F-28 Fellowship 1000C,1
-2378,Yakovlev Yak-40KD,1
-2379,Ilyushin Il-114,1
-2380,Douglas R5D-4 (C-54E),1
-2381,Airbus A330-342,1
-2382,Douglas DC-3-270B,1
-2383,Kalinin K-7,1
-2384,ATR 42-200,1
-2385,Douglas R4D (DC-3),1
-2386,Douglas DC-4 Swingtail,1
-2387,Learjet 75,1
-2388,Boeing 747-209B,1
-2389,Embraer EMB-550 Legacy 500,1
-2390,Boeing 767-333ER (WL),1
-2391,Boeing 737-330 (SF),1
-2392,Boeing 777-35EER,1
-2393,CASA C-212-A3 Aviocar 100,1
-2394,Embraer EMB-145LI (ERJ-145LI),1
-2395,Douglas DC-3S,1
-2396,Boeing 757-23A,1
-2397,Higgins Boat Co. C-46A-1-HI,1
-2398,Beech B99A,1
-2399,Avro Canada C102 Jetliner,1
-2400,Boeing 747-412F (SCD),1
-2401,Antonov An-30M,1
-2402,Embraer ERJ-190LR (ERJ-190-100 LR),1
-2403,Boeing 737-2T2,1
-2404,Boeing 747-121SF,1
-2405,Boeing 777-281,1
-2406,Douglas Super R4D-8 (DC-3S),1
-2407,Boeing 767-2S1ER,1
-2408,Cessna 680A Citation Latitude,1
-2409,Boeing 747SP-27,1
-2410,Douglas DC-3-217B,1
-2411,Vickers 668 Varsity,1
-2412,Boeing 737-7Q8 (WL),1
-2413,BAC One-Eleven 518FG,1
-2414,Handley Page W.8,1
-2415,Douglas C-49H (DC-3-194B),1
-2416,Boeing 737-322 (WL),1
-2417,Douglas C-47C,1
-2418,Convair CV-440-88,1
-2419,Boeing 720B,1
-2420,Douglas DC-3-220B,1
-2421,Douglas R5D-4 (DC-4),1
-2422,Airbus A340-311,1
-2423,Airbus A340-642,1
-2424,Shaanxi Y-8F-200W,1
-2425,IAI Arava 202,1
-2426,Boeing 80A,1
-2427,Piaggio PD.808TP,1
-2428,Ford XB-906 (Tri-Motor),1
-2429,Boeing 777-222ER,1
-2430,Canadair CL-600S Challenger 600,1
-2431,Boeing 747-428 (BCF),1
-2432,Martin P5M-2 Marlin,1
-2433,CC-108 Caribou (DHC-4),1
-2434,Douglas C-51 (DC-3-270C),1
-2435,Antonov An-148-100B,1
-2436,Boeing 767,1
-2437,Antonov An-74TK-300,1
-2438,Boeing 737-322 (SF),1
-2439,Boeing 737-9B5,1
-2440,Shaanxi Y-8GX-3,1
-2441,Boeing KC-97L,1
-2442,Ford Tri-Motor,1
-2443,Howard 250 Tri-Gear,1
-2444,Boeing 737-8AS,1
-2445,Douglas DC-3A-197E,1
-2446,Handley Page W.9a Hampstead,1
-2447,Vickers 610 Viking 3B,1
-2448,Embraer ERJ-195,1
-2449,BN-2A Trislander Mk.III-3,1
-2450,Boeing 737-2D6,1
-2451,Douglas EC-47A,1
-2452,DHC-7-102 (O-5A),1
-2453,Douglas DC-2-200,1
-2454,Focke-Wulf Fw 200A-05,1
-2455,Lockheed EP-3J Orion,1
-2456,CASA C-212 Aviocar 400MPA,1
-2457,Miles M.60 Marathon I,1
-2458,Boeing 737-490,1
-2459,Vickers 952F Vanguard,1
-2460,Lockheed RC-121D Constellation,1
-2461,Boeing 777-F60,1
-2462,Consolidated 28-5ME Catalina,1
-2463,Airbus A310-324ET,1
-2464,Douglas C-52C (DC-3-402),1
-2465,Junkers G.38di,1
-2466,Boeing 767-34AF,1
-2467,Shorts 330UTT,1
-2468,BAC One-Eleven 200AB,1
-2469,Boeing 737-85P,1
-2470,Curtiss B-2 Condor (Condor 18),1
-2471,DHC-8-101,1
-2472,Boeing 737-3G7,1
-2473,Dewoitine D.342,1
-2474,Boeing 767-2B7ER,1
-2475,MBB HFB-320ECM Hansa Jet,1
-2476,Boeing 747-451,1
-2477,Boeing 707-430,1
-2478,Savoia-Marchetti SM-95C,1
-2479,Boeing 737-2Q3,1
-2480,Fairchild R4Q Flying Boxcar (C-119),1
-2481,Airbus A330-223F,1
-2482,Boeing 747-409,1
-2483,Douglas R3D-1 (DC-5),1
-2484,Douglas SC-54G (DC-4),1
-2485,Mitsubishi Mu-300 Diamond I,1
-2486,DC 10-10,1
-2487,Spartan Ventura,1
-2488,Boeing C-17A Globemaster III,1
-2489,Cessna 500 Citation I/SP,1
-2490,Lockheed CC-130B Hercules,1
-2491,Dassault Falcon 10MER,1
-2492,Junkers G.31de,1
-2493,Douglas R5D Skymaster (DC-4),1
-2494,Boeing 727-221F,1
-2495,Boeing 757-24APF,1
-2496,Grumman CSR-110 Albatross (HU-16B),1
-2497,Hawker Siddeley HS-125-1A-731,1
-2498,Beech RC-12N Huron,1
-2499,Douglas DC-3B-202A,1
-2500,Antonov An-74TK-200,1
-2501,Boeing 737-3Q8 (BDSF),1
-2502,Dornier 328JET-300,1
-2503,lyushin Il-76TD,1
-2504,Embraer EMB-545 Legacy 450,1
-2505,DH-125-3A,1
-2506,BN-2A-6R Islander,1
-2507,Dewoitine D.332,1
-2508,Ilyushin Il-20,1
-2509,Tupolev Tu-124Sh,1
-2510,Douglas DST-144 (DC-3),1
-2511,Boeing 767-3Z9ER,1
-2512,Farman F.180T,1
-2513,Boeing 727-22QC,1
-2514,Boeing 707-465,1
-2515,Boeing 707-3F9C,1
-2516,Douglas DC-3A-393,1
-2517,Boeing 757-236,1
-2518,Bombardier Global Express XRS,1
-2519,Boeing 727-134,1
-2520,Boeing C-97C Stratofreighter,1
-2521,Lockheed C-60B Lodestar,1
-2522,Antonov TR-301,1
-2523,Avro 642 Eighteen,1
-2524,Martin VC-3A (4-0-4),1
-2525,Let L-410AF,1
-2526,Douglas DC-3A-197C,1
-2527,Boeing 747-200,1
-2528,SNCASO S.O.94R Corse II,1
-2529,Boeing 737-95R,1
-2530,Boeing EC-97G,1
-2531,Siebel Si 204,1
-2532,Junkers F.24kay (G.24),1
-2533,BAe BAe-748-FAA Srs. 2B,1
-2534,Douglas LC-117D,1
-2535,Boeing 777-3F2ER,1
-2536,Boeing EC-135N,1
-2537,Avro 689 Tudor 2,1
-2538,BAC One-Eleven 528FL,1
-2539,Dassault Falcon 20C-5,1
-2540,Boeing E-6A Hermes,1
-2541,Boeing 747-238B,1
-2542,Carstedt Jet Liner 600A,1
-2543,Boeing 747-283M,1
-2544,Boeing 777-228ER,1
-2545,Fokker F.VIIIa,1
-2546,Douglas DC-3-229,1
-2547,CT-39A-1-NA Sabreliner,1
-2548,Lockheed C-111 Super Electra,1
-2549,Fokker F.XX,1
-2550,Airbus A300F4-605R,1
-2551,Lockheed C-60 Lodestar,1
-2552,Embraer ERJ-190-100LR,1
-2553,Airbus A340-642X,1
-2554,Lockheed R5O-4 Lodestar,1
-2555,BAe 3212 Jetstream 31,1
-2556,Boeing 737-8V3 (WL),1
-2557,Junkers Ju-52/3mreo,1
-2558,Vickers 781D Viscount,1
-2559,Tupolev Tu-134Sh2,1
-2560,Boeing 747-228F (SCD),1
-2561,Junkers Ju 52/3m,1
-2562,Boeing 747-428,1
-2563,Airbus A310-325,1
-2564,Lockheed L-1049-54-80 Super Constellation,1
-2565,Embraer R-95 Bandeirante (EMB-110B),1
-2566,Nord 262A-25,1
-2567,Boeing 707-355C,1
-2568,Boeing 747-444,1
-2569,Antonov An-12PL,1
-2570,Grumman A-16 Albatross (HU-16),1
-2571,Junkers Ju-52/3mg4c,1
-2572,Boeing 737-219,1
-2573,BAe 3202 Jetstream 32,1
-2574,Convair CV-240-53,1
-2575,Douglas C-54R (DC-4),1
-2576,DHC-8-200,1
-2577,Morane-Saulnier MS.760B Paris II,1
-2578,Vickers 621 Viking 1,1
-2579,Embraer XC-95B Bandeirante (EMB-110),1
-2580,Boeing 727-228F,1
-2581,Boeing 747-467,1
-2582,DHC-6 Twin Otter 320,1
-2583,Boeing 737-282 Adv.,1
-2584,Douglas DC-3-232A,1
-2585,Xian Yunshuji Y-7H-500,1
-2586,ATR 42-500 ?,1
-2587,Convair CV-340-35,1
-2588,Potez 621,1
-2589,Douglas C-48C (DC-3),1
-2590,BAe 3109 Jetstream 31,1
-2591,Vickers 779D Viscount,1
-2592,Shorts SC.7 Skyvan 2-102,1
-2593,Grumman American G-1159 Gulfstream II B,1
-2594,DHC-7-103,1
-2595,Hawker Siddeley HS-125-400A,1
-2596,Douglas C-53B Skytrooper (DC-3),1
-2597,Boeing 737-33A (WL),1
-2598,Boeing 737-275C Adv.,1
-2599,Yakovlev Yak-40FG,1
-2600,Boeing 737-204C,1
-2601,Alenia C-27J Spartan,1
-2602,Fairchild HC-123B,1
-2603,Nord 262D-51 FrÃ©gate,1
-2604,Boeing 737-8CT (WL),1
-2605,Boeing 737-317,1
-2606,Airbus A350-941,1
-2607,SNCASO S.O.93 Corse,1
-2608,Junkers Ju-52/3mg.e,1
-2609,Gulfstream G650,1
-2610,Boeing 747-130,1
-2611,Douglas DC-3-268B,1
-2612,Lockheed 14-N2 Super Electra,1
-2613,Boeing 737-217,1
-2614,Lockheed P-3F Orion,1
-2615,BAe BAe-748-402 Srs. 2B LFD,1
-2616,Antonov An-12RR,1
-2617,Douglas DC-3-194C,1
-2618,Douglas DC-1-109,1
-2619,Junkers Ju-52m/3,1
-2620,Dassault Falcon 900C,1
-2621,Lockheed C-141A Starlifter,1
-2622,YAC-1 Caribou,1
-2623,Boeing 737-270,1
-2624,Boeing 737-7L9 (WL),1
-2625,Douglas DC-3A-408,1
-2626,Boeing 737-2A9,1
-2627,Boeing C-97,1
-2628,Raytheon U-125 (Hawker 800),1
-2629,Boeing 747-100,1
-2630,Handley Page W.8b,1
-2631,Lockheed SP-2 Neptune,1
-2632,Airbus A340-313X,1
-2633,Boeing 747-131F,1
-2634,BN-2B Islander,1
-2635,BAC One-Eleven 529FR,1
-2636,Antonov An-30A,1
-2637,Vickers 739B Viscount,1
-2638,Lockheed EP-3E Orion,1
-2639,DHC-8-110,1
-2640,Boeing 747-128 (SF),1
-2641,BAe BAe-748-344 Srs. 2A,1
-2642,Canadair CL-44D4,1
-2643,Boeing 747-4B5F,1
-2644,NAMC YS-11-117,1
-2645,Lockheed CC-130H(T) Hercules,1
-2646,Antonov An-2S,1
-2647,Boeing 737-8HO (WL),1
-2648,Boeing 727-171C,1
-2649,Ilyushin Il-76MD Adnan-1,1
-2650,Boeing 757-351 (WL),1
-2651,DHC-8-300,1
-2652,Boeing 767-233,1
-2653,Boeing C-135F,1
-2654,Douglas C-49G (DC-3),1
-2655,CANT Z.506S,1
-2656,Lockheed Lodestar II (C-60),1
-2657,Douglas AC-47A,1
-2658,Boeing 767-269ER,1
-2659,Lockheed 18 Lodestar I,1
-2660,Convair CV-580-11-A,1
-2661,Douglas DC-3-201A,1
-2662,NAMC YS-11A-320,1
-2663,Fokker F-28 Fellowship 3000RC,1
-2664,Boeing 767-38E,1
-2665,CASA C-212-S1 Aviocar 100,1
-2666,Boeing 747-2H7B (SCD),1
-2667,Convair CV-440-98F,1
-2668,Curtiss YC-30 Condor II,1
-2669,Antonov An-30A-100,1
-2670,Kaiser-Frazer AC-119G Shadow,1
-2671,Vickers 720C Viscount,1
-2672,DH-106 Comet 3B,1
-2673,Boeing 737-824 (WL),1
-2674,Vickers Valetta T.4,1
-2675,Convair HC-131A (CV-240),1
-2676,Bristol 175 Britannia C.1,1
-2677,Convair CV-340-71,1
-2678,Bombardier CRJ-900,1
-2679,Boeing 737-3T5,1
-2680,Douglas DC-2A-127,1
-2681,Handley Page HPR-7 Herald 100,1
-2682,Antonov An-72-100D,1
-2683,Convair CV-340-70,1
-2684,Lockheed C-130D-6 Hercules,1
-2685,C-9A Nightingale (DC-9-30),1
-2686,PZL-Mielec M28TD Bryza 2RF,1
-2687,Ilyushin Il-12 ?,1
-2688,PZL-Mielec M28-05 Skytruck,1
-2689,Junkers F.24ko (G.24),1
-2690,Short S.25 Sunderland III,1
-2691,Convair CV-240,1
-2692,Boeing 737-809,1
-2693,Tupolev Tu-154S,1
-2694,Boeing 720-027,1
-2695,CC-115 Buffalo (DHC-5),1
-2696,DC-8-62CF,1
-2697,Antonov An-12TP-2,1
-2698,BN-2B-26Â Islander,1
-2699,Boeing 727-200 ?,1
-2700,Focke-Wulf Fw 200A-0,1
-2701,Boeing 737-8EH (WL),1
-2702,DH-114 Prinair Heron 2,1
-2703,Dornier 328-120,1
-2704,Convair CV-240-14,1
-2705,Boeing 767-3S2FER,1
-2706,Boeing 737-284,1
-2707,Kaiser-Frazier C-119F Flying Boxcar,1
-2708,Boeing 777-3B5,1
-2709,Fairchild RC-119L Flying Boxcar,1
-2710,Boeing 777-233LR,1
-2711,Airbus A321-213,1
-2712,Howard Eldorado 700,1
-2713,Lockheed L-749A Constellation (VC-121B),1
-2714,Boeing NKC-135A,1
-2715,Boeing 737-505,1
-2716,Douglas DC-3-191A,1
-2717,Boeing 707-369C,1
-2718,Boeing 707-309C,1
-2719,BAe BAe-748-329 Srs. 2A LFD,1
-2720,Naval Aircraft Factory PBN-1 Nomad,1
-2721,Boeing 737-7BD (WL),1
-2722,Curtiss C-46 (R5C-1),1
-2723,Boeing 767-281SF,1
-2724,Boeing 727-214,1
-2725,Boeing 737-4M0,1
-2726,Pilatus Britten Norman BN2A-26 Islander,1
-2727,Excel-Jet Sport-Jet,1
-2728,Airbus A300B4-622R (F),1
-2729,Boeing 707-227,1
-2730,Boeing 737-46J,1
-2731,BAe-125-600B,1
-2732,VFW/Fokker VFW.614,1
-2733,Boeing 737-8KV (WL),1
-2734,Douglas DC-3-314,1
-2735,Boeing 707-372C,1
-2736,Boeing 747-3B5,1
-2737,Britten Norman BN-2A-8 Islander,1
-2738,Douglas DC-2-115A,1
-2739,Martin JRM-2 Mars,1
-2740,Boeing 717-2K9,1
-2741,Douglas DC-3-196,1
-2742,Douglas DC-3-277,1
-2743,Fairchild C-119J Flying Boxcar,1
-2744,Avro Shackleton AEW.2,1
-2745,Let L-410,1
-2746,Boeing 737-2K3,1
-2747,Harbin Y12E,1
-2748,Basler Turbo 67 (AC-47T),1
-2749,Boeing 777-312ER,1
-2750,Antonov An-8RU,1
-2751,Douglas HC-47A,1
-2752,HS-125/BAe-125,1
-2753,Vickers 651 Valetta C.1,1
-2754,Lockheed C-141C Starlifter,1
-2755,Boeing 777-31H,1
-2756,Convair CV-340-68,1
-2757,CASA C-212-A1 Aviocar 200,1
-2758,Convair T-29C (CV-240),1
-2759,Lockheed L-1329-23E JetStar 8,1
-2760,Tupolev ANT-20bis,1
-2761,Airbus A310-304ET,1
-2762,Lockheed B14-S Super Electra,1
-2763,ATR 42-320 (F),1
-2764,Amiot AAC.1 (Junkers Ju-52/3m),1
-2765,National Aerospace Laboratories (NAL) Saras,1
-2766,Convair CV-240-27,1
-2767,Lockheed C-130M Hercules,1
-2768,Junkers Ju-52/3mbe,1
-2769,Boeing 737-85C (WL),1
-2770,Boeing 727-25F,1
-2771,Nord 262A-27,1
-2772,Boeing 737-800,1
-2773,Consolidated PBY-5AÂ Catalina,1
-2774,Lockheed L-749 Constellation (C-121A),1
-2775,Embraer ERJ-145LR,1
-2776,Ilyushin Il-22M15,1
-2777,Convair CV-240-53 (HC-131A),1
-2778,Consolidated C-87A,1
-2779,Gulfstream G280,1
-2780,Douglas R5D-2 (C-54B),1
-2781,Bristol 170 Wayfarer IIA,1
-2782,DHC-3T Cox Turbine Otter,1
-2783,Vickers 739A Viscount,1
-2784,Douglas DC-8-32,1
-2785,Tupolev Tu-134B,1
-2786,Douglas DC-3-362,1
-2787,Airbus A300B4-605R ?,1
-2788,Embraer EMB-135BJ Legacy 600,1
-2789,Boeing 737-3Z0,1
-2790,Airbus A400M Atlas,1
-2791,Canadair CRJ-440LR,1
-2792,BAe BAe-748-402 Srs. 2B,1
-2793,Boeing 767-381ER,1
-2794,Nord 262A-34,1
-2795,Douglas DC-3A-453,1
-2796,Boeing 737-242C,1
-2797,Swearingen SA226-AT Merlin IVC,1
-2798,Boeing 727-41,1
-2799,Airbus A380-842,1
-2800,Boeing 737-500 ?,1
-2801,DHC-6 Twin Otter 200HG,1
-2802,Junkers PS-5 (G.24),1
-2803,T-39A-1-NO Sabreliner,1
-2804,Boeing 727-259,1
-2805,Boeing 777-340ER,1
-2806,Boeing 707-139,1
-2807,Boeing 737-8E9 (WL),1
-2808,BAe BAe-748-372 Srs. 2B,1
-2809,Boeing 747-437,1
-2810,Boeing 757-27A (PCF),1
-2811,Boeing 727-172C,1
-2812,NAMC YS-11M-A-624,1
-2813,Boeing 737-881 (WL),1
-2814,Nord 2502B Noratlas,1
-2815,Dornier Do 28D-1S Skyservant,1
-2816,CC-138 Twin Otter (DHC-6),1
-2817,Ilyushin Il-18Gr,1
-2818,Boeing 727-225F,1
-2819,Ford 4-AT-C Tri-Motor,1
-2820,Lockheed P2V-2N Neptune,1
-2821,Shorts C-23B+ Sherpa (360),1
-2822,NAMC YS-11-111,1
-2823,Beriev Be-200ES,1
-2824,CASA C-212 Aviocar 300DF,1
-2825,BAe BAe-748-357 Srs. 2B SCD,1
-2826,Boeing 747-2B5B,1
-2827,Boeing 747SP-86,1
-2828,Sud-Aviation SE-210 Caravelle VIR,1
-2829,Vickers 170 Vanguard,1
-2830,Avro 688 Tudor 1,1
-2831,Boeing 737-3Q8 (SF),1
-2832,Boeing 737-36N (WL),1
-2833,Douglas DC-8-11,1
-2834,Douglas DC-3-277A,1
-2835,Dassault Falcon 20,1
-2836,Bombardier CRJ-702ER,1
-2837,Boeing 767-338ER,1
-2838,Junkers Ju-90V1,1
-2839,Boeing 727-27C,1
-2840,Boeing 737-269,1
-2841,Lockheed Lodestar,1
-2842,Cessna 525B CitationJet CJ3+,1
-2843,Boeing 747-283B,1
-2844,Cessna 500 Citation I Sierra Eagle,1
-2845,Sikorsky S-42A,1
-2846,Lockheed WC-121N Super Constellation,1
-2847,Cessna 560 Citation Encore+,1
-2848,Beech B200T Super King Air,1
-2849,DC-8-61F,1
-2850,Vickers 663 Viscount,1
-2851,NAMC YS-11-500R,1
-2852,Tupolev Tu-204-100V,1
-2853,Lockheed L-1011 TriStar 250,1
-2854,Boeing 707-3D3C,1
-2855,Swearingen SA226-AT Metro III,1
-2856,Douglas C-49A (DC-3),1
-2857,Consolidated Catalina 1A,1
-2858,Hawker 1000,1
-2859,Airbus A321-251N,1
-2860,Avro 748-101 Srs. 1,1
-2861,Vickers 761D Viscount,1
-2862,Boeing 747-258F,1
-2863,Consolidated C-12 Commodore (16-2),1
-2864,Potez-CAMS 161,1
-2865,Boeing 737-4D7,1
-2866,Boeing 747-219B,1
-2867,Boeing 747-281F (SCD),1
-2868,Tupolev Tu-134IK,1
-2869,Lockheed C-57 Lodestar,1
-2870,Consolidated 28-5AC Catalina,1
-2871,Vickers 808C Viscount,1
-2872,Boeing 727-155C,1
-2873,Saab 340AF,1
-2874,Cessna 560XLS Citation Excel,1
-2875,Boeing 707-3J6B,1
-2876,Convair CV-240-8,1
-2877,Vickers 769D Viscount,1
-2878,Kawasaki C-1A,1
-2879,Avia 14P,1
-2880,DH-114 Sea Heron C.1,1
-2881,Consolidated Liberator C.VII (C-87),1
-2882,Xian Yunshuji Y-7H,1
-2883,Boeing 727-294,1
-2884,DC-9-33CF,1
-2885,Douglas DC-8-31,1
-2886,Boeing 747-151,1
-2887,Junkers Ju-90A,1
-2888,Breguet 761S,1
-2889,Vought-Sikorsky VS-44,1
-2890,Lockheed L-1049G-82 Super Constellation,1
-2891,DC-9-33F,1
-2892,Douglas C-50A-DO (DC-3),1
-2893,Boeing 727-95,1
-2894,CASA CN-235-200,1
-2895,Douglas MC-54M (DC-4),1
-2896,Convair CV-340-13,1
-2897,Boeing 737-8LJ (WL),1
-2898,Douglas R5D (DC-4),1
-2899,Boeing 777-2B5ER,1
-2900,Lockheed P2V-6M Neptune,1
-2901,Embraer ERJ 190STD (ERJ-190-100),1
-2902,Boeing 737-76N,1
-2903,Hawker Siddeley VC-93 (HS-125-3B/RC),1
-2904,Boeing EC-135P,1
-2905,Shaanxi Yunshuji Y-8B,1
-2906,DC-8-61CF,1
-2907,DC-9-15MC,1
-2908,Shorts 330-300UTT,1
-2909,Let L-410UVP-E20C,1
-2910,Caproni Ca.48,1
-2911,Embraer ERJ 170LR (ERJ-170-100 LR),1
-2912,Lockheed C-140A-LM JetStar,1
-2913,Focke-Wulf Fw 200C,1
-2914,Convair CV-440-35,1
-2915,Douglas C-47 Dakota IV,1
-2916,Convair CV-240-17,1
-2917,Lockheed C-141A-20-LM Starlifter,1
-2918,HAL/Dornier 228-101,1
-2919,Boeing 727-231F Super 27,1
-2920,Lockheed 414-08-10 Hudson IV,1
-2921,Boeing 314,1
-2922,Fokker F-28 Fellowship,1
-2923,Douglas DC-3-201B,1
-2924,CASA C-212-CC40 Aviocar 200,1
-2925,Douglas C-117B (DC-3),1
-2926,Boeing 757-3E7,1
-2927,Airbus A310-203,1
-2928,Douglas DC-3-294,1
-2929,Harbin Yunshuji Y-12E,1
-2930,Vickers VC10-1102,1
-2931,ATR 42-600,1
-2932,Antonov An-148-100E,1
-2933,Boeing 777-367ER,1
-2934,Boeing 747-121 (SCD),1
-2935,Boeing 767-31KER,1
-2936,Airbus A340-212,1
-2937,Vickers 952 Vanguard,1
-2938,Hawker Siddeley HS-125-F400B,1
-2939,Boeing 727-78,1
-2940,Boeing 777-F6N,1
-2941,Douglas C-48A (DC-3C ),1
-2942,Ford C-4A (5-AT-D) Tri-Motor,1
-2943,BAe 3212 Jetstream 32EP,1
-2944,Convair CV-440-80,1
-2945,Convair CV-440F SCD,1
-2946,Canadair CRJ-200PF,1
-2947,Boeing,1
-2948,Boeing 707-323B,1
-2949,Avro 691 Lancastrian B.3,1
-2950,PZL-Mielec C-145A (M28-05) Skytruck,1
-2951,Boeing KC-137E (707-324C),1
-2952,Douglas YC-112A-DO (DC-6),1
-2953,Gulfstream G550,1
-2954,Douglas DC-8-43F,1
-2955,Dornier CD-01A Seastar,1
-2956,Boeing 747-246F,1
-2957,Boeing 737-81Q (WL),1
-2958,Boeing 747SP-09,1
-2959,Boeing 767-34AFER (WL),1
-2960,Douglas R4D-8L (Super DC-3),1
-2961,Boeing 757-21K,1
-2962,Boeing 720-051B,1
-2963,Tupolev Tu-204S,1
-2964,Ilyushin Il-14LIK,1
-2965,Consolidated PB4Y-2 Privateer,1
-2966,Boeing 737-36Q (WL),1
-2967,CASA C-212-A62 Aviocar 200,1
-2968,Boeing 767-3W0ER,1
-2969,Douglas C-32A (DC-2),1
-2970,Canadair CC-144A Challenger 600,1
-2971,Let L-410UVP-E10A,1
-2972,Vickers 756D Viscount,1
-2973,Douglas C-47 (VC-117B) (DC-3),1
-2974,BAC One-Eleven 414EG,1
-2975,Lockheed C-130BZ Hercules,1
-2976,Lockheed AC-130J Ghostrider,1
-2977,Boeing 737-73S (WL),1
-2978,Boeing 767-338ER (WL),1
-2979,Yakovlev Yak-40A,1
-2980,Beech LR-2 (B300 King Air 350),1
-2981,Boeing 720-022,1
-2982,Boeing 777-3B5ER,1
-2983,Vickers 763D Viscount,1
-2984,Lockheed PV-2T Harpoon,1
-2985,Consolidated P4Y-2G Privateer,1
-2986,Lockheed L-749A-79-33 Constellation,1
-2987,DHC-8-202Q,1
-2988,Boeing 737-33V,1
-2989,Lockheed L-749-79 Constellation,1
-2990,Boeing 707-321F,1
-2991,Beech 300/F Super King Air,1
-2992,DHC-8-311 Dash 8,1
-2993,Boeing 707-344C,1
-2994,Boeing 767-283ER,1
-2995,Convair CV-240-24,1
-2996,Bombardier CRJ-200LR,1
-2997,Hawker Beech 390 Premier I,1
-2998,Boeing 737-242,1
-2999,Airbus A310,1
-3000,Douglas SC-54D (DC-4),1
-3001,Consolidated PBY-6A Super Catalina,1
-3002,Canadair CRJ-100,1
-3003,Douglas DC-3A-438,1
-3004,Boeing 737-2L9,1
-3005,Fairchild C-119 Flying Boxcar (R4Q),1
-3006,Lockheed RC-121C Super Constellation,1
-3007,Boeing 757-28A (PCF),1
-3008,BAe BAe-748-334 Srs. 2A,1
-3009,Ford 6-AT-AS Tri-Motor,1
-3010,Douglas R4D-2 (DC-3),1
-3011,Bombardier E-11A (Global Express),1
-3012,Boeing 737-31S,1
-3013,Douglas DC-4 (C-54A-15-DC),1
-3014,Douglas JC-47A,1
-3015,Handley Page HP-137 Jetstream III,1
-3016,Boeing 747SP-94,1
-3017,Breguet 763,1
-3018,Martin PBM-3S Mariner,1
-3019,Boeing 747-212B (SF),1
-3020,Nord 262A-24,1
-3021,Douglas DC-3-216,1
-3022,Douglas DC-8-12,1
-3023,SNCAC NC.211 Cormoran,1
-3024,Short L.17 Scylla,1
-3025,Lockheed YP2V-7 Neptune,1
-3026,Boeing 727-89,1
-3027,Beech Hawker BH-125-400A,1
-3028,Boeing 737-2K5,1
-3029,BN-2A-9R Islander,1
-3030,Douglas R4D-5Z (DC-3),1
-3031,Douglas DST-A-217A (DC-3),1
-3032,Nord 262A-33,1
-3033,Beech 400A Beechjet,1
-3034,Douglas AC-47 (DC-3),1
-3035,Boeing 747SR-81,1
-3036,Boeing XC-97,1
-3037,DC-8-60,1
-3038,Boeing 727-2J0 (F),1
-3039,Boeing 707-3B5C,1
-3040,Boeing 767-222,1
-3041,Cessna 208 Supervan 900,1
-3042,Beech 65-B80 Queen Air,1
-3043,Dewoitine D.333,1
-3044,DC-9-15RC,1
-3045,Boeing 737-76J (WL),1
-3046,Douglas DC-9-15F,1
-3047,Boeing 737-296,1
-3048,Douglas DC-3-228,1
-3049,Swearingen SA-227AC Metro III,1
-3050,Douglas HC-54D (DC-4),1
-3051,Boeing 737-43Q (SF),1
-3052,IPTN/CASA CN-235-220,1
-3053,Alenia G-222RM,1
-3054,Boeing 707-385C,1
-3055,Junkers Ju-52/3m g4e (MS),1
-3056,Shaanxi Y-8,1
-3057,BAe BAe-748-335 Srs. 2A SCD,1
-3058,Savoia-Marchetti SM-75RT,1
-3059,Bristol 175 Britannia 314,1
-3060,Douglas DC-2-152,1
-3061,BAC One-Eleven 516FP,1
-3062,Airbus A300B4-103,1
-3063,Consolidated PBY Catalina,1
-3064,Boeing 737-31B,1
-3065,Beech C-12A Huron,1
-3066,Boeing 767-323ER,1
-3067,Lockheed MC-130E Combat Talon I,1
-3068,Northrop YC-125A Raider,1
-3069,Lockheed L-749A-79-52 Constellation,1
-3070,Fokker 70,1
-3071,Bristol 170 Freighter XI,1
-3072,Vickers 702 Viscount,1
-3073,Boeing 767-323,1
-3074,Yunshuji Y-12-II,1
-3075,Airbus A300B4-220,1
-3076,Boeing 737-4L7,1
-3077,Boeing 777-FDZ,1
-3078,Nord 262C-62,1
-3079,EO-5C (DHC-7-102),1
-3080,Boeing 727-22F,1
-3081,Handley Page HP-137 Jetstream T.2,1
-3082,Boeing 727-2A7,1
-3083,Douglas C-118 (DC-6B),1
-3084,Boeing 757-232 (WL),1
-3085,Boeing 727-277F,1
-3086,Boeing 747-230B (M),1
-3087,Convair VC-131H (CV-580),1
-3088,Antonov An-26SM,1
-3089,NAMC YS-11A-212,1
-3090,Focke-Wulf Fw 200KB-1,1
-3091,Boeing 737-36N,1
-3092,Boeing 727-2M7F,1
-3093,Rockwell Sabreliner 75,1
-3094,Boeing 727-282,1
-3095,Douglas SC-47,1
-3096,Boeing KC-97E Stratofreighter,1
-3097,Canadair CRJ-100SE,1
-3098,Junkers G.24li,1
-3099,BAe 3201 Jetstream 31,1
-3100,Lockheed C-130J Super Hercules,1
-3101,Lockheed RC-121D Super Constellation,1
-3102,Boeing 727-1F8,1
-3103,Boeing 767-3P6ER,1
-3104,Fokker 50?,1
-3105,Airbus A300?,1
-3106,Douglas DC-3 (R4D-4),1
-3107,Convair CV-340,1
-3108,Boeing B-17T Turbo Fortress,1
-3109,Boeing 737-2A8F,1
-3110,DH-114 Heron 2C,1
-3111,Boeing RC-135V Rivet Joint,1
-3112,Boeing 737-6D6,1
-3113,NAMC YS-11A-214,1
-3114,Boeing 737-330,1
-3115,Junkers Ju-52/3mlu,1
-3116,GAF Nomad N.24,1
-3117,Hawker 800,1
-3118,Cessna UC-35D Citation Encore,1
-3119,Lockheed KC-130H Hercules,1
-3120,Vickers 627 Viking 1B,1
-3121,Boeing 727-61,1
-3122,Rockwell Sabreliner 60ELXM,1
-3123,Boeing 707-368C,1
-3124,Convair CV-340 or CV-440,1
-3125,Vickers 657 Viking 1,1
-3126,Lockheed EC-130G Hercules,1
-3127,Bristol 170 Freighter I,1
-3128,Boeing 737-2T5,1
-3129,Boeing 727-173C,1
-3130,IAI Arava 101B,1
-3131,PB2B-1 Canso B,1
-3132,Sikorsky S.41B,1
-3133,Learjet 40XR,1
-3134,Airbus A300B4-601,1
-3135,Lockheed L-1011-385-1 TriStar 1,1
-3136,Douglas DC-3A-178,1
-3137,Breda-Zappata BZ.308,1
-3138,Rockwell Sabreliner 60SC,1
-3139,Lockheed HerculesÂ C.3P (C-130K),1
-3140,Boeing 737-3Z6,1
-3141,Grumman American G-1159 Gulfstream IISP,1
-3142,DH-125-1A/522,1
-3143,Douglas EC-47D (DC-3),1
-3144,ShinMaywa US-2,1
-3145,Hawker Siddeley BH-125-400A,1
-3146,Douglas DC-3A-375,1
-3147,Douglas DC-3-220,1
-3148,Boeing 767-324ER (WL),1
-3149,Douglas DC-8-52F,1
-3150,Boeing 767-323ER (WL),1
-3151,Grumman HU-16 Albatross,1
-3152,Airbus CC-150 Polaris (A310-300),1
-3153,Boeing 737-8AL,1
-3154,Beech 34 Twin Quad,1
-3155,Lockheed R7V-2 Super Constellation,1
-3156,Boeing 757-2Z0,1
-3157,Vickers 833 Viscount,1
-3158,Boeing 707-387C,1
-3159,Douglas C-49J (DC-3-454),1
-3160,Fokker F-27 Friendship 200MP,1
-3161,Boeing 737-301 (SF),1
-3162,Antonov An-32RE,1
-3163,Sino Swearingen SJ30-2,1
-3164,Boeing 747-428(M),1
-3165,CASA C-207C (T.7) Azor,1
-3166,Consolidated PB4Y-2 Super Privateer,1
-3167,Boeing 747-281B (SF),1
-3168,NAMC YS-11A-208,1
-3169,Ilyushin Il-12L,1
-3170,IAI Arava 101,1
-3171,Sukhoi Superjet 100-95,1
+1413,Douglas DC-3-382,2
+1414,Kawasaki Ki-56,2
+1415,Convair CV-340-58,2
+1416,Lockheed WC-130H Hercules,2
+1417,Douglas DC-8-21,2
+1418,Lockheed KC-130J Hercules,2
+1419,Shorts SC.7 Skyvan 3-300,2
+1420,Hawker Siddeley HS-121 Trident 3B,2
+1421,Boeing 727-30,2
+1422,Convair T-29D (CV-240),2
+1423,Handley Page HPR-7 Herald 214,2
+1424,Consolidated Vultee PBY-6A Catalina,2
+1425,Convair CV-440-75,2
+1426,Vickers 735 Viscount,2
+1427,Boeing 757-260,2
+1428,Lockheed P2V-5F Neptune,2
+1429,UC-1A Otter (DHC-3),2
+1430,Boeing E-3A Sentry (707-300B),2
+1431,Dassault Falcon 2000EX,2
+1432,Vickers 632 Viking 1B,2
+1433,Douglas C-47E (DC-3),2
+1434,Sikorsky Y1OA-8 (S-43),2
+1435,Boeing 747-428FER,2
+1436,Martin 2-0-2A,2
+1437,Lockheed Hercules C.1P (C-130K),2
+1438,Learjet U-36A,2
+1439,Convair CV-240-7,2
+1440,Boeing 727-44F,2
+1441,ATR 42-310,2
+1442,Douglas DC-3-209,2
+1443,Douglas DC-2-115D,2
+1444,Boeing 707-441,2
+1445,Douglas DC-3-268,2
+1446,Boeing KC-135Q,2
+1447,Lockheed AC-130H Spectre,2
+1448,Boeing 737-377,2
+1449,Lockheed EC-130Q Hercules,2
+1450,Boeing 737-566,2
+1451,Ford JR-3 (5-AT-C) Tri-Motor,2
+1452,Short Sunderland Mk III,2
+1453,Boeing 747-249F,2
+1454,Avro 688 Super Trader,2
+1455,Boeing 737-230C,2
+1456,Avro 689 Tudor 5,2
+1457,Douglas C-53B (DC-3),2
+1458,Antonov An-6,2
+1459,Boeing 707-348C,2
+1460,Curtiss CW-20 (C-46),2
+1461,Boeing B-17F,2
+1462,SAAB Scandia 90A-2,2
+1463,DH-125-1A,2
+1464,Boeing 727-64,2
+1465,Lockheed LC-130R Hercules,2
+1466,Boeing 737-301 (BDSF),2
+1467,DC-8-62AF,2
+1468,CC-123 Otter (DHC-3),2
+1469,BAC One-Eleven 401AK,2
+1470,Beech A200 Super King Air,2
+1471,Nakajima/Douglas DC-2,2
+1472,Cessna AC-208B Combat Caravan,2
+1473,Steward-Davis Super Catalina (PBY-5A),2
+1474,Boeing 737-282,2
+1475,BN-2A-8Â Islander,2
+1476,Vickers 748D Viscount,2
+1477,Canadair CL-44J,2
+1478,Rockwell 1121A Jet Commander,2
+1479,Fairchild C-123 Provider,2
+1480,Boeing 707-341C,2
+1481,Boeing 737-2Y5,2
+1482,Boeing 737-732 (WL),2
+1483,DH-114 Riley Heron 2D,2
+1484,LiorÃ©-et-Olivier H.242/1,2
+1485,DC-9-21,2
+1486,DC-8-73CF,2
+1487,Vickers 616 Viking 1B,2
+1488,Lockheed R5O-6 Lodestar,2
+1489,Lockheed L-188 Electra,2
+1490,Boeing 727-277,2
+1491,Boeing 747-368,2
+1492,Boeing 727-14,2
+1493,Boeing 747-269B,2
+1494,Antonov An-74T-200,2
+1495,Beech 1900,2
+1496,BlÃ©riot 155,2
+1497,Airbus A321-111,2
+1498,Douglas DC-2-115G,2
+1499,Morane Saulnier C-41 (MS.760 Paris),2
+1500,Gulfstream American G-1159 Gulfstream II B,2
+1501,Boeing 747-132 (SF),2
+1502,Boeing 727-2J0,2
+1503,Bristol 175 Britannia 318,2
+1504,Airbus A330-301,2
+1505,Embraer ERJ-190AR (ERJ-190-100 IGW),2
+1506,Airbus A310-304 (F),2
+1507,Airbus A320-111,2
+1508,Airbus A320-251N,2
+1509,Boeing 707-123,2
+1510,Ilyushin Il-38,2
+1511,Boeing 737-82R (WL),2
+1512,Boeing 737-59D,2
+1513,NAMC YS-11-109,2
+1514,Tupolev Tu-114D,2
+1515,Boeing 727-51,2
+1516,Avro 691 Lancastrian XPP,2
+1517,Boeing 727-90C,2
+1518,Airbus A320-271N,2
+1519,Douglas DC-3-277D,2
+1520,Boeing 737-3K2,2
+1521,Shorts 360-200,2
+1522,Douglas Dakota II (DC-3),2
+1523,Yakovlev Yak-40EC,2
+1524,Douglas Tp 79 (C-47-DL),2
+1525,A.W. Argosy II,2
+1526,Douglas DC-3A-S1C3G,2
+1527,BAe ATP-F (LFD),2
+1528,Boeing 737-205,2
+1529,Antonov An-72-100,2
+1530,DC-8-55F,2
+1531,Boeing 737-3B7,2
+1532,Boeing 737-4U3,2
+1533,Boeing 747-412,2
+1534,Boeing 717-231,2
+1535,DC-9-80 (MD-80),2
+1536,Fokker F.XVIII,2
+1537,SE-210 Caravelle IA,2
+1538,Boeing 747-4R7F,2
+1539,Grumman SA-16A Albatross (HU-16),2
+1540,Embraer ERJ-175,2
+1541,Vickers 832 Viscount,2
+1542,Boeing 737-406,2
+1543,CT-39A-1-NO Sabreliner,2
+1544,Fairchild UC-123B Provider,2
+1545,Boeing 747-122,2
+1546,Lockheed PV-2D Harpoon,2
+1547,Dassault Falcon 900B,2
+1548,Embraer EMB-145EP (ERJ-145EP),2
+1549,Boeing 727-86,2
+1550,Douglas DC-6A/C,2
+1551,Consolidated OA-10 Catalina (PBY-5),2
+1552,Ford 4-AT-D Tri-Motor,2
+1553,Boeing 727-223F,2
+1554,Douglas C-49F-DO (DC-3),2
+1555,Vickers 732 Viscount,2
+1556,Boeing 737-3T0,2
+1557,Boeing 737-3H4,2
+1558,Boeing 707-340C,2
+1559,DC-10-10F,2
+1560,Lockheed L-649 Constellation,2
+1561,Antonov An-70,2
+1562,NAMC YS-11-125,2
+1563,Curtiss C-46T,2
+1564,Lockheed L-1049E-55 Super Constellation,2
+1565,Boeing 767-219ER,2
+1566,Short S.8 Calcutta,2
+1567,Douglas DC-2-115F,2
+1568,Boeing 767-269,2
+1569,Convair CV-300,2
+1570,Boeing 727-2L5,2
+1571,Douglas C-54M (DC-4),2
+1572,Vickers 803 Viscount,2
+1573,Cessna 525 Citation M2,2
+1574,Shijiazhuang Y-5,2
+1575,Douglas C-54S (DC-4),2
+1576,Consolidated Catalina IVB (PB2B-1),2
+1577,Boeing 737-204,2
+1578,Boeing 717-2BD,2
+1579,Vickers Varisty T.1,2
+1580,Boeing 737-401,2
+1581,Learjet 24XR,2
+1582,Airbus A310-222,2
+1583,HESA IrAn-140-100,2
+1584,Douglas LC-47J,2
+1585,Boeing 727-286,2
+1586,Boeing B-17G Flying Fortress,2
+1587,Transall C-160R,2
+1588,Canadair CRJ-100LR,2
+1589,Handley Page HPR-7 Herald 202,2
+1590,DC-8-62H,2
+1591,Boeing 747-48EF,2
+1592,Beech Super King Air,2
+1593,CASA C-212-CB Aviocar 100,2
+1594,Embraer ERJ 190AR (ERJ-190-100 IGW),2
+1595,Boeing 737-524,2
+1596,Boeing 727-2N8,2
+1597,Avro Shackleton MR.1A,2
+1598,Curtiss AT-32C Condor II,2
+1599,Hawker Siddeley HS-780 Andover CC.2,2
+1600,Transall C-160F,2
+1601,Rohrbach Ro X Romar I,2
+1602,DH-114 Riley Heron 2B,2
+1603,Gulfstream American G-1159 Gulfstream II SP,2
+1604,Boeing 737-7Q8,2
+1605,Douglas DC-3A-228F,2
+1606,Boeing 777-333ER,2
+1607,Tupolev Tu-104,2
+1608,Cessna C-98A Grand Caravan (208B),2
+1609,Boeing 737-201,2
+1610,Ilyushin Il-14FK,2
+1611,Martin JRM-3 Mars,2
+1612,Lockheed L-1049E Super Constellation,2
+1613,Douglas Dakota 4 (DC-3),2
+1614,MD-87,2
+1615,Hawker Siddeley DH-125-1A,2
+1616,Boeing 747-2U3B,2
+1617,Embraer EMB-145MP (ERJ-145MP),2
+1618,Boeing 737-2B1,2
+1619,Swearingen SA227-AT Merlin IVC,2
+1620,Vickers 498 Viking 1A,2
+1621,Bristol 175 Britannia 253,2
+1622,Vickers 744 Viscount,2
+1623,Boeing 737-229C,2
+1624,Boeing 747-206B,2
+1625,Boeing 747-2F6B,2
+1626,Douglas C-49E (DC-3-DST),2
+1627,CASA C-212-M Aviocar 100,2
+1628,Boeing 727-212,2
+1629,Convair CV-340-59,2
+1630,Boeing 737-73V (WL),2
+1631,Farman F.61 Goliath,2
+1632,Douglas DC-3A-367,2
+1633,Douglas R2D-1 (DC-2),2
+1634,Douglas DC-2-171,2
+1635,Airbus A310-308,2
+1636,Yakovlev Yak-40D,2
+1637,CASA C-295M,2
+1638,Boeing 707-358C,2
+1639,Douglas Dakota III  (DC-3),2
+1640,Lockheed L-749A-79 Constellation,2
+1641,Saunders ST-27,2
+1642,Hawker Siddeley HS-125-1A,2
+1643,Tupolev Tu-204-100,2
+1644,Lockheed L-1049H-01-06-162 Super Constellation,2
+1645,Handley Page O/10,2
+1646,Douglas VC-47J (DC-3),2
+1647,Shorts SC.7 Skyvan 3M-100,2
+1648,Ford 5-AT-A Tri-Motor,2
+1649,Kaiser-Frazer C-119L Flying Boxcar,2
+1650,WM Fokker F.VIIIb,2
+1651,Douglas C-49E (DC-3),2
+1652,Consolidated Catalina IIIA (PBY-5A),2
+1653,Boeing 747-230F,2
+1654,Boeing 747-412F,2
+1655,Boeing 767-3Q8ER,2
+1656,Boeing 707-387B,2
+1657,Airbus A300B4-620,2
+1658,Douglas RC-47P,2
+1659,Dassault Falcon 200,2
+1660,Ford 4-AT-.  Tri-Motor,2
+1661,Douglas DC-3A-228D,2
+1662,DH-125-1,2
+1663,Lockheed EC-130E Hercules,2
+1664,Boeing 777-2H6ER,2
+1665,Boeing 727-2H9,2
+1666,Boeing 737-159,2
+1667,Airbus A319-115 (WL),2
+1668,Bristol 175 Britannia 102,2
+1669,Douglas DC-3 (Showa L2D),2
+1670,BAC One-Eleven 402AP,2
+1671,Raytheon 390 Premier IA,2
+1672,Douglas DC-3-209A,2
+1673,Douglas DC-2-192,2
+1674,Cessna 550Â Citation II,2
+1675,Boeing 737-298C,2
+1676,Curtiss BT-32 Condor II,2
+1677,BAC One-Eleven 521FH,2
+1678,DHC-4T Caribou,2
+1679,Beech T-1A Jayhawk,2
+1680,Boeing 747-246F (SCD),2
+1681,Lockheed C-121G Super Constellation,2
+1682,Beriev Be-200ChS,2
+1683,Airbus A320-233,2
+1684,Boeing 727-92C,2
+1685,Convair T-29A (CV-240),2
+1686,Boeing 767-366ER,2
+1687,Boeing 727-243,2
+1688,Vickers 720 Viscount,2
+1689,Embraer EMB-110P1K Bandeirante,2
+1690,MD-11C,2
+1691,Boeing 737-2X6C,2
+1692,Boeing 757-2B7 (WL),2
+1693,Douglas DC-3B-202,2
+1694,Boeing 727-2D6,2
+1695,Vickers 764D Viscount,2
+1696,Boeing 747-2R7F,2
+1697,Ilyushin Il-14D,2
+1698,Lockheed L-1011 TriStar 200,2
+1699,Boeing 707-131,2
+1700,Convair C-131F (CV-340),2
+1701,Boeing 707-321,2
+1702,BAe 3103 Jetstream 31,2
+1703,GAF Nomad N.22S Searchmaster L,2
+1704,Douglas C-118A Liftmaster (DC-6A),2
+1705,Vickers 953 Vanguard,2
+1706,Boeing 737-85R,2
+1707,Boeing 727-76,2
+1708,Airbus A321-271N,2
+1709,Sikorsky S-42,2
+1710,Boeing 707-365C,2
+1711,Boeing 767-35DER,2
+1712,Grumman UF-1G Albatross,2
+1713,Douglas DST-A-207A (DC-3),2
+1714,Boeing 747-282B,2
+1715,Gulfstream G450,2
+1716,ATR 72-201,2
+1717,Boeing 747-243B,2
+1718,Airbus A380-861,2
+1719,Boeing 707-360C,2
+1720,Airbus A340-211,2
+1721,Lockheed C-69 Constellation,2
+1722,Rockwell Sabreliner 40,2
+1723,Convair CV-440-12,2
+1724,Douglas DC-4 (C-54A-15-DC),1
+1725,Boeing 707-3F9C,1
+1726,Boeing 737-500 ?,1
+1727,Ilyushin Il-12L,1
+1728,Kaiser-Fraser C-119G Flying Boxcar,1
+1729,Bristol 175 Britannia 313,1
+1730,Beech 34 Twin Quad,1
+1731,DC-9-32CF,1
+1732,CANT Z.506S,1
+1733,Boeing 777-3DZER,1
+1734,Canadair CRJ-100SE,1
+1735,Ford Tri-Motor,1
+1736,Boeing 767-269ER,1
+1737,Douglas DC-3-196,1
+1738,Shorts 330UTT,1
+1739,Airbus A300B,1
+1740,Tupolev Tu-134IK,1
+1741,Focke-Wulf Fw 200A-05,1
+1742,Consolidated PBY-6A Super Catalina,1
+1743,Boeing 757-232 (WL),1
+1744,Vickers 779D Viscount,1
+1745,Lockheed C-141A-20-LM Starlifter,1
+1746,Canadair CRJ-702,1
+1747,Boeing 727-172C,1
+1748,Airbus A310-325,1
+1749,Douglas DST-318 (DC-3),1
+1750,Douglas DC-3A-393,1
+1751,Boeing 757-324 (WL),1
+1752,Douglas R4D-2 (DC-3),1
+1753,Boeing 737-8LJ (WL),1
+1754,Airbus A300?,1
+1755,Let L-410UVP-E10A,1
+1756,Douglas DC-3-227B,1
+1757,Boeing 737-282 Adv.,1
+1758,Junkers Ju-252A1,1
+1759,Nord 2502B Noratlas,1
+1760,Hawker Siddeley HS-125-1A-731,1
+1761,Vickers 763D Viscount,1
+1762,IPTN/CASA CN-235M-VIP,1
+1763,Convair CV-340-71,1
+1764,Antonov An-72-100D,1
+1765,Rockwell Sabreliner 60ELXM,1
+1766,SE-210 Caravelle I,1
+1767,Embraer KC-390,1
+1768,Boeing 737 or 757,1
+1769,Nord 262B-11,1
+1770,Lockheed RC-121D Constellation,1
+1771,Douglas HC-54D (DC-4),1
+1772,Vickers 702 Viscount,1
+1773,Boeing 777-3B5,1
+1774,Douglas MC-54M (DC-4),1
+1775,Lockheed L-749A Constellation (VC-121B),1
+1776,NAMC YS-11A-219,1
+1777,Lockheed C-121G Super Constellation (L-1049),1
+1778,Boeing RC-135S Rivet Ball,1
+1779,Embraer VC-97 Brasilia (EMB-120RT),1
+1780,Vickers 823 Viscount,1
+1781,Lockheed L-1011-385-1-14 TriStar 150,1
+1782,Douglas R5D-4 (DC-4),1
+1783,Lockheed 414-56-11 Hudson,1
+1784,ATR 42-320 (F),1
+1785,Boeing 737-85C (WL),1
+1786,Boeing 737-8HC (WL),1
+1787,Saab 340AF,1
+1788,BAe BAe-748-310 Srs. 2A LFD,1
+1789,Boeing 747-123F (SCD),1
+1790,DC-9-33CF,1
+1791,LiorÃ©-et-Olivier H.246,1
+1792,Nord 262C-62,1
+1793,Grumman CSR-110 Albatross (HU-16B),1
+1794,Boeing 747-228F,1
+1795,Lockheed C-141C Starlifter,1
+1796,Junkers G.38di,1
+1797,Boeing 757-21K,1
+1798,Convair CV-240,1
+1799,Beech C-12A Huron,1
+1800,Douglas VC-54G (DC-4),1
+1801,Gulfstream G280,1
+1802,Tupolev Tu-204S,1
+1803,Boeing 747-128 (SF),1
+1804,PZL-Mielec M28-05 Skytruck,1
+1805,Lockheed L-1011-385-1 TriStar 1,1
+1806,Antonov An-12PL,1
+1807,Boeing 767-3D6,1
+1808,Boeing 737-497,1
+1809,BAe BAe-748-344 Srs. 2A,1
+1810,Boeing 737-286,1
+1811,Bristol 175 Britannia 312F,1
+1812,Convair VC-131H (CV-580),1
+1813,Boeing 314,1
+1814,Boeing 747-151,1
+1815,Douglas R5D Skymaster (DC-4),1
+1816,Boeing 737-8EH,1
+1817,Boeing 747-121SF,1
+1818,Handley Page Jetstream T.1,1
+1819,Boeing 737-3Z6,1
+1820,Convair CV-580-11-A,1
+1821,Consolidated PB4Y-2 Privateer,1
+1822,SNCASO S.O.95M Corse III,1
+1823,Embraer R-95 Bandeirante (EMB-110B),1
+1824,Consolidated 28-5ME Catalina,1
+1825,Douglas SC-54G (DC-4),1
+1826,Dornier Do 28-G92 Turbo Skyservant,1
+1827,Boeing 737-219,1
+1828,Lockheed C-130A-II Hercules,1
+1829,Embraer EMB-145LI (ERJ-145LI),1
+1830,Short S.25 Sunderland,1
+1831,Boeing 727-222A,1
+1832,Vickers 759D Viscount,1
+1833,Lockheed 414 Hudson III,1
+1834,Boeing 727-2M7F,1
+1835,Shorts SC.7 Skyvan 3A-200,1
+1836,ATR 42-200,1
+1837,Boeing 727-22 (WL),1
+1838,Douglas DC-3S,1
+1839,Douglas R5D-4 (C-54E),1
+1840,Beech 300 King Air (MARSS),1
+1841,Boeing 737-8H6 (WL),1
+1842,Cessna 560 Citation Encore+,1
+1843,Vickers 813 Viscount,1
+1844,Airbus A340-642X,1
+1845,Douglas DC-3A-408,1
+1846,Vickers 630 Viscount,1
+1847,Breguet 763,1
+1848,Embraer EMB-550 Legacy 500,1
+1849,BAe 3216 Jetstream 32,1
+1850,Convair CV-340-49,1
+1851,Douglas C-47H,1
+1852,Fairchild AC-119G Shadow,1
+1853,Canadair CL-44D4,1
+1854,BAC One-Eleven 200AB,1
+1855,NAMC YS-11A-212,1
+1856,Boeing 737-76N,1
+1857,MD-81,1
+1858,Boeing 737-4D7,1
+1859,Boeing 757-2Z0,1
+1860,Airbus A320 ?,1
+1861,Boeing 737-2D6,1
+1862,Boeing 747-283B,1
+1863,Fiat G.212PW,1
+1864,Boeing 727-228F,1
+1865,Boeing 737-82R,1
+1866,DHC-8-401Q Dash 8,1
+1867,Boeing 737-8CT (WL),1
+1868,Boeing 747-236B,1
+1869,Dornier 328 ?,1
+1870,Boeing 747-228B (SCD),1
+1871,Vickers 808C Viscount,1
+1872,Boeing 737-301 (SF),1
+1873,Nord 262A-32,1
+1874,Boeing RC-135T Rivet Dandy,1
+1875,Consolidated PBY Catalina,1
+1876,Let L-410UVP-E20C,1
+1877,Lockheed TC-121C Super Constellation,1
+1878,Boeing RC-135V Rivet Joint,1
+1879,Fokker F.XXXVI,1
+1880,MBB HFB-320ECM Hansa Jet,1
+1881,Douglas C-47M (DC-3),1
+1882,Boeing 737-838 (WL),1
+1883,Boeing 777-222ER,1
+1884,BN-2B-26Â Islander,1
+1885,Douglas DC-3-194H,1
+1886,Bristol 175 Britannia 314,1
+1887,Boeing 757-236,1
+1888,Consolidated P4Y-2B Privateer,1
+1889,Handley Page W.9a Hampstead,1
+1890,BAe BAe-748-402 Srs. 2B,1
+1891,BAe BAe-748-378 Srs. 2B,1
+1892,HS-125/BAe-125,1
+1893,Convair CV-340-68,1
+1894,Tupolev Tu-204-100V,1
+1895,Douglas SC-54D (DC-4),1
+1896,Fairchild SA227-CC Metro 23,1
+1897,Boeing 767-233,1
+1898,Boeing 757-2K2,1
+1899,Lockheed L-749 Constellation (C-121A),1
+1900,Boeing KC-135,1
+1901,Junkers Ju 52/3m,1
+1902,IAI Arava 202,1
+1903,Douglas DC-3A-343B,1
+1904,BAe BAe-748-352 Srs. 2B SCD,1
+1905,Boeing 737-2V2,1
+1906,Consolidated C-12 Commodore (16-2),1
+1907,Short S.33 Empire Flying Boat,1
+1908,Beech MC-12W Liberty,1
+1909,Lockheed C-140A-LM JetStar,1
+1910,Boeing 737-881 (WL),1
+1911,Vickers 953C Vanguard,1
+1912,Boeing 737-8F2,1
+1913,BN-2AÂ Islander,1
+1914,ATR 42-500 ?,1
+1915,DC-8-62H-AF,1
+1916,Fokker F-28 Fellowship 3000RC,1
+1917,Embraer ERJ 170LR (ERJ-170-100 LR),1
+1918,Cessna 560XLS Citation Excel,1
+1919,Boeing 777-31H,1
+1920,BN-2T Islander AL.1,1
+1921,Douglas C-47 Dakota IV,1
+1922,Boeing 767-31KER,1
+1923,Boeing 747SP-94,1
+1924,Boeing 737-2K3,1
+1925,Boeing 737-3W0,1
+1926,Boeing 747SP-27,1
+1927,Boeing T-43A (737-200),1
+1928,Boeing 747-428 (BCF),1
+1929,Harbin Yunshuji Y-12E,1
+1930,Handley Page HPR-7 Herald 100,1
+1931,Consolidated PB4Y-2 Super Privateer,1
+1932,Douglas AC-47A,1
+1933,Nord 262D-51 FrÃ©gate,1
+1934,Convair VT-29C (CV-240),1
+1935,NAMC YS-11A-214,1
+1936,Dewoitine D.342,1
+1937,Consolidated PBY-5AÂ Catalina,1
+1938,Boeing 737-7L9 (WL),1
+1939,Handley Page HP.82 Hermes V,1
+1940,Cessna C-98 Caravan I (208A),1
+1941,Boeing 747-130,1
+1942,Antonov An-12 ?,1
+1943,Boeing EC-135C,1
+1944,Lockheed EC-130G Hercules,1
+1945,LiorÃ© et Olivier 212,1
+1946,Lockheed L-1011-385-3 TriStar 500,1
+1947,BAe 3201 Jetstream 31,1
+1948,Boeing 737-3M8 (QC),1
+1949,Convair CV-440-80,1
+1950,Boeing 737-8GJ (WL),1
+1951,Ilyushin Il-14RR,1
+1952,BAC One-Eleven 528FL,1
+1953,Nord 262E,1
+1954,BAe-125-600B,1
+1955,Cessna 500 Citation I Sierra Eagle,1
+1956,Boeing 727-2F2 (F),1
+1957,IAI Arava 101,1
+1958,Airbus A321-251N,1
+1959,CASA C-212-M Aviocar 200,1
+1960,Boeing 767-381ER,1
+1961,Boeing 727-282,1
+1962,Lockheed C-130D-6 Hercules,1
+1963,Hawker Siddeley C-91 (HS-748-281 Srs. 2A LFD),1
+1964,Embraer ERJ 190STD (ERJ-190-100),1
+1965,Vickers 739B Viscount,1
+1966,Boeing 737-81D (WL),1
+1967,DC-8-62 (F),1
+1968,BAe BAe-748-400 Srs. 2B,1
+1969,Boeing 747-44AF (SCD),1
+1970,IAI Arava 102,1
+1971,Boeing 747-131F,1
+1972,Boeing 737-2Q3,1
+1973,Boeing 757-23APF,1
+1974,Boeing 777-340ER,1
+1975,Short L.17 Scylla,1
+1976,Douglas C-51 (DC-3-270C),1
+1977,Nord 262A-34,1
+1978,Boeing 727-294,1
+1979,Handley Page Hastings,1
+1980,Shaanxi Y-8GX-3,1
+1981,Douglas C-47 Pe're (DC-3),1
+1982,Boeing 727-44,1
+1983,Boeing 747-230B (M),1
+1984,Boeing 777-31HER,1
+1985,BAe BAe-748-334 Srs. 2A,1
+1986,Antonov An-140,1
+1987,Lockheed Hercules C.3A (C-130K),1
+1988,Boeing 727-95,1
+1989,IPTN/CASA CN-235MP-100M,1
+1990,Boeing 737-3Q8 (BDSF),1
+1991,C-9A Nightingale (DC-9-30),1
+1992,Dassault Falcon 20C-5,1
+1993,Dornier Do 128-G92 Turbo Skyservant,1
+1994,Douglas DC-3-194,1
+1995,Let L-410UVP-E4,1
+1996,Consolidated Liberator C.VII (C-87),1
+1997,Short S.25 Sunderland 5,1
+1998,Antonov An-30A-100,1
+1999,Beech 65-B80 Queen Air,1
+2000,DC-8-61CF,1
+2001,Avro 688 Tudor 1,1
+2002,BN-2B-20Â Islander,1
+2003,Boeing 767-222,1
+2004,Bristol 175 Britannia C.1,1
+2005,IAI 1126 Galaxy,1
+2006,Boeing 737-31S,1
+2007,Boeing 747-244B (SF),1
+2008,Douglas EC-47A,1
+2009,Boeing 757-256 (WL),1
+2010,Shorts SC.7 Skyvan 2-102,1
+2011,Boeing 737-46J,1
+2012,Douglas DC-8-31,1
+2013,Boeing 727-1F8,1
+2014,Douglas DC-6B Tanker,1
+2015,Boeing 727-2B6F Adv.,1
+2016,Douglas DC-8-11,1
+2017,Savoia-Marchetti SM-75RT,1
+2018,Alenia G-222SAA,1
+2019,Airbus A330-343E,1
+2020,Lockheed L-1049G-82-151 Super Constellation,1
+2021,Douglas C-34 (DC-2),1
+2022,Vickers C-90 Viscount (742D),1
+2023,Douglas DC-3-228,1
+2024,Sud-Aviation SE-210 Caravelle VIR,1
+2025,Boeing 737-347 (SF),1
+2026,Lockheed Martin KC-130J,1
+2027,Boeing 707-131F,1
+2028,Douglas DC-3A-447,1
+2029,Junkers Ju-52/3m g4e (MS),1
+2030,ShinMaywa US-2,1
+2031,DHC-6 Twin Otter 320,1
+2032,Boeing 777-212ER,1
+2033,Boeing 737-270C,1
+2034,IPTN/CASA CN-235M-10,1
+2035,Boeing 717-23S,1
+2036,Boeing 737-2M9,1
+2037,Embraer ERJ-190LR,1
+2038,Dornier 228-200,1
+2039,Douglas DC-2-115A,1
+2040,Lockheed WV-3 Super Constellation,1
+2041,Handley Page W.8g,1
+2042,Boeing 737-2K2C,1
+2043,Dornier Do 28D Skyservant,1
+2044,Douglas C-47C,1
+2045,Boeing 737-408,1
+2046,Boeing 747 or 777,1
+2047,Fairchild RC-119L Flying Boxcar,1
+2048,Handley Page W.8b,1
+2049,Basler Turbo 67 (AC-47T),1
+2050,Dassault Falcon 20,1
+2051,Fokker 50?,1
+2052,Embraer EMB-135BJ Legacy 600,1
+2053,Grumman A-16 Albatross (HU-16),1
+2054,Vickers Valetta T.4,1
+2055,Boeing 737-800,1
+2056,BN-2A-9R Islander,1
+2057,Boeing S.307B Stratoliner,1
+2058,Douglas TC-47B,1
+2059,Ford C-4A (5-AT-D) Tri-Motor,1
+2060,Lockheed WC-121N Super Constellation,1
+2061,Convair CV-340-54,1
+2062,DC-10-10CF,1
+2063,Fairchild C-119 Flying Boxcar (R4Q-2),1
+2064,Douglas VC-54Q (DC-4),1
+2065,Savoia-Marchetti SM-95,1
+2066,Piaggio PD.808TP,1
+2067,Carstedt Jet Liner 600A,1
+2068,Boeing 737-73S (WL),1
+2069,NAMC YS-11M-A-624,1
+2070,DC-8-62CF,1
+2071,Martin PBM-3S Mariner,1
+2072,Douglas RC-47D,1
+2073,Boeing 747-228B,1
+2074,Fairchild C-119F-FA Flying Boxcar,1
+2075,EO-5C (DHC-7-102),1
+2076,Boeing 727-25F,1
+2077,Embraer XC-95B Bandeirante (EMB-110),1
+2078,Caproni Ca.48,1
+2079,NAMC YS-11-111,1
+2080,Convair C-131D (CV-340),1
+2081,Lockheed C-56B-LO Lodestar,1
+2082,CT-39E Sabreliner,1
+2083,Boeing 727-41,1
+2084,Focke-Wulf Fw 200A-0,1
+2085,Boeing EC-135J,1
+2086,Lockheed P2V-2N Neptune,1
+2087,Boeing 727-61,1
+2088,Boeing C-17A Globemaster III,1
+2089,Fokker F-27 Friendship 500CRF,1
+2090,Martin VC-3A (4-0-4),1
+2091,Junkers Ju-52/3mg.e,1
+2092,Boeing 717-2K9,1
+2093,BAe BAe-748-435 Srs. 2B,1
+2094,DH-114 Riley Heron 2E/A1,1
+2095,Boeing 720-025,1
+2096,Dassault Falcon 900C,1
+2097,Siebel Si 204,1
+2098,Embraer ERJ 190AR,1
+2099,Boeing 777-266ER,1
+2100,Boeing 720-059B,1
+2101,Savoia-Marchetti SM-95C,1
+2102,Lockheed R5O-4 Lodestar,1
+2103,Douglas DC-3A-438,1
+2104,Oakland Centaurus,1
+2105,Lockheed C-60 Lodestar,1
+2106,DHC-8-315 Dash 8,1
+2107,Consolidated LB.30 Liberator II,1
+2108,Douglas DC-3-314B,1
+2109,CASA C-212-A2 Aviocar 100,1
+2110,Lockheed NC-130F Hercules,1
+2111,CASA C-212 Aviocar 300DF,1
+2112,Boeing 747SP-44,1
+2113,Boeing 767-2B7ER,1
+2114,Boeing 757-3E7,1
+2115,Boeing 737-269,1
+2116,Tupolev Tu-124K,1
+2117,Boeing KC-97E Stratofreighter,1
+2118,Lockheed CC-130B Hercules,1
+2119,Boeing 737-430,1
+2120,Airbus A340-541,1
+2121,Ford 5-AT-DS Tri-Motor,1
+2122,Vickers 838 Viscount,1
+2123,Douglas C-49J (DC-3-454),1
+2124,DC-9-31F,1
+2125,Convair CV-240-14,1
+2126,BAe BAe-748-353 Srs. 2A,1
+2127,Boeing 80A,1
+2128,Lockheed L-749A-79-52 Constellation,1
+2129,Beech Hawker BH-125-600A,1
+2130,Convair CV-440-35,1
+2131,Douglas C-49G (DC-3),1
+2132,Boeing 737-5U3,1
+2133,Boeing 747-45EF,1
+2134,DC 10-10,1
+2135,Potez-CAMS 161,1
+2136,Nord 262A-25,1
+2137,Convair CV-240-5,1
+2138,Boeing 727-276,1
+2139,Handley Page HPR.1 Marathon 1A,1
+2140,DHC-8-300,1
+2141,Short S.8/1 Calcutta,1
+2142,Boeing 737-58E,1
+2143,Embraer EMB-545 Legacy 450,1
+2144,Boeing RC-135E Rivet Amber,1
+2145,Douglas DC-3-229,1
+2146,Dornier Do 28D-1S Skyservant,1
+2147,Shaanxi Y-8,1
+2148,Boeing 737-2H4 Adv.,1
+2149,Miles M.60 Marathon I,1
+2150,Consolidated Catalina 1A,1
+2151,Tupolev Tu-144S,1
+2152,Boeing 727-22QC,1
+2153,Ford XB-906 (Tri-Motor),1
+2154,Douglas XC-32 (DC-2),1
+2155,Avro 691 Lancastrian C.2,1
+2156,DHC-8-402QPF Dash 8,1
+2157,Douglas VC-47H (DC-3),1
+2158,Ilyushin Il-14 ?,1
+2159,ATR 42-600,1
+2160,Swearingen SA226-AT Metro III,1
+2161,National Aerospace Laboratories (NAL) Saras,1
+2162,CASA C-212-A3 Aviocar 100,1
+2163,Boeing 737-53C,1
+2164,Martin P5B Marlin,1
+2165,Lockheed C-130H3 Hercules,1
+2166,Antonov An-74TK-300,1
+2167,Boeing 767-34AFER (WL),1
+2168,Gulfstream G-V-SP (G550),1
+2169,Boeing 737-8FB (WL),1
+2170,Lockheed AC-130J Ghostrider,1
+2171,PZL MD-12,1
+2172,Bristol 175 Britannia 302,1
+2173,Boeing 737-236A,1
+2174,Tupolev Tu-134Sh2,1
+2175,Boeing 737-2K5,1
+2176,Vickers 491 Viking 1A,1
+2177,Douglas DC-3-220,1
+2178,Convair CV-240-53,1
+2179,Boeing 737-3G7,1
+2180,Tupolev Tu-124Sh,1
+2181,Boeing 767-330ER,1
+2182,Lockheed L-1049G-82 Super Constellation,1
+2183,Convair CV-340-70,1
+2184,Airbus A330-223F,1
+2185,Boeing 757-258ER,1
+2186,Lockheed C-130BZ Hercules,1
+2187,DC-8-60,1
+2188,Canadair CRJ-200PF,1
+2189,Boeing 767-260ER,1
+2190,Avro 748-101 Srs. 1,1
+2191,Naval Aircraft Factory PBN-1 Nomad,1
+2192,BAe BAe-748-501 Srs. 2B,1
+2193,Boeing 747-200,1
+2194,Boeing 737-73V,1
+2195,Basler Turbo 67,1
+2196,Junkers G.24bi,1
+2197,Douglas TC-47K (DC-3),1
+2198,Boeing 737-4M0,1
+2199,Airbus A300B4-620 ?,1
+2200,Lockheed C-130H-MP Hercules,1
+2201,Boeing 737-8FH (WL),1
+2202,Boeing 707-3J6C,1
+2203,Boeing EC-135N,1
+2204,DH-125-3A,1
+2205,Boeing 777-237LR,1
+2206,Piaggio PD.808,1
+2207,Antonov An-74T,1
+2208,Lockheed L-1011 TriStar 250,1
+2209,A.W. Argosy IA,1
+2210,Fairchild UC-123B-6-FA Provider,1
+2211,DHC-8-200,1
+2212,Boeing EC-135K,1
+2213,Harbin Y12E,1
+2214,Boeing 727-231F Super 27,1
+2215,Let L-410,1
+2216,Junkers Ju-52/1mcai,1
+2217,Handley Page HPR-7 Herald 207,1
+2218,Beech 300/F Super King Air,1
+2219,Handley Page HP-137 Jetstream III,1
+2220,Convair CV-240-53 (HC-131A),1
+2221,Sino Swearingen SJ30-2,1
+2222,Boeing 727-2J4,1
+2223,Gulfstream G650,1
+2224,Convair CV-440-88,1
+2225,Convair R4Y-1Z (CV-340),1
+2226,Junkers Ju-90V1,1
+2227,Fairchild C-119J Flying Boxcar,1
+2228,Boeing 747-100,1
+2229,Boeing 707-312B,1
+2230,BAe 3202 Jetstream 32,1
+2231,Boeing 707-385C,1
+2232,Boeing 747-238B,1
+2233,Rockwell CT-39G Sabreliner,1
+2234,Airbus A300B4-103,1
+2235,Boeing 767-323,1
+2236,Hawker 800,1
+2237,Douglas R3D-1 (DC-5),1
+2238,CASA C-212 Aviocar 400MPA,1
+2239,Airbus A380-842,1
+2240,Antonov An-8RU,1
+2241,Douglas R5D-2 (C-54B),1
+2242,HAL/Dornier 228-101,1
+2243,Boeing 737-242,1
+2244,Spectrum Aeronautical Spectrum 33,1
+2245,Lockheed L-1049-54-80 Super Constellation,1
+2246,Convair CV-240-53 (C-131A),1
+2247,Lockheed EP-3J Orion,1
+2248,Convair CV-340-32,1
+2249,Douglas DST-144 (DC-3),1
+2250,Boeing 737-36Q (WL),1
+2251,Vickers Viking C.2,1
+2252,Junkers F.24ko (G.24),1
+2253,Boeing 737-322 (WL),1
+2254,Lockheed Lodestar,1
+2255,Boeing 727-51C,1
+2256,BAe BAe-748-399 Srs. 2B LFD,1
+2257,Boeing 737-3Z0,1
+2258,Hawker Siddeley DH-125-400A,1
+2259,Cessna 680A Citation Latitude,1
+2260,Vickers 807 Viscount,1
+2261,Douglas DC-3-314,1
+2262,Saab 2000 AEW&C,1
+2263,Boeing 777-28EER,1
+2264,Super Avia 14,1
+2265,Douglas JC-47A,1
+2266,Boeing 747-409,1
+2267,Boeing EC-135P,1
+2268,Douglas DST-A-217A (DC-3),1
+2269,Airbus A300B4-605R (F),1
+2270,Boeing 747-244B,1
+2271,Boeing P-8A Poseidon (737-8FV),1
+2272,Boeing 737-301,1
+2273,DH-114 Heron 2C,1
+2274,Douglas DC-8-32,1
+2275,Junkers F.24k2ay (G.24),1
+2276,Airbus A340-311,1
+2277,Boeing 737-76N (WL),1
+2278,Douglas C-53C (DC-3),1
+2279,Xian Yunshuji Y-7H,1
+2280,Lockheed 14-N2 Super Electra,1
+2281,Fairchild SA227-AT Merlin IVC,1
+2282,Vickers 720C Viscount,1
+2283,Boeing 767-3Z9ER,1
+2284,Lockheed C-130J Super Hercules,1
+2285,Vickers 627 Viking 1B,1
+2286,Boeing 737-49R,1
+2287,SNCASE SE.161/1 Languedoc,1
+2288,Boeing 747-2B5F (SCD),1
+2289,Boeing 757-27A (PCF),1
+2290,Boeing 757-24APF,1
+2291,Hawker Siddeley HS-125-400A,1
+2292,Douglas DC-6F,1
+2293,Douglas DC-1-109,1
+2294,CASA CN-235M-300,1
+2295,Boeing 737-43Q (SF),1
+2296,Boeing 707-387C,1
+2297,SNCASO S.O.93 Corse,1
+2298,Consolidated 28-5MC Canso A,1
+2299,Douglas DC-3-391,1
+2300,Boeing 777-F60,1
+2301,Lockheed L-749A-79-33 Constellation,1
+2302,Boeing 737-33V,1
+2303,Alenia G-222,1
+2304,Gulfstream ?,1
+2305,BN-2B Islander,1
+2306,Airbus A300B4-220,1
+2307,DHC-7-103,1
+2308,Consolidated C-87A,1
+2309,Vickers 610 Viking 3B,1
+2310,Ilyushin Il-112V,1
+2311,Airbus A300B2-202,1
+2312,CT-39A-1-NA Sabreliner,1
+2313,DH-106 Comet 2R,1
+2314,Boeing 737-8KV (WL),1
+2315,Douglas DC-3-277A,1
+2316,Swearingen SA-227AC Metro III,1
+2317,Fokker F-27 Friendship 200MP,1
+2318,Boeing 767-333ER (WL),1
+2319,Junkers R-42 (G.24),1
+2320,Curtiss TC-46A,1
+2321,Boeing 737-284,1
+2322,Britten Norman BN-2A-8 Islander,1
+2323,Douglas XC-47C-DL (DC-3),1
+2324,Douglas YC-112A-DO (DC-6),1
+2325,Douglas LC-117D,1
+2326,Grumman American G-1159 Gulfstream IISP,1
+2327,Boeing 727-173C,1
+2328,Avro Canada C102 Jetliner,1
+2329,Boeing 747-8KZF,1
+2330,Fairchild C-82 Packet,1
+2331,Convair CV-340 or CV-440,1
+2332,Beriev Be-30,1
+2333,BAC One-Eleven 414EG,1
+2334,Junkers G.38gi/fi,1
+2335,Douglas DC-3-201B,1
+2336,Grob G.180A SPn,1
+2337,Douglas DC-2A-127,1
+2338,Avia 14P,1
+2339,Boeing 737-8E9 (WL),1
+2340,Boeing 767-231ER,1
+2341,Boeing 767-323ER,1
+2342,Lockheed AC-130E Spectre,1
+2343,Embraer,1
+2344,Lockheed Learstar 1,1
+2345,T-39D Sabreliner,1
+2346,Ford 4-AT-C Tri-Motor,1
+2347,Bristol 170 Freighter XI,1
+2348,Vickers 816 Viscount,1
+2349,Avro 642 Eighteen,1
+2350,A.W. AW-650 Argosy 102,1
+2351,Vickers 739A Viscount,1
+2352,Shorts Sunderland IIIa,1
+2353,BAC One-Eleven 529FR,1
+2354,Learjet 75,1
+2355,Boeing 737-296,1
+2356,BAC One-Eleven 501EX,1
+2357,Boeing 720B,1
+2358,Fiat G.12CA,1
+2359,DHC-8-110,1
+2360,DHC-8-402Q (PF) Dash 8,1
+2361,Boeing 767-319ER,1
+2362,Beech 400A Beechjet,1
+2363,Douglas DC-3-294,1
+2364,Boeing 707-358B,1
+2365,Douglas R3D-2 (DC-5),1
+2366,Boeing 747-367,1
+2367,DH-114 Sea Heron C.1,1
+2368,Mitsubishi Mu-300 Diamond I,1
+2369,IPTN/CASA CN-235-220,1
+2370,BAe Nimrod MR.2P,1
+2371,BN-2 Defender,1
+2372,Boeing 737-330 (QC),1
+2373,Breda-Zappata BZ.308,1
+2374,Douglas AC-47/Basler 67,1
+2375,Junkers G.31ba,1
+2376,Boeing 727-222F,1
+2377,Boeing 737-330,1
+2378,Macchi C.100,1
+2379,Ilyushin Il-20,1
+2380,DHC-8-101,1
+2381,Douglas C-54R (DC-4),1
+2382,Swearingen SA226-AT Merlin IVC,1
+2383,Boeing 737-36N,1
+2384,Antonov An-30D,1
+2385,Douglas C-49H (DC-3-194B),1
+2386,Douglas HC-47A,1
+2387,Fairchild HC-123B,1
+2388,Nord 262A-27,1
+2389,Consolidated P4Y-2G Super Privateer,1
+2390,Boeing 737-209,1
+2391,Boeing 727-27C,1
+2392,Junkers Ju-52/3mreo,1
+2393,Vickers 952F Vanguard,1
+2394,Boeing 737-330 (SF),1
+2395,Grumman American G-1159 Gulfstream II B,1
+2396,Ilyushin Il-22M15,1
+2397,Boeing 747-128,1
+2398,Lockheed C-60B Lodestar,1
+2399,Boeing 737-8B6,1
+2400,Convair VC-131H Samaritan (CV-580),1
+2401,Beech Hawker BH-125-400A,1
+2402,Convair CV-340-35,1
+2403,Kawasaki C-1A,1
+2404,Airbus A300F4-605R,1
+2405,Douglas DC-3-392,1
+2406,Consolidated PA-10 Catalina (PBY-5),1
+2407,Boeing 777-236,1
+2408,Xian Yunshuji Y-7H-500,1
+2409,Boeing 727-200 ?,1
+2410,Dornier 328JET-300,1
+2411,Boeing 747-258F,1
+2412,Lockheed R5O-5 (Lodestar),1
+2413,Douglas R4D-8L (Super DC-3),1
+2414,Lockheed YP2V-7 Neptune,1
+2415,Boeing 737-112,1
+2416,Boeing 757-23N,1
+2417,Douglas DC-3-294A,1
+2418,Douglas DC-3-194C,1
+2419,Douglas DC-2-115K,1
+2420,Douglas DC-3A-453,1
+2421,Boeing 737-2H7C,1
+2422,PZL-Mielec C-145A (M28-05) Skytruck,1
+2423,Boeing 737-2A6,1
+2424,Douglas DC-3-201A,1
+2425,Hawker Siddeley HS-125-F400B,1
+2426,PZL An-28,1
+2427,Airbus A310-304ET,1
+2428,Boeing 737-36N (WL),1
+2429,BAC One-Eleven 208AL,1
+2430,Vickers 170 Vanguard,1
+2431,Dewoitine D.332,1
+2432,Douglas DC-3-232A,1
+2433,Embraer ERJ-145LR,1
+2434,Vickers 663 Viscount,1
+2435,Airbus A350-941,1
+2436,Vickers 781D Viscount,1
+2437,Antonov An-72P,1
+2438,Boeing RC-135S Cobra Ball II,1
+2439,BAC One-Eleven 523FJ,1
+2440,Boeing 737-8K5 (WL),1
+2441,Junkers F.24kay (G.24),1
+2442,T-39A-1-NO Sabreliner,1
+2443,BAe 3101 Jetstream 31EP,1
+2444,Boeing 737-490,1
+2445,Douglas C-50B (DC-3-397),1
+2446,Junkers Ju-52/3mho,1
+2447,Yakovlev Yak-40KD,1
+2448,Antonov An-225,1
+2449,Boeing 747-409F,1
+2450,Douglas DC-3-270B,1
+2451,Douglas DC-2-152,1
+2452,Douglas DC-2-115J,1
+2453,Lockheed P2V-6M Neptune,1
+2454,Let L-410AF,1
+2455,BAe-125 CC3 (HS-125-700),1
+2456,Boeing 727-82,1
+2457,CASA C-212-CC40 Aviocar 200,1
+2458,Douglas EC-47D (DC-3),1
+2459,Vickers 755D Viscount,1
+2460,Boeing 737-3L9,1
+2461,Boeing C-135A,1
+2462,Boeing 747-209B (SF),1
+2463,Tupolev Tu-144D,1
+2464,NAMC YS-11A-621,1
+2465,Boeing 727-89,1
+2466,DHC-8-103B,1
+2467,Boeing 720-058B,1
+2468,Ilyushin Il-114T,1
+2469,Boeing 737-9B5,1
+2470,Gulfstream G550,1
+2471,Ilyushin Il-96-300,1
+2472,NAMC YS-11-117,1
+2473,Boeing 747-4B5F,1
+2474,Shin Meiwa US-1A,1
+2475,Boeing 747SP-86,1
+2476,Douglas DC-3-313D,1
+2477,Boeing 707-3D3C,1
+2478,Douglas C-32A (DC-2-120),1
+2479,Vickers 761D Viscount,1
+2480,Boeing 727-78,1
+2481,Lockheed OP-3C Orion,1
+2482,Boeing 747-437,1
+2483,Junkers Ju-52/3mlu,1
+2484,Airbus A300B4-622R (F),1
+2485,Boeing 737-2T5,1
+2486,Boeing XC-97,1
+2487,Embraer EMB-135ER (ERJ-135ER),1
+2488,Hawker 1000,1
+2489,Boeing 737-95R,1
+2490,Bushmaster 2000,1
+2491,Boeing 727-2A7,1
+2492,Boeing 747-281B (SF),1
+2493,Boeing 727-232F,1
+2494,Boeing 747-467,1
+2495,NAMC YS-11A-301,1
+2496,Boeing 747-230F (SCD),1
+2497,Antonov An-32RE,1
+2498,Dassault Falcon 50EX,1
+2499,Boeing 737-3T5,1
+2500,Airbus A330-342,1
+2501,BN-2B-20 slander,1
+2502,Shaanxi Yunshuji Y-8B,1
+2503,Douglas DC-4 Swingtail,1
+2504,Boeing 747SP-09,1
+2505,Boeing C-97,1
+2506,DHC-8-311 Dash 8,1
+2507,Douglas DC-2-172,1
+2508,Boeing 737-242C,1
+2509,DH-106 Comet 3B,1
+2510,Hawker Beech 390 Premier I,1
+2511,Douglas AC-47 (DC-3),1
+2512,Boeing 707-372C,1
+2513,Ford 6-AT-AS Tri-Motor,1
+2514,Lockheed L-749-79 Constellation,1
+2515,Boeing 737-89P (WL),1
+2516,Dornier 228-212K,1
+2517,Boeing 737-2C0,1
+2518,Cessna 208 Cargomaster,1
+2519,BAe BAe-748-357 Srs. 2B SCD,1
+2520,Lockheed C-57 Lodestar,1
+2521,Canadair CRJ-100,1
+2522,Boeing 747-2H7B (SCD),1
+2523,Vickers VC10-1100,1
+2524,Antonov An-148-100B,1
+2525,Boeing 747-428(M),1
+2526,Bombardier CRJ-900LR,1
+2527,DHC-8-202Q,1
+2528,BN-2A-6R Islander,1
+2529,Consolidated P4Y-2G Privateer,1
+2530,Bristol 170 Freighter I,1
+2531,Boeing 707-344C,1
+2532,Shorts JC-23A Sherpa (330),1
+2533,Boeing KC-137E (707-324C),1
+2534,Douglas R4D-6L (DC-3),1
+2535,Lockheed PV-2T Harpoon,1
+2536,Fairchild EC-82A Packet,1
+2537,Rockwell Sabreliner 70,1
+2538,Northrop YC-125A Raider,1
+2539,DC-8-63AF,1
+2540,Boeing 767-338ER (WL),1
+2541,Douglas EC-47Q (DC-3),1
+2542,Antonov An-30A,1
+2543,CASA C-212-A1 Aviocar 200,1
+2544,CC-115 Buffalo (DHC-5),1
+2545,Fokker F-28 Fellowship 1000C,1
+2546,Boeing 767-281,1
+2547,PB2B-1 Catalina IVB,1
+2548,Lockheed Lodestar II (C-60),1
+2549,Antonov An-26KPA,1
+2550,Junkers Ju-90A,1
+2551,Morane-Saulnier MS.760B Paris II,1
+2552,Beech RC-12N Huron,1
+2553,Avcen Jetpod,1
+2554,Nord 262C-66,1
+2555,Short S.25 Sunderland III,1
+2556,Nord 262A-42,1
+2557,BAe 3212 Jetstream 31,1
+2558,Boeing 737-2E1F,1
+2559,Airbus A340-642,1
+2560,Boeing 767-324ER (WL),1
+2561,BAe BAe-748-347 Srs. 2A,1
+2562,Boeing 767-3Y0ER,1
+2563,ATECO Westwind II,1
+2564,Boeing 747-209B,1
+2565,Bombardier Global Express XRS,1
+2566,Tupolev Tu-134B,1
+2567,Airbus A321,1
+2568,Pilatus Britten Norman BN2A-26 Islander,1
+2569,Vickers 760D Viscount,1
+2570,BAC One-Eleven 518FG,1
+2571,Handley Page Hastings C.1A,1
+2572,Cessna UC-35D Citation Encore,1
+2573,CASA C-212 Aviocar,1
+2574,BAC One-Eleven 320AZ,1
+2575,Antonov An-32P,1
+2576,Boeing 747-281F (SCD),1
+2577,Boeing 747-212B (SF),1
+2578,Boeing 737-281 Adv.,1
+2579,Tupolev Tu-154S,1
+2580,Boeing 707-328B,1
+2581,Focke-Wulf Fw 200C,1
+2582,Lascurain No.4 Aura,1
+2583,Convair HC-131A (CV-240),1
+2584,Douglas DC-3-197,1
+2585,CASA C-212-A62 Aviocar 200,1
+2586,lyushin Il-76TD,1
+2587,Convair T-29C (CV-240),1
+2588,Douglas DC-3-216,1
+2589,Vickers VC10 C.1K,1
+2590,Boeing 707-121B,1
+2591,Douglas C-49K (DC-3-455),1
+2592,Douglas C-48A (DC-3C ),1
+2593,Grumman American G-1159 Gulfstream II SP,1
+2594,Boeing 747-258C,1
+2595,Douglas DC-3-277,1
+2596,Consolidated Liberator C Mk VI,1
+2597,Hawker Siddeley VU-93 (HS-125-403B),1
+2598,Boeing 727-22F,1
+2599,Handley Page HPR-7 Herald 201,1
+2600,Short Sunderland 3,1
+2601,Ilyushin Il-76MD Adnan-1,1
+2602,BAe BAe-748-401 Srs. 2B LFD,1
+2603,Boeing 737-33A (SF),1
+2604,LiorÃ©-et-Olivier H.246.1,1
+2605,Convair CV-240-27,1
+2606,Eclipse 550,1
+2607,Yakovlev Yak-40A,1
+2608,Savoia-Marchetti SM-95B,1
+2609,Boeing 737-241,1
+2610,Concorde 102,1
+2611,HESA IrAn-140,1
+2612,Boeing,1
+2613,Douglas C-53B Skytrooper (DC-3),1
+2614,Hawker Siddeley DH-125-3A,1
+2615,CASA C-212-S1 Aviocar 100,1
+2616,Boeing 747-2B3F (SCD),1
+2617,Boeing 747-428,1
+2618,BN-2A Trislander Mk.III-3,1
+2619,Boeing 767-375ER (BCF) (WL),1
+2620,Vickers 773 Viscount,1
+2621,Boeing 737-86N,1
+2622,Douglas DC-9-15F,1
+2623,NAMC YS-11A-208,1
+2624,Boeing 757-25C,1
+2625,Martin P5M-2 Marlin,1
+2626,Boeing 747-444,1
+2627,Boeing 727-259,1
+2628,Boeing 737-86Q (WL),1
+2629,Boeing 737-3M8 (WL),1
+2630,Boeing 737-2M2C,1
+2631,Boeing 737-297,1
+2632,Douglas C-50A-DO (DC-3),1
+2633,Junkers Ju-52/3mbe,1
+2634,DHC-5 Buffalo,1
+2635,Bristol 175 Britannia 308F,1
+2636,Avro 748-106 Srs. 1A,1
+2637,Boeing 737-31B,1
+2638,Viking Air DHC-6-400 Twin Otter,1
+2639,Cessna 525B CitationJet CJ3+,1
+2640,Fokker F-27 Friendship 300M,1
+2641,Boeing 777-FDZ,1
+2642,Convair CV-440-98F,1
+2643,Boeing 757-23A,1
+2644,Boeing E-6A Hermes,1
+2645,Boeing 767-323ER (WL),1
+2646,Canadair CRJ-440LR,1
+2647,Lockheed RC-121D Super Constellation,1
+2648,Douglas DC-3R,1
+2649,Douglas DC-3A-197B,1
+2650,Curtiss R-5C-1 (C-46),1
+2651,Embraer ERJ-170SE,1
+2652,Airbus A319-132,1
+2653,Douglas DC-2-115M,1
+2654,Douglas SC-47,1
+2655,Embraer EMB-500 Phenom 100E,1
+2656,Boeing 737-248C,1
+2657,Nord 262A-29,1
+2658,Douglas SC-47A (DC-3),1
+2659,BAe BAe-748-314 Srs. 2A,1
+2660,Junkers PS-5 (G.24),1
+2661,Boeing 737-85R (WL),1
+2662,AÃ©rospatiale SN.600 Corvette,1
+2663,Avia 14-40,1
+2664,NAMC YS-11A-600,1
+2665,Shaanxi Y-8F-200W,1
+2666,Boeing 737-7M2 (WL),1
+2667,Lockheed 414-08-10 Hudson IV,1
+2668,Harbin Yunshuji Y-12,1
+2669,Boeing 737-81Q (WL),1
+2670,Bombardier CRJ-200LR,1
+2671,Fairchild C-119 Flying Boxcar (R4Q),1
+2672,DHC-6 Twin Otter 200HG,1
+2673,SE-210 Caravelle 10B1R,1
+2674,Douglas DC-3-268B,1
+2675,Boeing 707-3J6B,1
+2676,Bombardier CRJ-702ER,1
+2677,Boeing 747-2U3B (SF),1
+2678,Boeing 757-28A (PCF),1
+2679,Boeing 777-2B5ER,1
+2680,Boeing 737-3B7 (SF),1
+2681,Douglas DC-8-43F,1
+2682,Convair C-131B Samaritan,1
+2683,Ilyuhsin Il-76TD,1
+2684,Douglas C-49H (DC-3-228),1
+2685,Boeing 737-33A (QC),1
+2686,Cessna 500 Citation I/SP,1
+2687,CASA C-212-MR Aviocar 200,1
+2688,Shorts SC.7 Skyvan,1
+2689,DHC-7-110,1
+2690,Airbus A300B4-120,1
+2691,Douglas DC-3-228F,1
+2692,Grumman TC-4C (G-159 Gulfstream I),1
+2693,Douglas C-52C (DC-3-402),1
+2694,Antonov An-3T,1
+2695,Douglas DC-3-217B,1
+2696,Boeing 727-224F,1
+2697,Boeing 737-217,1
+2698,Embraer ERJ-190LR (ERJ-190-100 LR),1
+2699,Lockheed MC-130E Combat Talon I,1
+2700,Boeing 747-121A,1
+2701,Boeing 747-412 (BCF),1
+2702,Fokker F.32,1
+2703,Douglas EC-47N,1
+2704,Boeing 737-8V3 (WL),1
+2705,Yakovlev Yak-40FG,1
+2706,Sikorsky S-43W,1
+2707,Boeing 747-168B,1
+2708,Airbus A300B4-605R ?,1
+2709,Antonov An-2Skh,1
+2710,Boeing 707-430,1
+2711,Boeing 747SR-81,1
+2712,Boeing 707-139,1
+2713,Ilyushin Il-20M,1
+2714,Swearingen SA-226AT Merlin IV,1
+2715,Lockheed 18 Lodestar I,1
+2716,Boeing 737-852,1
+2717,Beriev Be-200ES,1
+2718,Airbus A310-324ET,1
+2719,Vickers 657 Viking 1,1
+2720,Lockheed EC-121T Super Constellation,1
+2721,DC-9-15RC,1
+2722,Boeing 747-246F,1
+2723,T-39N Sabreliner,1
+2724,Dornier 328-120,1
+2725,CASA C-212-A27 Aviocar 200,1
+2726,Douglas C-32A (DC-2),1
+2727,Boeing 747-4B5,1
+2728,Beech B200 Catpass 250,1
+2729,Hawker Siddeley HS-125-403B,1
+2730,Antonov An-12TP-2,1
+2731,Dornier CD-01A Seastar,1
+2732,NAMC YS-11-500R,1
+2733,Convair CV-240D (T-29),1
+2734,Boeing 737-7Q8 (WL),1
+2735,YAC-1 Caribou,1
+2736,Douglas DC-3 (R4D-4),1
+2737,Junkers G.24li,1
+2738,Boeing 727-221F,1
+2739,Nord 262A-24,1
+2740,Boeing 727-214,1
+2741,Boeing 767-3BGER,1
+2742,Boeing B-17T Turbo Fortress,1
+2743,Boeing 777-281,1
+2744,Vickers 621 Viking 1,1
+2745,Lockheed EP-3E Orion,1
+2746,Boeing 737-270,1
+2747,Convair CV-240-8,1
+2748,Douglas DC-3A-399,1
+2749,Hawker Siddeley HS-125,1
+2750,Yunshuji Y-12-II,1
+2751,Boeing 737-3M8,1
+2752,Amiot AAC.1 (Junkers Ju-52/3m),1
+2753,BAe BAe-748-398 Srs. 2B,1
+2754,Farman F.180T,1
+2755,Shorts C-23B+ Sherpa (360),1
+2756,Airbus CC-150 Polaris (A310-300),1
+2757,Antonov An-26SM,1
+2758,Boeing 767-338ER,1
+2759,Boeing 767-281SF,1
+2760,Boeing 727-134,1
+2761,Boeing 767-241ER,1
+2762,Boeing 737-85P,1
+2763,DC-8-61F,1
+2764,Vickers 668 Varsity,1
+2765,Lockheed KC-130R Hercules,1
+2766,Cessna 208 Supervan,1
+2767,Bombardier CRJ-900LR (CL-600-2D24),1
+2768,Fokker F.VIIIa,1
+2769,Boeing C-97C Stratofreighter,1
+2770,BAe Nimrod R.1P,1
+2771,Boeing 727-243F,1
+2772,Douglas DC-3A-228,1
+2773,Bombardier BD-100 Challenger 350,1
+2774,Lockheed HC-130P Hercules,1
+2775,Boeing 727-193,1
+2776,Hawker Siddeley HS-125-700A,1
+2777,Boeing 737-8GK (WL),1
+2778,Vickers 651 Valetta C.1,1
+2779,Boeing 737-306,1
+2780,Junkers Ju-52/3mba,1
+2781,Bristol 170 Wayfarer II,1
+2782,Junkers G.31fi,1
+2783,Learjet,1
+2784,Boeing 737-275C Adv.,1
+2785,Vickers 644 Viking 1B,1
+2786,Breguet 761S,1
+2787,Boeing 737-214,1
+2788,Handley Page W.8,1
+2789,Boeing 727-2J0 (F),1
+2790,Vickers 756D Viscount,1
+2791,Convair CV-240-24,1
+2792,Lockheed L-749 Constellation (VC-121B),1
+2793,Canadair CL-600S Challenger 600,1
+2794,Fairchild C-119B-10-FA Flying Boxcar,1
+2795,Junkers Ju-90V2,1
+2796,Boeing 707-336B,1
+2797,Fokker F.IX,1
+2798,Hawker Siddeley VC-93 (HS-125-3B/RC),1
+2799,Douglas C-117B (DC-3),1
+2800,Airbus A321-213,1
+2801,Boeing 767-38EER,1
+2802,Boeing 747-451,1
+2803,Beech B300C Super King Air 350,1
+2804,Boeing 757-225,1
+2805,Lockheed C-130D Hercules,1
+2806,Dewoitine D.333,1
+2807,Shorts SC.7 Skyvan 3-400,1
+2808,Consolidated 28-5AC Catalina,1
+2809,Boeing 737-505,1
+2810,Lockheed CC-130H(T) Hercules,1
+2811,Boeing C-135F,1
+2812,Ilyushin Il-12T,1
+2813,Douglas AC-47B (DC-3),1
+2814,Dassault Falcon 10MER,1
+2815,CC-108 Caribou (DHC-4),1
+2816,Boeing 737-8EH (WL),1
+2817,Shaanxi KJ-200 (Y-8),1
+2818,Vought-Sikorsky VS-44,1
+2819,Boeing 737-322 (SF),1
+2820,C-7 Caribou (DHC-4),1
+2821,BAe BAe-748-371 Srs. 2B LFD,1
+2822,Boeing 707-323B,1
+2823,Boeing 737-2L9,1
+2824,DC-9-33F,1
+2825,Boeing 707-368C,1
+2826,Boeing 777-233LR,1
+2827,Lockheed XP2V-1 Neptune,1
+2828,Lockheed Lodestar IA,1
+2829,Antonov An-72TK-100,1
+2830,Boeing 767-283ER,1
+2831,Douglas C-118 (DC-6B),1
+2832,Junkers Ju-52/3mg4c,1
+2833,DHC-7-102 (O-5A),1
+2834,Boeing 777-328ER,1
+2835,Douglas Super R4D-8 (DC-3S),1
+2836,Tupolev Tu-204-100C,1
+2837,BAe-125-800SP,1
+2838,Douglas DC-3A-375,1
+2839,Focke-Wulf Fw 200KB-1,1
+2840,Canadair CRJ-702ER,1
+2841,Boeing 737-3Q8 (SF),1
+2842,BAe BAe-748-FAA Srs. 2B,1
+2843,Boeing 737-8AL,1
+2844,Boeing 727-155C,1
+2845,Boeing 737-300,1
+2846,Ilyushin Il-114,1
+2847,Rockwell Sabreliner 60SC,1
+2848,Bristol 170 Wayfarer IIA,1
+2849,Rockwell Sabreliner 75,1
+2850,Boeing 737-38J,1
+2851,Lockheed B14-S Super Electra,1
+2852,Antonov An-74TK-200,1
+2853,Boeing 707-309C,1
+2854,DC-10-40F,1
+2855,Rausch Super 18 Hudstar,1
+2856,Curtiss C-46 (R5C-1),1
+2857,Douglas C-49J-DO (DC-3-454),1
+2858,DC-9-15MC,1
+2859,Boeing 767-332ER,1
+2860,Douglas DC-2-200,1
+2861,Douglas CC-129 Dakota (DC-3),1
+2862,Douglas DC-3A-178,1
+2863,CASA C-212-AB10 Aviocar 300,1
+2864,Learjet 40,1
+2865,DH-125-1A/522,1
+2866,BAe 3212 Jetstream 32EP,1
+2867,Beech B99A,1
+2868,Tupolev Tu-134SKh,1
+2869,NAMC YS-11A-205,1
+2870,Boeing 727-171C,1
+2871,Boeing 747-219B,1
+2872,Boeing 737-6D6,1
+2873,CASA C-212-DE Aviocar 200,1
+2874,Douglas EC-54U (DC-4),1
+2875,Boeing C-97L,1
+2876,Cessna U-27A Caravan I,1
+2877,Fokker 70,1
+2878,Boeing 747-267B,1
+2879,Junkers Ju-52/3mg11,1
+2880,Viking DHC-6 Twin Otter 400,1
+2881,Spartan Ventura,1
+2882,Alenia C-27J Spartan,1
+2883,Sikorsky S.41B,1
+2884,Boeing 727-225F,1
+2885,Fairchild SA227-BC Metro III (C-26B),1
+2886,Tupolev ANT-20bis,1
+2887,Embraer C-95C Bandeirante (EMB-110P2),1
+2888,Douglas R5D (DC-4),1
+2889,Douglas DC-8-33AF,1
+2890,Antonov An-12RR,1
+2891,Boeing 747-306M,1
+2892,Boeing 777-228ER,1
+2893,Boeing 707-227,1
+2894,Boeing 727-2K3,1
+2895,Avia 14(P),1
+2896,Boeing 737-75B,1
+2897,Boeing 747-412F (SCD),1
+2898,Boeing 737-809,1
+2899,Boeing 747-228F (SCD),1
+2900,Consolidated Catalina GR.IIA,1
+2901,Beech UC-12B Huron,1
+2902,Antonov TR-301,1
+2903,Bristol 175 Britannia 301,1
+2904,Douglas DC-2,1
+2905,Boeing 707-465,1
+2906,Caproni Ca.133,1
+2907,Douglas C-50-DO (DC-3),1
+2908,Fairchild R4Q Flying Boxcar (C-119),1
+2909,Convair CV-340,1
+2910,Boeing 737-824 (WL),1
+2911,Airbus A310-204,1
+2912,Lockheed C-57B-LO Lodestar,1
+2913,Airbus A340-212,1
+2914,Boeing 737-3A4,1
+2915,Short Sunderland 5,1
+2916,PB2B-1 Canso B,1
+2917,Boeing 737-332,1
+2918,Boeing 747-3B5,1
+2919,Grumman American G-1159 Gulfstream II TT,1
+2920,Douglas C-50A (DC-3-401),1
+2921,Fokker 100 ?,1
+2922,Nord 262A-33,1
+2923,Potez 840,1
+2924,Convair CV-340-13,1
+2925,Antonov An-140-100,1
+2926,Boeing E-3C Sentry (707-300),1
+2927,Douglas AC-47D (DC-3),1
+2928,Boeing 747-2D7B,1
+2929,Boeing 737-2T2,1
+2930,Baade 152,1
+2931,Boeing 777-35EER,1
+2932,Vickers 833 Viscount,1
+2933,Short S.23 Empire Flying Boat Mk II,1
+2934,BAe BAe-748-335 Srs. 2A SCD,1
+2935,Douglas C-50C,1
+2936,Boeing 777-3B5ER,1
+2937,Douglas DC-3-220B,1
+2938,SNCASO S.O.94R Corse II,1
+2939,Lockheed KC-130T Hercules,1
+2940,Kaiser-Frazer AC-119G Shadow,1
+2941,Boeing 777-36NER,1
+2942,Douglas DC-3A-197C,1
+2943,Convair CV-240-17,1
+2944,Tupolev ANT-20 Maxim Gorky,1
+2945,Lockheed C-141A Starlifter,1
+2946,Dassault Falcon 20F-5,1
+2947,Boeing 737-76J (WL),1
+2948,Boeing 777-268,1
+2949,Vickers 808 Viscount,1
+2950,Lockheed P2V-7S Neptune,1
+2951,Boeing 747-312,1
+2952,Airbus A330-323X,1
+2953,CC-138 Twin Otter (DHC-6),1
+2954,Focke-Wulf Fw 200D-2,1
+2955,Lockheed SP-2 Neptune,1
+2956,Tupolev Tu-134 ?,1
+2957,Douglas DC-2-199,1
+2958,CASA CN-235-200,1
+2959,Boeing 767-3W0ER,1
+2960,Boeing 737-204C,1
+2961,Boeing 707-337C,1
+2962,Curtiss B-2 Condor (Condor 18),1
+2963,Consolidated Tp 47 Canso (PBY-5A),1
+2964,Shorts SC.7 Skyvan 3,1
+2965,NAMC YS-11A-217,1
+2966,Beech B200T Super King Air,1
+2967,Boeing 737-2A9,1
+2968,Fokker F-28 Fellowship 3000R,1
+2969,DC-8-63PF,1
+2970,GAF Nomad N.24,1
+2971,Douglas DC-3-214,1
+2972,Lockheed C-130F Hercules,1
+2973,Vickers 818 Viscount,1
+2974,BAe BAe-748-372 Srs. 2B,1
+2975,Boeing 757-204,1
+2976,Boeing 707-3B5C,1
+2977,Learjet 40XR,1
+2978,Excel-Jet Sport-Jet,1
+2979,Boeing 707-355C,1
+2980,Douglas DC-3-362,1
+2981,Junkers Ju-90V3,1
+2982,Grumman HU-16 Albatross,1
+2983,Bristol 175 Britannia 101,1
+2984,Boeing 737-7BD (WL),1
+2985,Handley Page HPR-7 Herald 204,1
+2986,Boeing 707-369C,1
+2987,Boeing 737-8AS,1
+2988,SNCAC NC.211 Cormoran,1
+2989,Canadair CC-144A Challenger 601,1
+2990,Douglas DC-3A-197E,1
+2991,Beech Tp 101 (200C Super King Air),1
+2992,Boeing 747-131,1
+2993,Lockheed VC-60A Lodestar,1
+2994,unknown jetliner,1
+2995,Lockheed RC-121C Super Constellation,1
+2996,Consolidated KM-2 (PBN-1 Nomad),1
+2997,Lockheed YMC-130H Hercules,1
+2998,Martin JRM-1 Mars,1
+2999,Embraer ERJ-190-100LR,1
+3000,Lockheed C-130M Hercules,1
+3001,Boeing KC-97L,1
+3002,Boeing 737-244,1
+3003,Ilyushin Il-76MD Simorgh,1
+3004,Douglas DC-8-12,1
+3005,Boeing 767-2S1ER,1
+3006,Vickers 952 Vanguard,1
+3007,Vickers Super VC10-1154,1
+3008,Boeing 767,1
+3009,Mohawk 298 (Nord 262),1
+3010,Boeing 747-121 (SCD),1
+3011,Boeing 737-5L9,1
+3012,Convair VT-29A (CV-240),1
+3013,Boeing 767-3P6ER,1
+3014,PZL-Mielec M28TD Bryza 2RF,1
+3015,DHC-3T Cox Turbine Otter,1
+3016,Boeing 767-38E,1
+3017,Boeing 747-283M,1
+3018,Boeing 707-321F,1
+3019,Lockheed L-749-79-46 Constellation,1
+3020,Fairchild FH-227,1
+3021,Douglas Dakota IIIS&R (DC-3),1
+3022,Grumman SHU-16B Albatross,1
+3023,Boeing 737-317,1
+3024,Boeing 777-367ER,1
+3025,Lockheed L-1049D Super Constellation,1
+3026,DH-114 Heron 2,1
+3027,Douglas C-53C Skytrooper (DC-3),1
+3028,Douglas C-48C (DC-3),1
+3029,Lockheed L-1329-23E JetStar 8,1
+3030,Ilyushin Il-18Gr,1
+3031,Boeing 777-3F2ER,1
+3032,Boeing 720-022,1
+3033,Douglas DC-8-52F,1
+3034,Lockheed P-3F Orion,1
+3035,Boeing 737-4L7,1
+3036,Boeing EC-97G,1
+3037,Boeing 757-251,1
+3038,Fiat G.12LGA,1
+3039,CASA C-207C (T.7) Azor,1
+3040,Canadair CC-144A Challenger 600,1
+3041,Vickers VC10-1102,1
+3042,Lockheed CP-140 Aurora,1
+3043,Cessna 208 Supervan 900,1
+3044,Airbus A400M Atlas,1
+3045,Boeing NKC-135A,1
+3046,Boeing 737-33A (WL),1
+3047,Avro 688 Tudor 4B,1
+3048,Fokker F-28 Fellowship,1
+3049,Vickers 620 Viking 1,1
+3050,Higgins Boat Co. C-46A-1-HI,1
+3051,Embraer ERJ-195,1
+3052,Antonov An-148-100E,1
+3053,Howard 250 Tri-Gear,1
+3054,Junkers G.31de,1
+3055,Howard Eldorado 700,1
+3056,Douglas LC-47A (DC-3),1
+3057,Bombardier CRJ-900,1
+3058,BAe-146-200QT,1
+3059,Boeing 727-277F,1
+3060,NAMC YS-11A-300F,1
+3061,Vickers 835 Viscount,1
+3062,BAC One-Eleven 516FP,1
+3063,NAMC YS-11A-320,1
+3064,Ilyushin Il-14LIK,1
+3065,Junkers Ju-52m/3,1
+3066,BAe BAe-748-329 Srs. 2A LFD,1
+3067,NAMC YS-11-102,1
+3068,Boeing 727-2M7,1
+3069,VFW/Fokker VFW.614,1
+3070,Antonov An-30M,1
+3071,Avro 689 Tudor 2,1
+3072,Boeing 777-312ER,1
+3073,Harbin Yunshuji Y-11,1
+3074,Airbus A310-300,1
+3075,Shorts 330-300UTT,1
+3076,Curtiss YC-30 Condor II,1
+3077,Douglas DC-8-55,1
+3078,Boeing 737-2A9C,1
+3079,BAC One-Eleven 510ED,1
+3080,Caproni Ca.60 Noviplano,1
+3081,Boeing 767-34AF,1
+3082,Boeing 727-30C,1
+3083,BAe BAe-748-402 Srs. 2B LFD,1
+3084,Airbus A340-313X,1
+3085,Convair CV-440F SCD,1
+3086,Cessna UC-35A (Cessna 560 Citation V Ultra),1
+3087,Douglas C-47 (VC-117B) (DC-3),1
+3088,Boeing 757-351 (WL),1
+3089,Raytheon U-125 (Hawker 800),1
+3090,IAI 1124Â Westwind,1
+3091,Lockheed R7V-2 Super Constellation,1
+3092,KC-10A Extender,1
+3093,Boeing 737-8HO (WL),1
+3094,Boeing 767-209,1
+3095,GAF Nomad N.22SL,1
+3096,Boeing 747-271C (SCD),1
+3097,Douglas R4D-5Z (DC-3),1
+3098,Ilyushin Il-12 ?,1
+3099,Douglas DC-3-220A,1
+3100,Felixstowe Fury,1
+3101,GAF Nomad N.22BFP,1
+3102,Aero Spacelines 377MGT Mini Guppy Turbine,1
+3103,Vickers 769D Viscount,1
+3104,Fokker F.XX,1
+3105,Let L-410UVP-E19A,1
+3106,Gulfstream G650ER,1
+3107,Handley Page HP.68 Hermes 1,1
+3108,Boeing 720-040B,1
+3109,Boeing 777-246ER,1
+3110,Alenia G-222RM,1
+3111,Boeing 737-3K9,1
+3112,Dassault Falcon 20F-5B,1
+3113,Boeing 747-2B5B,1
+3114,Douglas DC-3A-269B,1
+3115,Antonov An-74TK-100,1
+3116,Bombardier E-11A (Global Express),1
+3117,Martin JRM-2 Mars,1
+3118,Sukhoi Superjet 100-95,1
+3119,Douglas C-49A (DC-3),1
+3120,Avro Shackleton AEW.2,1
+3121,Kawasaki P-3C-II.5 Orion,1
+3122,Douglas R4D (DC-3),1
+3123,Lockheed KC-130H Hercules,1
+3124,Dornier Do 128-6MPA Turbo Skyservant,1
+3125,Lockheed C-111 Super Electra,1
+3126,Lockheed MC-130P Combat Shadow,1
+3127,Sikorsky S-42A,1
+3128,BAe 3109 Jetstream 31,1
+3129,Avro RJ70,1
+3130,Douglas DC-3B-202A,1
+3131,Ilyushin Il-18D-40,1
+3132,Howard Cargo Harpoon,1
+3133,Avro 691 Lancastrian B.3,1
+3134,Lockheed C-130H2 Hercules,1
+3135,Kalinin K-7,1
+3136,Boeing 720-051B,1
+3137,Lockheed HerculesÂ C.3P (C-130K),1
+3138,DH-114 Prinair Heron 2,1
+3139,Boeing 737-36M,1
+3140,Antonov An-2S,1
+3141,Boeing 727-230F,1
+3142,Potez 621,1
+3143,Boeing 727-287,1
+3144,Boeing 737-436 (SF),1
+3145,Boeing 777-F6N,1
+3146,DH-114 Prinair Heron 2B,1
+3147,Airbus A300B4-601,1
+3148,Boeing 720-027,1
+3149,Canadair CC-109 Cosmopolitan,1
+3150,Boeing 737-2A8F,1
+3151,Hawker Siddeley BH-125-400A,1
+3152,Junkers G.24he,1
+3153,Sabca (Handley Page) W.8B,1
+3154,Kaiser-Frazier C-119F Flying Boxcar,1
+3155,Lockheed HC-130H7 Hercules,1
+3156,Boeing 767-3S2FER,1
+3157,Boeing 757-2Q8,1
+3158,Handley Page HP-137 Jetstream T.2,1
+3159,Boeing 747-209F,1
+3160,Douglas DC-3-191A,1
+3161,Airbus A310-203,1
+3162,ATR 72-212 (F),1
+3163,Douglas DC-3-270,1
+3164,IAI Arava 101B,1
+3165,CASA CN-235-100,1
+3166,SNCAC (Farman) NC.223.4,1
+3167,Airbus A310,1
+3168,Convair CV-340-62,1
+3169,Sunderland Mk II,1
+3170,Focke-Wulf Fw 200C-4,1
+3171,Beech LR-2 (B300 King Air 350),1
